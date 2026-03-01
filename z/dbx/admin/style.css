@@ -1,0 +1,31 @@
+<!--
+body {	color: #113322; 
+	line-height: 1.5em; 
+	background: url('img/sels.jpg'); 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+a:link, a:visited, a:link {text-decoration: none; color: #003399}
+a:hover {text-decoration: none; color: #ff0099}
+h1      {font-size: 18px; font-family: "Century Gothic"; color: #666666; }
+h4	{margin-left: 20px; font-size: 14px;}
+td      {line-height: 1.5em; font-size: 12px}
+.bg     {color: #ffffff; font-size: 12px }
+.maindiv {border-style: solid; border-width: 0px 0px 0px 1px; border-color: #226655; font-size: 12px}
+.st     {background: #3366cc; color: #ffffff; font-size: 12px}
+.white  {
+	color: #000000; 
+	font-size: 12px; 
+	border: 1px solid #ffffff; 
+}
+.black  {background: #000000; font-size: 12px}
+.err    {background: pink; line-height: 1.5em; font-size: 12px}
+.menu   {background: white; font-size: 12px}
+.silver {background: silver; font-size: 12px}
+.list1  {text-indent: -10px; margin-left: 14px}
+.list2  {text-indent: -10px; margin-left: 20px}
+.i_lit	{border: 1px solid gray; background: #eeeeee}
+.bane	{
+	color: #000000;
+}
+-->

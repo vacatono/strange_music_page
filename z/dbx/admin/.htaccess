@@ -1,0 +1,5 @@
+AuthUserFile /home/vacatono/www/z/dbx/admin/.htpasswd
+AuthGroupFile /dev/null
+AuthName "input your area"
+AuthType Basic
+require valid-user

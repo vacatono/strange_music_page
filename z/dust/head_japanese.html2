@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=SHIFT_JIS">
+<title>strange music page</title>
+<base target="_top">
+<link rel="stylesheet" type="text/css" href="style1.css">
+<script type="text/javascript">
+<!--
+function OnNav(n){
+        document.images[ "navi_" + n ].src = "img/greenline.gif";
+        }
+function OutNav(n){
+        document.images[ "navi_" + n ].src = "img/blankline.gif";
+        }
+function StayNav(n){
+        document.images[ "navi_" + n ].src = "img/blueline.gif";
+        }
+// -->
+</script>
+</head>
+
+<body bgcolor="#ffffff" text="#003366" link="#006666" alink="#006666" vlink="#006666" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+<table border="0" cellpadding="1" cellspacing="0" align="center" bordercolor="#ccccff">
+<tr>
+
+<td width="100%"> </td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_1" align="top"><br><a href="recently.html" onMouseOver="OnNav(1)" onMouseOut="OutNav(1)">new<br>diary</a></td><td><img src="img/blank12px.gif"></td>
+<td align="center" valign="center"><img src="img/blueline.gif" name="navi_2" align="top"><br><a href="music/index.html" onMouseOver="OnNav(2)" onMouseOut="StayNav(2)">japanese<br>strange</a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_3" align="top"><br><a href="sympho/index.html" onMouseOver="OnNav(3)" onMouseOut="OutNav(3)">japs'<br>progre.</a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_4" align="top"><br><a href="progre/index.html" onMouseOver="OnNav(4)" onMouseOut="OutNav(4)">oversea<br>progre.<br></a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_5" align="top"><br><a href="canterbury/index.html" onMouseOver="OnNav(5)" onMouseOut="OutNav(5)">canterbury<br>music</a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_6" align="top"><br><a href="smusic/index.html" onMouseOver="OnNav(6)" onMouseOut="OutNav(6)">oversea<br>strange</a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_7" align="top"><br><a href="live.html" onMouseOver="OnNav(7)" onMouseOut="OutNav(7)">live<br>report<br></a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_8" align="top"><br><a href="link.html" onMouseOver="OnNav(8)" onMouseOut="OutNav(8)">link<br><br></a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_9" align="top"><br><a href="bbs.html" onMouseOver="OnNav(9)" onMouseOut="OutNav(9)">bbs<br><br></a></td>
+<td align="center" valign="center"><img src="img/blankline.gif" name="navi_10" align="top"><br><a href="index.html" onMouseOver="OnNav(10)" onMouseOut="OutNav(10)">top<br><br></a></td>
+</tr>
+</table>
+</body>
+</html>
