@@ -1,0 +1,47 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'strange music page - ライブレポートアーカイブ 1993-2014' } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <title>{title} | strange music page</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;700&family=M+PLUS+1+Code&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles/global.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="site-title">
+        <span class="site-title-main">strange music page</span>
+        <span class="site-title-sub">live reports archive 1993-2014</span>
+      </a>
+      <nav class="site-nav">
+        <a href="/">トップ</a>
+        <a href="/years/">年別</a>
+        <a href="/artists/">アーティスト</a>
+        <a href="/venues/">会場</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>strange music page &copy; live reports archive</p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { toSlug } from '../../utils/slug';
+
+export async function getStaticPaths() {
+  const reports = await getCollection('livereports');
+
+  const slugMap = new Map<string, { name: string; reports: typeof reports }>();
+  for (const r of reports) {
+    const venue = r.data.venue;
+    if (!venue) continue;
+    const slug = toSlug(venue);
+    if (!slug) continue;
+    if (!slugMap.has(slug)) {
+      slugMap.set(slug, { name: venue, reports: [] });
+    }
+    slugMap.get(slug)!.reports.push(r);
+  }
+
+  return [...slugMap.entries()].map(([slug, { name, reports }]) => ({
+    params: { venue: slug },
+    props: {
+      name,
+      reports: reports.sort((a, b) => b.data.date.getTime() - a.data.date.getTime()),
+    },
+  }));
+}
+
+const { name, reports } = Astro.props;
+---
+
+<BaseLayout title={`${name} のライブレポート`}>
+  <a href="/venues/" class="back-link">← 会場一覧へ</a>
+  <h1 class="page-title">{name}</h1>
+  <p class="page-subtitle">{reports.length}件のライブレポート</p>
+
+  {reports.map((report: any) => (
+    <a href={`/livereports/${report.id}/`} class="report-card">
+      <div class="report-card-date">
+        {report.data.date.toISOString().slice(0, 10)}
+      </div>
+      <div class="report-card-title">{report.data.title}</div>
+    </a>
+  ))}
+</BaseLayout>

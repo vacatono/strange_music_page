@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { toSlug } from '../../utils/slug';
+
+const reports = await getCollection('livereports');
+
+const venueCounts = new Map<string, number>();
+for (const r of reports) {
+  const venue = r.data.venue;
+  if (venue) {
+    venueCounts.set(venue, (venueCounts.get(venue) || 0) + 1);
+  }
+}
+
+const venues = [...venueCounts.entries()]
+  .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+---
+
+<BaseLayout title="会場一覧">
+  <a href="/" class="back-link">← トップへ</a>
+  <h1 class="page-title">会場一覧</h1>
+  <p class="page-subtitle">{venues.length}ヶ所の会場</p>
+
+  <ul class="tag-list">
+    {venues.map(([name, count]) => (
+      <li>
+        <a href={`/venues/${toSlug(name)}/`} class="tag-link">
+          {name}<span class="tag-count">({count})</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>

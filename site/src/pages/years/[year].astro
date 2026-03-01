@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const reports = await getCollection('livereports');
+
+  const years = new Set<number>();
+  for (const r of reports) {
+    years.add(r.data.date.getFullYear());
+  }
+
+  return [...years].map(year => ({
+    params: { year: String(year) },
+    props: {
+      year,
+      reports: reports
+        .filter(r => r.data.date.getFullYear() === year)
+        .sort((a, b) => a.data.date.getTime() - b.data.date.getTime()),
+    },
+  }));
+}
+
+const { year, reports } = Astro.props;
+---
+
+<BaseLayout title={`${year}年のライブレポート`}>
+  <a href="/years/" class="back-link">← 年別一覧へ</a>
+  <h1 class="page-title">{year}年</h1>
+  <p class="page-subtitle">{reports.length}件のライブレポート</p>
+
+  {reports.map((report: any) => (
+    <a href={`/livereports/${report.id}/`} class="report-card">
+      <div class="report-card-date">
+        {report.data.date.toISOString().slice(0, 10)}
+      </div>
+      <div class="report-card-title">{report.data.title}</div>
+      {report.data.venue && (
+        <div class="report-card-venue">{report.data.venue}</div>
+      )}
+    </a>
+  ))}
+</BaseLayout>

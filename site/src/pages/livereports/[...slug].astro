@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+import { toSlug } from '../../utils/slug';
+
+export async function getStaticPaths() {
+  const reports = await getCollection('livereports');
+  return reports.map(report => ({
+    params: { slug: report.id },
+    props: { report },
+  }));
+}
+
+const { report } = Astro.props;
+const { Content } = await render(report);
+
+const dateStr = report.data.date.toISOString().slice(0, 10);
+const year = report.data.date.getFullYear();
+---
+
+<BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - ライブレポート`}>
+  <a href={`/years/${year}/`} class="back-link">← {year}年のレポートへ</a>
+
+  <article>
+    <div class="report-header">
+      <h1 class="page-title">{report.data.title}</h1>
+      <div class="report-meta">
+        <span class="report-meta-item">📅 {dateStr}</span>
+        {report.data.venue && (
+          <span class="report-meta-item">📍 <a href={`/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
+        )}
+        <span class="report-meta-item">📝 {report.data.source === 'wordpress' ? 'WordPress' : 'HTML版'}</span>
+      </div>
+
+      {report.data.artists && report.data.artists.length > 0 && (
+        <div style="margin-top: 0.75rem;">
+          <ul class="tag-list">
+            {report.data.artists.map((artist: string) => (
+              <li>
+                <a href={`/artists/${toSlug(artist)}/`} class="tag-link">{artist}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+
+    <div class="report-body">
+      <Content />
+    </div>
+
+    {report.data.setlist && report.data.setlist.length > 0 && (
+      <div class="report-body">
+        <h2>セットリスト</h2>
+        <ol>
+          {report.data.setlist.map((song: string) => (
+            <li>{song}</li>
+          ))}
+        </ol>
+      </div>
+    )}
+  </article>
+</BaseLayout>

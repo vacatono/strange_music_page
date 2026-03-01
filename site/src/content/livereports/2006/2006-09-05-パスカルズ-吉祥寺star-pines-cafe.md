@@ -1,0 +1,55 @@
+---
+title: "パスカルズ @吉祥寺STAR PINE’S CAFE"
+date: 2006-09-05
+venue: "吉祥寺STAR PINE’S CAFE"
+source: "wordpress"
+artists:
+  - "坂本弘道"
+---
+
+#前々から見たい見たいと思っていたパスカルズのライブによーやっと行ってきました。ヨーロッパツアー帰りなのね。
+
+美尾さんはゲスト扱いだけど、総勢15名のの大楽団。おもちゃのような音色で物凄くおおらかな音楽。「パスカルズ」って名前の由来ははPascal Comelade（フランスのトイピアノの偉い人）からみたいですけど、とても日本的な音です。
+
+難しい事とかは何にも無くって、大人数の中から各メンバーのユニークな人柄がちょこちょことのぞき出てくるよーな、そんな感じで（石川さんは出しっぱなしだけど）
+
+CDも気に入ってるのですけど、良いライブを見たなーと思います。今年見たライブの中でもベスト３に入るくらいかも。
+
+あとこの日の殊勲賞は、たぶんメンバーの中のどなたかの子供。ステージの後ろをチョロチョロして、最後にはノリノリでたまの石川さんのおなかをペチペチ叩いてました。
+
+和んだ。  
+
+  
+-   ロケット・マツ (pianica,accordion,piano)
+  
+-   あかね (toy piano,vocals)
+  
+-   金井太郎 (guitars)
+  
+-   知久寿焼 (ukulele,口琴,vocals)
+  
+-   原さとし (banjo)
+  
+-   松井亜由美 (violin)
+  
+-   クリスチィヌ (violin)
+  
+-   うつお (violin,recorder)
+  
+-   大竹サラ (violin,recorder)
+  
+-   坂本弘道 (cello)
+  
+-   三木黄太 (cello)
+  
+-   永畑風人 (trumpet,soprano sax)
+  
+-   石川浩司 (percussions)
+  
+-   横澤龍太郎 (drums)
+  
+-   美尾洋乃 (violin)
+  
+
+  
+( [http://pascals1.hp.infoseek.co.jp](http://pascals1.hp.infoseek.co.jp) )
