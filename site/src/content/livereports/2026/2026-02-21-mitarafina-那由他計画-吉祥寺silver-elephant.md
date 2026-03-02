@@ -37,6 +37,9 @@ artists:
 
 ### 那由他計画
 
+吉祥寺シルエレで那由他計画観てきました。いやー圧巻の内容でした。
+昔ここでプロビデンスを観てて、30年以上経ってまたこんなライブを観戦できるとは。
+
 1. Birth of Love
 2. Call to Awaken
 3. Beyond Boundaries
