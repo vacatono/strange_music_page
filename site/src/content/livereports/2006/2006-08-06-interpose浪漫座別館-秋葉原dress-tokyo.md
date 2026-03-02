@@ -1,17 +1,24 @@
 ---
-title: "interpose+,浪漫座別館 @秋葉原dress Tokyo"
+title: 'interpose+, 浪漫座別館 @秋葉原dress Tokyo'
 date: 2006-08-06
-venue: "秋葉原dress Tokyo"
-source: "wordpress"
+venue: '秋葉原dress Tokyo'
+source: 'wordpress'
+artists:
+  - 'interpose+'
+  - '中嶋一晃'
+  - '浜田勝徳'
+  - '泉谷賢'
+  - '北白川妙朗'
+  - '中嶋秀行'
+  - 'ひな'
 ---
 
 えーとそんな訳で1日置いてまた秋葉原へ。3日連続ライブハウスなんて久々だなぁ。
 
-interpose+ 対 浪漫座別館のライブ。かなりキャパギリギリのdress Tokyoにて。  
+interpose+ 対 浪漫座別館のライブ。かなりキャパギリギリのdress Tokyoにて。
 
 #### interpose+
 
-  
 結構遅れて行ったので、最後の方しか見れなかったのですけど。
 
 　**すっげー良くなってた！！！**
@@ -23,7 +30,6 @@ interpose+ 対 浪漫座別館のライブ。かなりキャパギリギリのdr
 
 #### 浪漫座別館
 
-  
 んで浪漫座別館。たぶん曲目は↓みたいな感じ（何曲か入れ替わってるかも）
 
 第一部: アルバム曲コーナー  
@@ -55,21 +61,13 @@ interpose+ 対 浪漫座別館のライブ。かなりキャパギリギリのdr
 そしてやっぱりキタ、やっとキタ「セルロイドの空」あのギターフレーズに客という客がみんな反応してたのが可笑しかった。みんな好きなんだなー。  
 別館ではあんまりページェント曲やらないとの事ですけど、もう堂々したモノでした。
 
-ページェントの曲じゃなくて浪漫座の曲で締めたのは、「懐メロバンドじゃないんだぜ」とかそーゆーことかな？いやいや十分現役ですよ。  
+ページェントの曲じゃなくて浪漫座の曲で締めたのは、「懐メロバンドじゃないんだぜ」とかそーゆーことかな？いやいや十分現役ですよ。
 
-  
--   ひな (vocals)
-  
--   中嶋一晃 (guitars)
-  
--   浜田勝徳 (bass)
-  
--   泉谷賢 (drums)
-  
--   北白川妙朗 (keyboards)
-  
--   中嶋秀行 (vocals,percussions)
-  
+- ひな (vocals)
+- 中嶋一晃 (guitars)
+- 浜田勝徳 (bass)
+- 泉谷賢 (drums)
+- 北白川妙朗 (keyboards)
+- 中嶋秀行 (vocals,percussions)
 
-  
 ( [http://www1.odn.ne.jp/romanza/](http://www1.odn.ne.jp/romanza/) )

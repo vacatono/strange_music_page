@@ -3,10 +3,10 @@ import { defineCollection, z } from 'astro:content';
 const livereports = defineCollection({
   type: 'content',
   schema: z.object({
-    title: z.string(),
-    date: z.coerce.date(),
+    title: z.string().optional(),
+    date: z.coerce.date().optional(),
     venue: z.string().optional().default(''),
-    source: z.enum(['html', 'wordpress']),
+    source: z.enum(['html', 'wordpress', 'fb', 'manual', 'twitter']).optional(),
     artists: z.array(z.string()).optional().default([]),
     setlist: z.array(z.string()).optional().default([]),
   }),
