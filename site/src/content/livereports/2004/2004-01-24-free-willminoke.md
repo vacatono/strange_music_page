@@ -1,8 +1,8 @@
 ---
-title: "Free Will,minoke? @ 吉祥寺SILVER ELEPHANT"
+title: 'Free Will,minoke? @ 吉祥寺Silver Elephant'
 date: 2004-01-24
-venue: "吉祥寺SILVER ELEPHANT"
-source: "html"
+venue: '吉祥寺Silver Elephant'
+source: 'html'
 ---
 
 シルエレについた時点で、最初の２バンドはもう終わってました。interpose+はちょっと見たかったんですけど、残念。
@@ -22,4 +22,3 @@ source: "html"
 フレーズのループを組み立ててくよな感じのキーボードのフレーズが印象的かな？派手な音ではないですけど、自分は結構好きです。もーちょい音色にバリエーション有っても良いかもとか思ったけど。
 
 あ、会場でminoke?のCD-Rを売ってたんで買ってきました。
-

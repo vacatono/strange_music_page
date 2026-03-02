@@ -1,17 +1,17 @@
 ---
-title: "Warehouse,Uz Jsme Doma @ 吉祥寺MANDALA-2"
+title: 'Warehouse,Uz Jsme Doma @ 吉祥寺MANDA-LA2'
 date: 2003-10-12
-venue: "吉祥寺MANDALA-2"
-source: "html"
+venue: '吉祥寺MANDA-LA2'
+source: 'html'
 artists:
-  - "鬼怒無月"
-  - "高良久美子"
-  - "大坪寛彦"
-  - "Radek Podvesky"
-  - "Petr Bohm"
-  - "Miroslav Wanek"
-  - "Milos Albrecht"
-  - "Martin Velisek"
+  - '鬼怒無月'
+  - '高良久美子'
+  - '大坪寛彦'
+  - 'Radek Podvesky'
+  - 'Petr Bohm'
+  - 'Miroslav Wanek'
+  - 'Milos Albrecht'
+  - 'Martin Velisek'
 ---
 
 チェコのUz Jsme Doma（「ウシュ・スマイ・ドマ」と読むらしいです）の来日公演。何だかよく分からないけど行ってきました。
@@ -40,4 +40,3 @@ artists:
 - Miroslav Wanek (guitars,keyboard,vocal)
 - Milos Albrecht (bass,vocals)
 - Martin Velisek (painting)
-

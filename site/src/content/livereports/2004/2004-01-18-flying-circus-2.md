@@ -1,14 +1,14 @@
 ---
-title: "flying circus @ 吉祥寺SILVER ELEPHANT"
+title: 'flying circus @ 吉祥寺Silver Elephant'
 date: 2004-01-18
-venue: "吉祥寺SILVER ELEPHANT"
-source: "html"
+venue: '吉祥寺Silver Elephant'
+source: 'html'
 setlist:
-  - "Watcher of The Skies"
+  - 'Watcher of The Skies'
   - "Get'em Out By Friday"
-  - "The Return of The Giant Hogweed"
-  - "Musical Box"
-  - "The Knife"
+  - 'The Return of The Giant Hogweed'
+  - 'Musical Box'
+  - 'The Knife'
 ---
 
 このイベントはsatomilkさんに「ライヴをやるのだが、客入れの時とかにDJをやらないか」とかいう話でプログレのCDばっかりシルエレに持ち込んで、あんまり誰も聴いてないだろとか思いつつDJやらせていただきました。関係者の方、来てくれた方、有難うございました。
@@ -83,4 +83,3 @@ Heldon/Marie et Virginie
 3. The Return of The Giant Hogweed
 4. Musical Box
 5. The Knife
-

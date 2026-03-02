@@ -1,26 +1,26 @@
 ---
-title: "Lars Hollmer,オバピニア,Cleee @ 吉祥寺MANDALA-2"
+title: 'Lars Hollmer,オバピニア,Cleee @ 吉祥寺MANDA-LA2'
 date: 2000-12-04
-venue: "吉祥寺MANDALA-2"
-source: "html"
+venue: '吉祥寺MANDA-LA2'
+source: 'html'
 artists:
-  - "清水一登"
-  - "鬼怒無月"
-  - "芳垣安洋"
-  - "Cleee"
-  - "北村昌士"
-  - "Lars Hollmer"
-  - "桑原重和"
-  - "荻野和夫"
-  - "立石潤三"
-  - "上野朋洋"
-  - "伏見蛍"
+  - '清水一登'
+  - '鬼怒無月'
+  - '芳垣安洋'
+  - 'Cleee'
+  - '北村昌士'
+  - 'Lars Hollmer'
+  - '桑原重和'
+  - '荻野和夫'
+  - '立石潤三'
+  - '上野朋洋'
+  - '伏見蛍'
 setlist:
-  - "情熱の通り雨 ムード歌謡バージョン"
-  - "johnson blues"
-  - "Blivits"
-  - "シャケ(鬼怒さんの曲)"
-  - "最低人バリエーション"
+  - '情熱の通り雨 ムード歌謡バージョン'
+  - 'johnson blues'
+  - 'Blivits'
+  - 'シャケ(鬼怒さんの曲)'
+  - '最低人バリエーション'
 ---
 
 会社は18:00ジャストに逃げました。Sammla Mammas MannaのL.Hollmerの来日。でも実は目当てはオパピニア、メンツはこんな感じ。
@@ -68,4 +68,3 @@ setlist:
 3. Blivits
 4. シャケ(鬼怒さんの曲)
 5. 最低人バリエーション
-

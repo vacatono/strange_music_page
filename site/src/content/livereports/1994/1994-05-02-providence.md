@@ -1,7 +1,7 @@
 ---
-title: 'PROVIDENCE @ 吉祥寺SILVER ELEPHANT'
+title: 'PROVIDENCE @ 吉祥寺Silver Elephant'
 date: 1994-05-02
-venue: '吉祥寺SILVER ELEPHANT'
+venue: '吉祥寺Silver Elephant'
 source: 'html'
 artists:
   - '塚田円'
