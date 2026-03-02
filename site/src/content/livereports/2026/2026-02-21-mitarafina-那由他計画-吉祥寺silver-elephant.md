@@ -18,6 +18,8 @@ artists:
 
 ### Mitaraphina
 
+「蜃気楼」という曲が素敵。
+
 1. The End Of Reasonance～即興
 2. 古道具屋の女
 3. 赤い靴

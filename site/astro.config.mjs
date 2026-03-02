@@ -5,5 +5,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [react()]
+  site: 'https://vacatono.github.io',
+  base: '/strange_music_page',
+  integrations: [react()],
 });
