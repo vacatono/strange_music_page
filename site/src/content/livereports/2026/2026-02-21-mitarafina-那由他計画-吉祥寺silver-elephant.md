@@ -2,7 +2,7 @@
 title: '「その声、雅なる狂気」Mitaraphina, 那由他計画 @吉祥寺Silver Elephant'
 date: 2026-02-21
 venue: '吉祥寺Silver Elephant'
-source: 'wordpress'
+source: ''
 artists:
   - '未藍千紗'
   - 'Raphy'

@@ -1,7 +1,7 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection, render } from 'astro:content';
-import { toSlug } from '../../utils/slug';
+import { toSlug } from '../../../utils/slug';
 
 export async function getStaticPaths() {
   const reports = await getCollection('livereports');
@@ -19,7 +19,7 @@ const year = report.data.date.getFullYear();
 ---
 
 <BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - live memo`}>
-  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="back-link">← {year}年のメモへ</a>
+  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/years/${year}/`} class="back-link">← {year}年のメモへ</a>
 
   <article>
     <div class="report-header">
@@ -27,7 +27,7 @@ const year = report.data.date.getFullYear();
       <div class="report-meta">
         <span class="report-meta-item">📅 {dateStr}</span>
         {report.data.venue && (
-          <span class="report-meta-item">📍 <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
+          <span class="report-meta-item">📍 <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
         )}
         <span class="report-meta-item">📝 {
           report.data.source === 'wordpress' ? 'WordPress' : 
@@ -43,7 +43,7 @@ const year = report.data.date.getFullYear();
           <ul class="tag-list">
             {report.data.artists.map((artist: string) => (
               <li>
-                <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/artists/${toSlug(artist)}/`} class="tag-link">{artist}</a>
+                <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/artists/${toSlug(artist)}/`} class="tag-link">{artist}</a>
               </li>
             ))}
           </ul>

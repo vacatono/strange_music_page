@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SearchUI from '../../components/SearchUI';
+import { getCollection } from 'astro:content';
+
+const reports = await getCollection('livereports');
+const sorted = reports.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+// 年別集計
+const yearCounts = new Map<number, number>();
+for (const r of sorted) {
+  const y = r.data.date.getFullYear();
+  yearCounts.set(y, (yearCounts.get(y) || 0) + 1);
+}
+const years = [...yearCounts.entries()].sort((a, b) => b[0] - a[0]);
+
+// 統計
+const totalReports = sorted.length;
+const allVenues = new Set(sorted.map(r => r.data.venue).filter(Boolean));
+const allArtists = new Set(sorted.flatMap(r => r.data.artists || []));
+
+// 最新10件
+const recent = sorted.slice(0, 10);
+---
+
+<BaseLayout title="トップ">
+
+
+  {/* 恥ずかしいので統計バーを一時非表示
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-number">{totalReports}</div>
+      <div class="stat-label">メモ</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">{years.length}</div>
+      <div class="stat-label">年間</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">{allVenues.size}</div>
+      <div class="stat-label">会場</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">{allArtists.size}</div>
+      <div class="stat-label">アーティスト</div>
+    </div>
+  </div>
+  */}
+
+  <SearchUI client:load />
+
+  <h2 class="section-heading">年別アーカイブ</h2>
+  <div class="year-grid">
+    {years.map(([year, count]) => (
+      <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/years/${year}/`} class="year-card">
+        <span class="year-card-year">{year}</span>
+        <span class="year-card-count">{count}件</span>
+      </a>
+    ))}
+  </div>
+
+  <h2 class="section-heading">最新のメモ</h2>
+  {recent.map(report => (
+    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/report/${report.id}/`} class="report-card">
+      <div class="report-card-date">
+        {report.data.date.toISOString().slice(0, 10)}
+      </div>
+      <div class="report-card-title">{report.data.title}</div>
+      {report.data.venue && (
+        <div class="report-card-venue">{report.data.venue}</div>
+      )}
+    </a>
+  ))}
+</BaseLayout>

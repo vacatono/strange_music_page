@@ -1,7 +1,7 @@
 ---
-title: 'EXTREME Fes @川崎CLUB CITTA'
+title: "EXTREME Fes @川崎CLUB CITTA'"
 date: 2025-10-04
-venue: '川崎CLUB CITTA'
+venue: "川崎CLUB CITTA'"
 source: 'manual'
 artists:
   - 'a_kira'

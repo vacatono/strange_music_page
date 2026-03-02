@@ -1,7 +1,7 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { toSlug } from '../../utils/slug';
+import { toSlug } from '../../../utils/slug';
 
 export async function getStaticPaths() {
   const reports = await getCollection('livereports');
@@ -31,12 +31,12 @@ const { name, reports } = Astro.props;
 ---
 
 <BaseLayout title={`${name} のライブメモ`}>
-  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/venues/`} class="back-link">← 会場一覧へ</a>
+  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/venues/`} class="back-link">← 会場一覧へ</a>
   <h1 class="page-title">{name}</h1>
   <p class="page-subtitle">{reports.length}件のメモ</p>
 
   {reports.map((report: any) => (
-    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/livereports/${report.id}/`} class="report-card">
+    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/report/${report.id}/`} class="report-card">
       <div class="report-card-date">
         {report.data.date.toISOString().slice(0, 10)}
       </div>

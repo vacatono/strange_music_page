@@ -2,7 +2,7 @@
 title: '令和サイケデリック物理学I @吉祥寺star-pines-cafe'
 date: 2026-02-07
 venue: '吉祥寺star-pines-cafe'
-source: 'wordpress'
+source: 'manual'
 artists:
   - '板倉文'
   - '小川美潮'
@@ -28,12 +28,12 @@ artists:
 3. はねる
 4. 福の種
 
-板倉文 (guitars)
-小川美潮 (vocals)
-勝俣伸吾 (keyboards)
-南明徳 (guitars)
-古田たかし (drums)
-幸田実 (bass)
+- 板倉文 (guitars)
+- 小川美潮 (vocals)
+- 勝俣伸吾 (keyboards)
+- 南明徳 (guitars)
+- 古田たかし (drums)
+- 幸田実 (bass)
 
 ### くじら
 
@@ -46,11 +46,11 @@ artists:
 7. 働け灯台守！
 8. KAPPA
 
-杉林恭雄 (vocals,guitars)
-楠均 (drums)
-中原信雄 (bass)
-近藤達郎 (keyboards)
-矢口博康 (sax)
+- 杉林恭雄 (vocals,guitars)
+- 楠均 (drums)
+- 中原信雄 (bass)
+- 近藤達郎 (keyboards)
+- 矢口博康 (sax)
 
 ### 両手に花
 
@@ -64,6 +64,6 @@ artists:
 8. Que sera, sera
 9. Dany Boy (渋谷ソロ)
 
-渋谷毅 (piano)
-小川美潮 (vocals)
-金子マリ (vocals)
+- 渋谷毅 (piano)
+- 小川美潮 (vocals)
+- 金子マリ (vocals)

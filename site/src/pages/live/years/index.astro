@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 const reports = await getCollection('livereports');
@@ -14,13 +14,13 @@ const years = [...yearCounts.entries()].sort((a, b) => b[0] - a[0]);
 ---
 
 <BaseLayout title="年別アーカイブ">
-  <a href={import.meta.env.BASE_URL} class="back-link">← トップへ</a>
+  <a href={import.meta.env.BASE_URL.replace(/\/$/, '') + '/live/'} class="back-link">← トップへ</a>
   <h1 class="page-title">年別アーカイブ</h1>
   {/* <p class="page-subtitle">全{reports.length}件のメモ</p> */}
 
   <div class="year-grid">
     {years.map(([year, count]) => (
-      <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="year-card">
+      <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/years/${year}/`} class="year-card">
         <span class="year-card-year">{year}</span>
         <span class="year-card-count">{count}件</span>
       </a>

@@ -1,75 +1,70 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import SearchUI from '../components/SearchUI';
-import { getCollection } from 'astro:content';
-
-const reports = await getCollection('livereports');
-const sorted = reports.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
-
-// 年別集計
-const yearCounts = new Map<number, number>();
-for (const r of sorted) {
-  const y = r.data.date.getFullYear();
-  yearCounts.set(y, (yearCounts.get(y) || 0) + 1);
-}
-const years = [...yearCounts.entries()].sort((a, b) => b[0] - a[0]);
-
-// 統計
-const totalReports = sorted.length;
-const allVenues = new Set(sorted.map(r => r.data.venue).filter(Boolean));
-const allArtists = new Set(sorted.flatMap(r => r.data.artists || []));
-
-// 最新10件
-const recent = sorted.slice(0, 10);
 ---
 
-<BaseLayout title="トップ">
-  <h1 class="page-title">strange music page</h1>
-  <p class="page-subtitle">live memo archive 1993-</p>
-
-  {/* 恥ずかしいので統計バーを一時非表示
-  <div class="stats-bar">
-    <div class="stat-item">
-      <div class="stat-number">{totalReports}</div>
-      <div class="stat-label">メモ</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-number">{years.length}</div>
-      <div class="stat-label">年間</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-number">{allVenues.size}</div>
-      <div class="stat-label">会場</div>
-    </div>
-    <div class="stat-item">
-      <div class="stat-number">{allArtists.size}</div>
-      <div class="stat-label">アーティスト</div>
-    </div>
-  </div>
-  */}
-
-  <SearchUI client:load />
-
-  <h2 class="section-heading">年別アーカイブ</h2>
-  <div class="year-grid">
-    {years.map(([year, count]) => (
-      <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="year-card">
-        <span class="year-card-year">{year}</span>
-        <span class="year-card-count">{count}件</span>
+<BaseLayout title="Home">
+  <div class="portal-container">
+    <h1 class="page-title">strange music page</h1>
+    <p class="page-subtitle">(live memo archive)</p>
+    
+    <div class="portal-grid">
+      <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/`} class="portal-card">
+  
+        <div class="portal-card-content">
+          <h2 class="portal-card-title">Live Memo</h2>
+          <p class="portal-card-desc">ライブの備忘録・セットリストアーカイブ (1993-)</p>
+        </div>
       </a>
-    ))}
+      
+
+    </div>
   </div>
 
-  <h2 class="section-heading">最新のメモ</h2>
-  {recent.map(report => (
-    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/livereports/${report.id}/`} class="report-card">
-      <div class="report-card-date">
-        {report.data.date.toISOString().slice(0, 10)}
-      </div>
-      <div class="report-card-title">{report.data.title}</div>
-      {report.data.venue && (
-        <div class="report-card-venue">{report.data.venue}</div>
-      )}
-    </a>
-  ))}
+  <style>
+    .portal-container {
+      padding: 2rem 0;
+      text-align: center;
+    }
+    .portal-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 3rem;
+    }
+    .portal-card {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      padding: 2rem;
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      text-decoration: none;
+      color: inherit;
+      transition: all 0.3s ease;
+      text-align: left;
+    }
+    .portal-card:not(.disabled):hover {
+      transform: translateY(-5px);
+      border-color: var(--color-accent);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    }
+    .portal-card.disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    .portal-card-icon {
+      font-size: 3rem;
+    }
+    .portal-card-title {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.5rem;
+      color: var(--color-text-heading);
+    }
+    .portal-card-desc {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--color-text-muted);
+    }
+  </style>
 </BaseLayout>
