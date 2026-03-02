@@ -1,8 +1,8 @@
 ---
-title: "FLAT122 @沼袋Organ Jazz倶楽部"
+title: 'FLAT122 @沼袋Organ Jazz倶楽部'
 date: 2007-09-16
-venue: "122 @沼袋Organ Jazz倶楽部"
-source: "wordpress"
+venue: '沼袋Organ Jazz倶楽部'
+source: 'wordpress'
 ---
 
 #ゴメンナサイ遅刻しました・・・「Etude」の途中だったのかな？  

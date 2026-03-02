@@ -1,8 +1,8 @@
 ---
-title: "Anekdoten, The Flower Kings @川崎Club Citta"
+title: 'Anekdoten, The Flower Kings @川崎CLUB CITTA'
 date: 2013-01-11
-venue: "川崎Club Citta"
-source: "wordpress"
+venue: '川崎CLUB CITTA'
+source: 'wordpress'
 ---
 
 ヨーロピアンロックフェス2013の1日目です（2日目はMoon Safari, Trettioariga Kriget, The Flower Kings）どのバンドも観たこと無かったのですが、とりあえずAnekdotenが観たかったので1日目へ。
@@ -25,7 +25,7 @@ http://www.anekdoten.se/
 
 元KaipaのRoine Stoltが1995年に結成したバンド、1999年に初来日してます。来日はその時以来・・・なのかな？  
 個人的にはCDとか全然持ってないのですが、Roine Stoltのギターが良く歌っていて良かったなー。あとHasse Frobergとのボーカルのハモリが気持ち良いです。プログレというか歌モノとしても素晴らしいなーと、Anekdotenの続きで聴くと曲のポジティブさが際立つ感じ。  
-あとTomas Bodinのベースの音圧が凄くてクラブチッタのチラシが時々プルプル震えてました。
+あとTomas Bodinのベースの音圧が凄くてCLUB CITTAのチラシが時々プルプル震えてました。
 
 Roine Stolt (guitars, vocals)  
 Jonas Reingold (bass)  

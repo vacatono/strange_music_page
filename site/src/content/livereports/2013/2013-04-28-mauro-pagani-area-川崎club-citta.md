@@ -1,10 +1,10 @@
 ---
-title: "Mauro Pagani, Area @川崎Club Citta'"
+title: "Mauro Pagani, Area @川崎CLUB CITTA'"
 date: 2013-04-28
-venue: "川崎Club Citta'"
-source: "wordpress"
+venue: "川崎CLUB CITTA'"
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
 ---
 
 という訳でイタリアンロック・フェスティバル、2日目は飛ばして(HAPPY FAMILY観にシルエレ行ってたので）3日目を観に再び川崎へ。

@@ -1,11 +1,15 @@
 ---
-title: "The Artaud Beats @渋谷Bar Isshee"
+title: 'The Artaud Beats @渋谷Bar Isshee'
 date: 2012-06-17
-venue: "s @渋谷Bar Isshee"
-source: "wordpress"
+venue: '渋谷Bar Isshee'
+source: 'wordpress'
 artists:
-  - "内橋和久"
-  - "来日公演"
+  - '内橋和久'
+  - '来日公演'
+  - 'John Greaves'
+  - 'Geoff Leigh'
+  - 'Yumi Hara Cawkwell'
+  - 'Chris Cutler'
 ---
 
 えーと以下のメンバーを見て頂ければ分かる方には分かると思いますが奇跡の来日です。元Henry Cowの3名が参加したユニット。  

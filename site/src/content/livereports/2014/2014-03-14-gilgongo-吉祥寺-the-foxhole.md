@@ -1,12 +1,12 @@
 ---
-title: "Gilgongo @吉祥寺 the foxhole"
+title: 'Gilgongo @吉祥寺 Foxhole'
 date: 2014-03-14
-venue: "吉祥寺 the foxhole"
-source: "wordpress"
+venue: '吉祥寺 Foxhole'
+source: 'wordpress'
 artists:
-  - "ナスノミツル"
-  - "植村昌弘"
-  - "清水一登"
+  - 'ナスノミツル'
+  - '植村昌弘'
+  - '清水一登'
 ---
 
 ちゃんと感想書く暇が無いのでとりあえず記録として。  

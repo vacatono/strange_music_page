@@ -1,10 +1,10 @@
 ---
-title: "Maxophone, Museo Rosenbach @川崎Club Citta'"
+title: "Maxophone, Museo Rosenbach @川崎CLUB CITTA'"
 date: 2013-04-26
-venue: "川崎Club Citta'"
-source: "wordpress"
+venue: "川崎CLUB CITTA'"
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
 ---
 
 「イタリアン・プログレッシブロック・フェスティバル最終楽章2013」とゆー事で、3日間6バンドの来日公演の初日。

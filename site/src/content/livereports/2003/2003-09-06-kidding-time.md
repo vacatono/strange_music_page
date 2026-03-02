@@ -1,21 +1,19 @@
 ---
-title: "KIDDING TIME @ 新木場AGEHA/PRIZM TENT"
+title: 'KIDDING TIME @ 新木場AGEHA/PRIZM TENT'
 date: 2003-09-06
-venue: "新木場AGEHA/PRIZM TENT"
-source: "html"
+venue: '新木場AGEHA'
+source: 'html'
 artists:
-  - "Ma*To"
-  - "Whacho"
-  - "青山純"
-  - "RA"
-  - "小滝満"
-  - "?"
-  - "??"
+  - 'Ma*To'
+  - 'Whacho'
+  - '青山純'
+  - 'RA'
+  - '小滝満'
 ---
 
 これが何かとゆーと、まだ何かわからないんですけど。
 
-ひょっとするとこれが育ってKILLING TIMEになるかもしれないMa*Toさんの（でイイのかな？）KIDDING TIME。初ライヴ（どーもその前に学芸大学CHAOSでやってたみたいだけど）
+ひょっとするとこれが育ってKILLING TIMEになるかもしれないMa\*Toさんの（でイイのかな？）KIDDING TIME。初ライヴ（どーもその前に学芸大学CHAOSでやってたみたいだけど）
 
 場所は新木場のAGEHAっていうでっかいクラブ。マジでっかい、あんな所初めて行った。
 
@@ -31,11 +29,10 @@ artists:
 
 ## メンバー
 
-- Ma*To (keyboards)
+- Ma\*To (keyboards)
 - Whacho (percussions)
 - 青山純 (drums)
 - RA (guitars)
 - 小滝満 (keyboards)
 - ? (computer)
 - ?? (turntable)
-

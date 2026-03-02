@@ -1,12 +1,14 @@
 ---
-title: "HONTATEDORI @明大前Kid Ailack Hall"
+title: 'HONTATEDORI @明大前Kid Ailack Hall'
 date: 2013-01-26
-venue: "EDORI @明大前Kid Ailack Hall"
-source: "wordpress"
+venue: '明大前Kid Ailack Hall'
+source: 'wordpress'
 artists:
-  - "佳村萠"
-  - "宇波拓"
-  - "秋山徹次"
+  - '佳村萠'
+  - '宇波拓'
+  - '秋山徹次'
+  - '庄司広光'
+  - '菅沼雄太'
 ---
 
 HONTATEDORI (宇波拓+佳村萠+秋山徹次) のレコ発。「レコ発」の文字通り本当にアナログレコードのリリースなのだそうです。  

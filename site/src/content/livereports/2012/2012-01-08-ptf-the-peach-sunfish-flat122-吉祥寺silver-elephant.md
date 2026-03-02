@@ -1,10 +1,20 @@
 ---
-title: "ptf, The Peach Sunfish, FLAT122 @吉祥寺Silver Elephant"
+title: 'ptf, The Peach Sunfish, FLAT122 @ 吉祥寺Silver Elephant'
 date: 2012-01-08
-venue: "122 @吉祥寺Silver Elephant"
-source: "wordpress"
+venue: '吉祥寺Silver Elephant'
+source: 'wordpress'
 artists:
-  - "FLAT122"
+  - '川崎タカオ'
+  - '平田聡'
+  - '田辺清貴'
+  - '高島圭介'
+  - '馬庭千峰'
+  - '鬼頭武也'
+  - '関勇亮'
+  - '伏見蛍'
+  - 'Koyatch'
+  - '武藤智史'
+  - 'coba84'
 ---
 
 活動休止状態だったFLAT122の復活ライブを見に吉祥寺へ。今年初ライブです。
@@ -31,9 +41,9 @@ artists:
 
 [http://ptfweb.com/](http://ptfweb.com/)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3026-300x225.jpg "20120108 ptf")  
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3026-300x225.jpg '20120108 ptf')  
 ↓プログレらしくないベースの持ち方↓  
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3036-225x300.jpg "20120108 ptf-bass")
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3036-225x300.jpg '20120108 ptf-bass')
 
 #### The Peach Sunfish
 
@@ -45,9 +55,9 @@ Koyatch (bass)
 coba84 (keyboards)
 
 [http://www.myspace.com/peachsunfish  
-](http://www.myspace.com/peachsunfish )
+](http://www.myspace.com/peachsunfish)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3042-300x225.jpg "20120108 The Peach Sunfish")
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3042-300x225.jpg '20120108 The Peach Sunfish')
 
 #### FLAT122
 
@@ -73,6 +83,6 @@ coba84 (keyboards)
 田辺清貴 (drums)
 
 [http://music.geocities.jp/thewaves2005/  
-](http://music.geocities.jp/thewaves2005/ )
+](http://music.geocities.jp/thewaves2005/)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3069-300x225.jpg "20120108 FLAT122")
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3069-300x225.jpg '20120108 FLAT122')

@@ -1,16 +1,16 @@
 ---
-title: "山本達久+小林武文+仙波清彦+高橋香織 @吉祥寺the Foxhole"
+title: '山本達久+小林武文+仙波清彦+高橋香織 @吉祥寺Foxhole'
 date: 2011-11-11
-venue: "吉祥寺the Foxhole"
-source: "wordpress"
+venue: '吉祥寺Foxhole'
+source: 'wordpress'
 artists:
-  - "仙波清彦"
-  - "小林武文"
-  - "山本達久"
-  - "高橋香織"
+  - '仙波清彦'
+  - '小林武文'
+  - '山本達久'
+  - '高橋香織'
 ---
 
-吉祥寺の「the Foxhole」っていうジャズバーみたいな所で月イチでやっている、山本達久さんと小林武文さんのデュオにゲストを加えたシリーズ。  
+吉祥寺の「Foxhole」っていうジャズバーみたいな所で月イチでやっている、山本達久さんと小林武文さんのデュオにゲストを加えたシリーズ。  
 今回はのゲストは仙波清彦師匠と高橋香織という事でパーカッションx3にバイオリンという編成。  
 前半最初は山本達久+小林武文デュオでの演奏。次はこの2人に高橋香織さんを加えての演奏、高橋香織さんでこんな完全即興なんて見たこと無かったのですがエフェクター使ったエレクトリックバイオリンで多彩な音を出してました。  
 前半最後は「山本達久+小林武文+仙波清彦」という、パーカッション3台での演奏。やっぱりこう仙波清彦さんが演奏に参加した瞬間の空気の変わりっぷりが凄かったです。
@@ -18,15 +18,10 @@ artists:
 ちょっと休憩挟んで後半戦は4人での演奏、何かこう「太陽と戦慄」のクリムゾンからRobert FrippとJohn Wetton抜いてJamie Muirをもう一人入れたよーな感じ？  
 一番最後では仙波師匠が煽るだけ煽って「ワン・ツー・スリー」と叫び、他のメンバーをクライマックス状態にしておきながら一人で煙草を吸いに行くという・・・もう流石というしか。
 
-  
--   山本達久 (percussions)  
-    
--   小林武文 (percussions)  
-    
--   仙波清彦 (percussions)  
-    
--   高橋香織 (violin)  
-    
+- 山本達久 (percussions)
+- 小林武文 (percussions)
+- 仙波清彦 (percussions)
+- 高橋香織 (violin)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2011/11/DSCF2706-300x225.jpg "DSCF2706")  
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2011/11/DSCF2722-300x225.jpg "DSCF2722")
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2011/11/DSCF2706-300x225.jpg 'DSCF2706')  
+![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2011/11/DSCF2722-300x225.jpg 'DSCF2722')

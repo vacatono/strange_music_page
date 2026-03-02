@@ -1,16 +1,15 @@
 ---
-title: "黒沢ダイスケ, Enciphers & Deciphers, Stella Lee Jones @吉祥寺Silver Elephant"
+title: '黒沢ダイスケ, Enciphers & Deciphers, Stella Lee Jones @吉祥寺Silver Elephant'
 date: 2012-03-03
-venue: "吉祥寺Silver Elephant"
-source: "wordpress"
+venue: '吉祥寺Silver Elephant'
+source: 'wordpress'
 ---
 
 Stella Lee Jonesを見に吉祥寺へ。
 
-  
 \[ 黒沢ダイスケProgressive Band \]
 
-軌道共鳴の黒沢さんと上田さんのユニット、去年のクラブチッタのファンタジーロックフェスにこのバンドで出てるみたいです。ちなみにリーダーの黒沢さんはKONAMIのギターフリークスとかにも曲提供してるようです。  
+軌道共鳴の黒沢さんと上田さんのユニット、去年のCLUB CITTAのファンタジーロックフェスにこのバンドで出てるみたいです。ちなみにリーダーの黒沢さんはKONAMIのギターフリークスとかにも曲提供してるようです。  
 いやーもう圧倒的に上手いプログレフュージョンでした。個人的にはもーちょいあさっての方向な音の方が好きなのですが
 
 \* 黒沢ダイスケ (guitars)  
@@ -18,7 +17,6 @@ Stella Lee Jonesを見に吉祥寺へ。
 \* 渡部正人 (drums)  
 \* 藤田良介 (keyboards)
 
-  
 \[ Enciphers & Deciphers \]
 
 Igzit-nineの井上さん初坂さんに、Nuovo-Immigratoの下田さん、Cicra-Temensisの国分さん、本日2ステージのくどうげんたさんという編成。  
@@ -32,7 +30,6 @@ Igzit-nineの井上さん初坂さんに、Nuovo-Immigratoの下田さん、Cicr
 \* 国分巧 (bass)  
 \* くどうげんた (percussions)
 
-  
 \[ Stella Lee Jones \]
 
 去年末に出たアルバムはコンスタントにライブ観に行ってる自分からしてもビックリするほどクオリティ高いモノででした。  

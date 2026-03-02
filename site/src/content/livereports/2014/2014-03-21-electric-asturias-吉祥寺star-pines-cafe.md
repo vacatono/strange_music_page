@@ -2,13 +2,13 @@
 title: "Electric Asturias @吉祥寺Star Pine's Cafe"
 date: 2014-03-21
 venue: "吉祥寺Star Pine's Cafe"
-source: "wordpress"
+source: 'wordpress'
 artists:
-  - "テイセナ"
-  - "大山曜"
-  - "川越好博"
-  - "平田聡"
-  - "田辺清貴"
+  - 'テイセナ'
+  - '大山曜'
+  - '川越好博'
+  - '平田聡'
+  - '田辺清貴'
 ---
 
 エレアス(Electric Asturias)の[Cruise to the Edge](http://cruisetotheedge.com/)の渡航前ライブです。
@@ -19,7 +19,7 @@ artists:
 後半最初はクルーズの通路とか（サブステージ？）で少し演奏するとの事で、アコアス(Acoustic Asturias)の曲を3曲ほど演奏「Luminous Flower」が良かったなぁ。あと「紅江」での平田さんのパットメセニーみたいなギターの音色がちょっとツボでした。アコアスでの演奏とはだいぶ雰囲気変わりますがコレはまた演ってほしいなぁ、元々エレクトリックな「神の摂理に挑む者たち」とかエレアスでも格好良いと思うのですが。
 
 クルーズでの質疑応答の練習ということでメンバー各々の「無人島一枚」を発表。川越さんの「PSY-S / TWO HEART」というのが意外。大山さんは順当に「Mike Oldfield / Tubular Bells」、平田さんは「Antonio Carlos Jobim / Waves」、田辺さん「Chick Corea / 妖精」、テイさんはとりあえず参加作の「Fracatals」か「Legend of Gold Wind」  
-平田さんから来週の川崎クラブチッタでのJapanese Progressive Rock Festivalについての告知、上野洋子さんを初めて知ったって話がウケてました・・・まぁ平田さんらしいけど。
+平田さんから来週の川崎CLUB CITTAでのJapanese Progressive Rock Festivalについての告知、上野洋子さんを初めて知ったって話がウケてました・・・まぁ平田さんらしいけど。
 
 「Tangram Paradox」はクルーズにもThree Friendsで参加するゲイリーグリーンにも聴かせたいという、Gentle Giantオマージュの曲。最初に聴いた時は大山さんっぽい曲だなーとか思ったのですが、Gentle Giantを意識するともうソレにしか聴こえなくなってしまうという。  
 後半に取って置いた「組曲エレメンタル」の残り二曲「Gnome」は初演になります、何か他の曲のフレーズの変奏が有ったような。  

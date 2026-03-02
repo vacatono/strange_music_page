@@ -1,8 +1,22 @@
 ---
-title: "Pascoal Project, Enigmatic Drive @吉祥寺Silver Elephant"
+title: 'Pascoal Project, Enigmatic Drive @吉祥寺Silver Elephant'
 date: 2013-02-21
-venue: "ic Drive @吉祥寺Silver Elephant"
-source: "wordpress"
+venue: '吉祥寺Silver Elephant'
+source: 'wordpress'
+artists:
+  - '平井庸一'
+  - '太田朱美'
+  - '高野ヒロオ'
+  - '浅川太平'
+  - 'トオイダイスケ'
+  - '山田玲'
+  - '井谷亨志'
+  - 'EMiKO VOiCE'
+  - '六角屋雄介'
+  - '國田大輔'
+  - '矢吹卓'
+  - '二家本亮介'
+  - '田中栄二'
 ---
 
 #### 平井庸一Pascoal Project

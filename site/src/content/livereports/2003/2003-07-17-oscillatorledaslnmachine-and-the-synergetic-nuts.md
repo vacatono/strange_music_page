@@ -1,18 +1,18 @@
 ---
-title: "oscillator,LED,ASLN,machine and the synergetic nuts @ 渋谷NEST"
+title: 'oscillator,LED,ASLN,machine and the synergetic nuts @ 渋谷NEST'
 date: 2003-07-17
-venue: "渋谷NEST"
-source: "html"
+venue: '渋谷NEST'
+source: 'html'
 artists:
-  - "益子樹"
-  - "益子ふみえ"
-  - "中西宏司"
-  - "マヒマヒ"
-  - "須藤俊明"
-  - "スズキヒロユキ"
-  - "岩田ノリヤ"
-  - "高橋結子"
-  - "松江潤"
+  - '益子樹'
+  - '益子ふみえ'
+  - '中西宏司'
+  - 'マヒマヒ'
+  - '須藤俊明'
+  - 'スズキヒロユキ'
+  - '岩田ノリヤ'
+  - '高橋結子'
+  - '松江潤'
 ---
 
 MACHINE AND THE SYNERGETICのレコ発、アルバムがとても良かったんで行ってみました。全4バンドで4時間くらい・・・面白かったけど、ちょっと疲れた。
@@ -58,4 +58,3 @@ PAのせいかボーカルの音があんまり通ってなかったのが残念
 - 岩田ノリヤ (keyboards)
 - 高橋結子 (percussions)
 - 松江潤 (guitars)
-

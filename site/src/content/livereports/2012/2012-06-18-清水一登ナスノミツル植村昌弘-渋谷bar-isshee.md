@@ -1,12 +1,12 @@
 ---
-title: "清水一登+ナスノミツル+植村昌弘 @渋谷Bar Isshee"
+title: '清水一登+ナスノミツル+植村昌弘 @渋谷Bar Isshee'
 date: 2012-06-18
-venue: "渋谷Bar Isshee"
-source: "wordpress"
+venue: '渋谷Bar Isshee'
+source: 'wordpress'
 artists:
-  - "ナスノミツル"
-  - "植村昌弘"
-  - "清水一登"
+  - 'ナスノミツル'
+  - '植村昌弘'
+  - '清水一登'
 ---
 
 そんな訳でこんな組み合わせです。まぁ実に国内で一番好きな鍵盤弾きとドラマーが揃っているという、個人的にかなり嬉しいライブ。

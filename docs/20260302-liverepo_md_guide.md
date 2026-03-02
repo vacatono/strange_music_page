@@ -51,9 +51,9 @@ site/src/content/livereports/
 
 ```yaml
 ---
-title: "Anglagard, Crimson ProjeKcts @川崎Club Citta'"
+title: "Anglagard, Crimson ProjeKcts @川崎CLUB CITTA'"
 date: 2013-03-17
-venue: "川崎Club Citta'"
+venue: "川崎CLUB CITTA'"
 source: 'wordpress'
 artists:
   - 'Anglagard'
@@ -263,9 +263,9 @@ NATSUMENのライブレポート本文...
 
 ```markdown
 ---
-title: "Mauro Pagani, Area @川崎Club Citta'"
+title: "Mauro Pagani, Area @川崎CLUB CITTA'"
 date: 2013-04-28
-venue: "川崎Club Citta'"
+venue: "川崎CLUB CITTA'"
 source: 'wordpress'
 artists:
   - '来日公演'
