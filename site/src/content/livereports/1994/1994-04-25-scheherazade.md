@@ -1,30 +1,30 @@
 ---
-title: "SCHEHERAZADE @ 渋谷ON-AIR WEST"
+title: 'SCHEHERAZADE @ 渋谷ON-AIR WEST'
 date: 1994-04-25
-venue: "渋谷ON-AIR WEST"
-source: "html"
+venue: '渋谷ON-AIR WEST'
+source: 'html'
 artists:
-  - "平山照継"
-  - "大久保寿太郎"
-  - "五十嵐久勝"
-  - "永川敏郎"
-  - "堀江睦男"
+  - '平山照継'
+  - '大久保寿太郎'
+  - '五十嵐久勝'
+  - '永川敏郎'
+  - '堀江睦男'
 setlist:
   - "Don't Stop"
-  - "Fall in Love"
-  - "Once Upon A Time"
-  - "Shot A Burning Arrow!"
-  - "The Gate to Legend"
-  - "Miracle"
-  - "Suite: Lights are Burning"
-  - "Letticia"
-  - "The BoyhoodRomance Promenade"
-  - "Night with No Name"
-  - "Looking for You"
-  - "The Cliff"
-  - "Metal Fantasy"
-  - "Rose Selavy"
-  - "Illusion"
+  - 'Fall in Love'
+  - 'Once Upon A Time'
+  - 'Shot A Burning Arrow!'
+  - 'The Gate to Legend'
+  - 'Miracle'
+  - 'Suite: Lights are Burning'
+  - 'Letticia'
+  - 'The BoyhoodRomance Promenade'
+  - 'Night with No Name'
+  - 'Looking for You'
+  - 'The Cliff'
+  - 'Metal Fantasy'
+  - 'Rose Selavy'
+  - 'Illusion'
 ---
 
 シェラザードはノヴェラの前身バンドです。このライヴのちょい前に再編アルバムを出しています。演奏曲目はほとんどノヴェラですけど。
@@ -58,4 +58,3 @@ CDでのドラムは引頭英明さんなんですがこの時のライヴでは
 13. Metal Fantasy
 14. Rose Selavy
 15. Illusion
-
