@@ -30,7 +30,7 @@ const recent = sorted.slice(0, 10);
   <div class="stats-bar">
     <div class="stat-item">
       <div class="stat-number">{totalReports}</div>
-      <div class="stat-label">レポート</div>
+      <div class="stat-label">メモ</div>
     </div>
     <div class="stat-item">
       <div class="stat-number">{years.length}</div>
@@ -58,7 +58,7 @@ const recent = sorted.slice(0, 10);
     ))}
   </div>
 
-  <h2 class="section-heading">最新レポート</h2>
+  <h2 class="section-heading">最新のメモ</h2>
   {recent.map(report => (
     <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/livereports/${report.id}/`} class="report-card">
       <div class="report-card-date">

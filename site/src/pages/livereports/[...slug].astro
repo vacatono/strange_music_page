@@ -18,8 +18,8 @@ const dateStr = report.data.date.toISOString().slice(0, 10);
 const year = report.data.date.getFullYear();
 ---
 
-<BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - ライブレポート`}>
-  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="back-link">← {year}年のレポートへ</a>
+<BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - live memo`}>
+  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="back-link">← {year}年のメモへ</a>
 
   <article>
     <div class="report-header">
@@ -33,6 +33,7 @@ const year = report.data.date.getFullYear();
           report.data.source === 'wordpress' ? 'WordPress' : 
           report.data.source === 'html' ? 'HTML版' : 
           report.data.source === 'keep' ? 'Keep' :
+          (report.data.source === 'facebook' || report.data.source === 'fb') ? 'Facebook' :
           report.data.source || '不明'
         }</span>
       </div>
