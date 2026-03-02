@@ -1,14 +1,14 @@
 ---
-title: "KILLING TIME @高円寺JIROKICHI"
+title: 'KILLING TIME @高円寺JIROKICHI'
 date: 2007-08-04
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - 'whacho'
+  - '小川美潮'
+  - '斎藤ネコ'
+  - '板倉文'
+  - '清水一登'
 ---
 
 で、こないだの空豆に続いてまたキリングタイム。このバンドを２ヶ月連続で見れるなんて・・・それだけでちょっと感激ものです。  
@@ -23,21 +23,17 @@ artists:
 音楽の良し悪しを測る万人向けの物差しなんて無いと思ってるけど、それでも何か他の人にも見に行って欲しいよ。  
 超良かった。
 
-1st set:  
+1st set:
 
-  
 1. PERU
 2. 8687
 3. FOLLOWING EVENING
 4. SEBO MURCHOSE
 5. EBRIO (w/福岡ユタカ)
 6. SALON (w/小川美潮)
-  
 
-  
-2nd set:  
+2nd set:
 
-  
 1. Undiu (Joao Gilberto)
 2. WISH
 3. Sanfona (Egberto Gismonti)
@@ -45,47 +41,34 @@ artists:
 5. BLIVITS
 6. BOB
 7. 日没
-  
 
-  
-encore:  
+encore:
 
-  
 1. 奴隷の恩返し
 2. EBRIO (w/村田陽一,福岡ユタカ)
 3. かたたたき
-  
 
-  
+- 板倉文 (guitars)
 
-  
--   板倉文 (guitars)
-  
--   Ma\*To (keyboards,tabla)
-  
--   清水一登 (piano,keyboards)
-  
--   whacho (percussions)
-  
--   青山純 (drums)
-  
--   ゲスト：高橋香織 (violin)
-  
--   ゲスト：横山雅史 (bass)
-  
+- Ma\*To (keyboards,tabla)
 
-  
+- 清水一登 (piano,keyboards)
 
-  
--   福岡ユタカ (vocals)
-  
--   小川美潮 (vocals)
-  
--   村田陽一 (trombone)
-  
+- whacho (percussions)
 
-  
+- 青山純 (drums)
+
+- ゲスト：高橋香織 (violin)
+
+- ゲスト：横山雅史 (bass)
+
+- 福岡ユタカ (vocals)
+
+- 小川美潮 (vocals)
+
+- 村田陽一 (trombone)
+
 次回は9/6 (thu)に、高円寺JIROKICHIで。青山純さん欠席ですけど、代わりに仙波清彦師匠参加です。  
 で、その次が10/30(tue)は目黒Blues Alley Japanで、ついに16年ぶりのフルメンバーのKILLING TIMEです。
 
-![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2007/08/520305362_203-150x150.jpg)![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2007/08/520305362_111-150x150.jpg)![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2007/08/520305362_9-150x150.jpg)
+![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vacatono.flop.jp/wp/wp-content/uploads/2007/08/520305362_203-150x150.jpg)![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vacatono.flop.jp/wp/wp-content/uploads/2007/08/520305362_111-150x150.jpg)![2007/08/04 KILLING TIME @高円寺JIROKICHI](http://vacatono.flop.jp/wp/wp-content/uploads/2007/08/520305362_9-150x150.jpg)

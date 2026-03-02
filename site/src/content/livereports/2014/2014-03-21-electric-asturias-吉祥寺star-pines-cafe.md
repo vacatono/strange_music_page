@@ -55,4 +55,4 @@ artists:
 川越好博 (keyboards)  
 田辺清貴 (drums)
 
-![IMG_0007](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2014/03/IMG_0007-300x225.jpg)
+![IMG_0007](http://vacatono.flop.jp/wp/wp-content/uploads/2014/03/IMG_0007-300x225.jpg)

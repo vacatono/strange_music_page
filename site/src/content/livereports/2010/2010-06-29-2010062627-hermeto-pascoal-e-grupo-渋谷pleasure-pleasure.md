@@ -1,11 +1,11 @@
 ---
-title: "2010/06/26,27 Hermeto Pascoal e Grupo @渋谷Pleasure Pleasure"
+title: '2010/06/26,27 Hermeto Pascoal e Grupo @渋谷Pleasure Pleasure'
 date: 2010-06-29
-venue: "渋谷Pleasure Pleasure"
-source: "wordpress"
+venue: '渋谷Pleasure Pleasure'
+source: 'wordpress'
 artists:
-  - "Hermeto Pascoal"
-  - "来日公演"
+  - 'Hermeto Pascoal'
+  - '来日公演'
 ---
 
 2002年のTrue Peoples Celebrationの時は観れなかった（清水一登+鬼怒無月+芳垣安洋を観に行ってた）ので、実は生でパスコアルを観るのは今回が初めてになります。  
@@ -33,4 +33,4 @@ Vinicius Dorin (saxes,flute)
 Andre Marques (electric piano,flute)  
 Aline Morena (vocals,guitars)
 
-![Hermeto Pascoal](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2010/06/hermeto-267x300.jpg "Hermeto Pascoal")
+![Hermeto Pascoal](http://vacatono.flop.jp/wp/wp-content/uploads/2010/06/hermeto-267x300.jpg 'Hermeto Pascoal')

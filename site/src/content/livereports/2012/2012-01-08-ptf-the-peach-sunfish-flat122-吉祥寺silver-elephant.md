@@ -41,9 +41,9 @@ artists:
 
 [http://ptfweb.com/](http://ptfweb.com/)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3026-300x225.jpg '20120108 ptf')  
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/01/DSCF3026-300x225.jpg '20120108 ptf')  
 ↓プログレらしくないベースの持ち方↓  
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3036-225x300.jpg '20120108 ptf-bass')
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/01/DSCF3036-225x300.jpg '20120108 ptf-bass')
 
 #### The Peach Sunfish
 
@@ -57,7 +57,7 @@ coba84 (keyboards)
 [http://www.myspace.com/peachsunfish  
 ](http://www.myspace.com/peachsunfish)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3042-300x225.jpg '20120108 The Peach Sunfish')
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/01/DSCF3042-300x225.jpg '20120108 The Peach Sunfish')
 
 #### FLAT122
 
@@ -85,4 +85,4 @@ coba84 (keyboards)
 [http://music.geocities.jp/thewaves2005/  
 ](http://music.geocities.jp/thewaves2005/)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/01/DSCF3069-300x225.jpg '20120108 FLAT122')
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/01/DSCF3069-300x225.jpg '20120108 FLAT122')

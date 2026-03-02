@@ -1,13 +1,13 @@
 ---
-title: "Sleep Walkers @吉祥寺MANDA-LA2"
+title: 'Sleep Walkers @吉祥寺MANDA-LA2'
 date: 2011-07-11
-venue: "吉祥寺MANDA-LA2"
-source: "wordpress"
+venue: '吉祥寺MANDA-LA2'
+source: 'wordpress'
 artists:
-  - "向島ゆり子"
-  - "大熊ワタル"
-  - "小林武文"
-  - "清水一登"
+  - '向島ゆり子'
+  - '大熊ワタル'
+  - '小林武文'
+  - '清水一登'
 ---
 
 清水一登さんの Sleep Walkers。えーとたぶん5回目のライブです。
@@ -25,41 +25,26 @@ Do you wanna dance? はノリの良い、ちょっと嘘っぽいバルカン音
 
 それ程ライブの頻度は高くないですが、割とコンスタントに続けてるだけあって今回のライブは今までで一番完成度高かったように思います。元々曲の密度は申し分無いくらいですし、もうこのままアルバム出しちゃえばいいのになーとか思いました。
 
-そうそう、MCのライブインフォで小林武文さんが言ってたのですが、7/27(水)に[吉祥寺foxhall](http://foxhole.exblog.jp/)で「山本達久+小林武文+清水一登」というのがあるみたいです。面白そうなので行ってみようかと。  
+そうそう、MCのライブインフォで小林武文さんが言ってたのですが、7/27(水)に[吉祥寺foxhall](http://foxhole.exblog.jp/)で「山本達久+小林武文+清水一登」というのがあるみたいです。面白そうなので行ってみようかと。
 
-  
 1. インプロ
 2. 収容所
-  
 
-  
+3. 重量投げ
+4. Fall
+5. Party swing
+6. ヒョーロク玉
+7. Sub-continental Tango
+8. Dusk
+9. Do  you wanna dance?  (Surdo Balkan Steps)
+10. Polka for Zippy
 
-  
-1. 重量投げ
-2. Fall
-3. Party swing
-4. ヒョーロク玉
-5. Sub-continental Tango
-6. Dusk
-7. Do  you wanna dance?  (Surdo Balkan Steps)
-8. Polka for Zippy
-  
+- 清水一登 (piano, DW-8000)
 
-  
+- 向島ゆり子 (violin)
 
-  
+- 小林武文 (percussions)
 
-  
--   清水一登 (piano, DW-8000)
-  
--   向島ゆり子 (violin)
-  
--   小林武文 (percussions)
-  
--   大熊ワタル (clarinet, percussions)
-  
+- 大熊ワタル (clarinet, percussions)
 
-  
-
-  
-![2011/07/11 Sleep Walkers @吉祥寺MANDA-LA2](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2011/07/DSCF2633-300x225.jpg "2011/07/11 Sleep Walkers @吉祥寺MANDA-LA2")
+![2011/07/11 Sleep Walkers @吉祥寺MANDA-LA2](http://vacatono.flop.jp/wp/wp-content/uploads/2011/07/DSCF2633-300x225.jpg '2011/07/11 Sleep Walkers @吉祥寺MANDA-LA2')

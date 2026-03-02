@@ -19,7 +19,7 @@ artists:
   - '難波弘之'
 ---
 
-![IMG_0008](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2014/03/IMG_0008-300x222.jpg)
+![IMG_0008](http://vacatono.flop.jp/wp/wp-content/uploads/2014/03/IMG_0008-300x222.jpg)
 
 そんなわけで新旧合わせて6バンドの集まる「Japanese Progressive Rock Festival」を見に川崎へ。国内プログレだけでこんなフェスみたいなのは80年台以降は初めてかと思います。
 

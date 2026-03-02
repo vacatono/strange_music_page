@@ -1,16 +1,16 @@
 ---
-title: "Lars Hollmer Tribute #2 @吉祥寺MANDA-LA2"
+title: 'Lars Hollmer Tribute #2 @吉祥寺MANDA-LA2'
 date: 2012-07-27
-venue: "吉祥寺MANDA-LA2"
-source: "wordpress"
+venue: '吉祥寺MANDA-LA2'
+source: 'wordpress'
 artists:
-  - "Lars Hollmer"
-  - "ナスノミツル"
-  - "吉田達也"
-  - "向島ゆり子"
-  - "坂本弘道"
-  - "大熊ワタル"
-  - "清水一登"
+  - 'Lars Hollmer'
+  - 'ナスノミツル'
+  - '吉田達也'
+  - '向島ゆり子'
+  - '坂本弘道'
+  - '大熊ワタル'
+  - '清水一登'
 ---
 
 2008年に亡くなったSamla Mammas MannaのLars HollmerさんのTrubuteその２。今回はSOLAとアコーディオン４人編成のBoevesというユニットの出演。
@@ -74,5 +74,5 @@ Alan Patton (accordion)
 伏見蛍 (guitars)  
 ナスノミツル (bass)
 
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/07/2012-07-27-19.47.35-300x168.jpg "2012-07-27 19.47.35")![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/07/2012-07-27-21.03.55-300x168.jpg "2012-07-27 21.03.55")  
-![](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2012/07/2012-07-27-20.50.41-300x168.jpg "2012-07-27 20.50.41")
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/07/2012-07-27-19.47.35-300x168.jpg '2012-07-27 19.47.35')![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/07/2012-07-27-21.03.55-300x168.jpg '2012-07-27 21.03.55')  
+![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/07/2012-07-27-20.50.41-300x168.jpg '2012-07-27 20.50.41')

@@ -1,10 +1,10 @@
 ---
-title: "CLUSTER @代官山UNIT"
+title: 'CLUSTER @代官山UNIT'
 date: 2010-07-03
-venue: "代官山UNIT"
-source: "wordpress"
+venue: '代官山UNIT'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
 ---
 
 ドイツ電子音楽のパイオニア、と呼んでも良いのかな？Kluster名義だったらKraftwerkよりも先の1969年くらいから活動してる電子音楽ユニット。今回代官山UNITの6周年記念パーティーで来日。Cluster名義では1996年のリキッド以来だから14年ぶりかな？まぁクラブなんてもう全く行かないのですが、コレを見逃すと次は無いかなと思って行ってきました。  
@@ -18,11 +18,8 @@ artists:
 
 ちなみに、メビウスは1944年生まれの64歳、レデリウスは1934年生まれの74歳。25:30スタートのクラブイベントでこんな年齢の方が出てくるって事、他であるんだろうか？
 
-  
--   Hans-Joachim Roedelius  
-    
--   Dieter Moebius  
-    
+- Hans-Joachim Roedelius
+- Dieter Moebius
 
-![2010/07/03 Cluster @代官山unit](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2010/07/DSCF2060-300x225.jpg "2010/07/03 Cluster @代官山unit")  
-![2010/07/03 Cluster @unit](http://vctn2.sakura.ne.jp/wp/wp-content/uploads/2010/07/DSCF2083-300x225.jpg "2010/07/03 Cluster @unit")
+![2010/07/03 Cluster @代官山unit](http://vacatono.flop.jp/wp/wp-content/uploads/2010/07/DSCF2060-300x225.jpg '2010/07/03 Cluster @代官山unit')  
+![2010/07/03 Cluster @unit](http://vacatono.flop.jp/wp/wp-content/uploads/2010/07/DSCF2083-300x225.jpg '2010/07/03 Cluster @unit')
