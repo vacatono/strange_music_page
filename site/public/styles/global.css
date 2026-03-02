@@ -3,20 +3,20 @@
    ============================================= */
 
 :root {
-  --color-bg: #0d1117;
-  --color-bg-card: #161b22;
-  --color-bg-card-hover: #1c2330;
-  --color-border: #30363d;
-  --color-text: #e6edf3;
-  --color-text-muted: #8b949e;
-  --color-text-heading: #f0f6fc;
-  --color-accent: #58a6ff;
-  --color-accent-hover: #79b8ff;
-  --color-accent-subtle: rgba(88, 166, 255, 0.1);
-  --color-tag-bg: #1f2937;
-  --color-tag-text: #9ca3af;
-  --font-body: 'M PLUS 1p', sans-serif;
-  --font-mono: 'M PLUS 1 Code', monospace;
+  --color-bg: #ffffff;
+  --color-bg-card: #f8fafc;
+  --color-bg-card-hover: #f1f5f9;
+  --color-border: #e2e8f0;
+  --color-text: #003366;
+  --color-text-muted: #64748b;
+  --color-text-heading: #002244;
+  --color-accent: #006666;
+  --color-accent-hover: #008888;
+  --color-accent-subtle: rgba(0, 102, 102, 0.05);
+  --color-tag-bg: #edf2f7;
+  --color-tag-text: #4a5568;
+  --font-body: sans-serif;
+  --font-mono: monospace;
   --max-width: 960px;
   --radius: 8px;
   --transition: 0.2s ease;
@@ -74,7 +74,7 @@ img {
   padding: 1rem 0;
   position: sticky;
   top: 0;
-  background: rgba(13, 17, 23, 0.95);
+  background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(12px);
   z-index: 100;
 }
