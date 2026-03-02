@@ -1,11 +1,11 @@
 ---
-title: "bellytree the distortion,electric eel shock,SKYFISHER,etc @ 秋葉原CLUB-GOODMAN"
+title: 'bellytree the distortion,electric eel shock,SKYFISHER,etc @ 秋葉原CLUB GOODMAN'
 date: 2001-02-17
-venue: "秋葉原CLUB-GOODMAN"
-source: "html"
+venue: '秋葉原CLUB GOODMAN'
+source: 'html'
 ---
 
-秋葉原CLUB-GOODMANへ、この日はチケット\980、5バンド。
+秋葉原CLUB GOODMANへ、この日はチケット\980、5バンド。
 
 01 - ホセ
 
@@ -30,4 +30,3 @@ source: "html"
 メンバーはguitar+guitar+vocal&sampler+bass+drums+synthesizerの6人、ベースとシンセが女の子。シンセの女の子とてもカワイイです。ドラムは元Hzのはっちゃき....昔きどりっこにも居たらしいですね。
 
 いやでもクリック聞いてないのが不思議なくらいの演奏、馬鹿みたいなキメばかりなのに凄いテンション。燃費の異常に悪いバンドじゃないかと思いました、めちゃめちゃ練習してそーな。なんかスゴイモノ見ました。ん。
-

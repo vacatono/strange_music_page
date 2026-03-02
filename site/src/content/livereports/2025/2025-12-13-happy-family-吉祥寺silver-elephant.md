@@ -1,5 +1,5 @@
 ---
-title: 'HAPPY FAMILY @吉祥寺silver-elephant'
+title: 'HAPPY FAMILY @吉祥寺Silver Elephant'
 date: 2025-12-13
 venue: '吉祥寺Silver Elephant'
 source: 'manual'

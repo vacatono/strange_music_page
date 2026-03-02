@@ -1,12 +1,12 @@
 ---
-title: "Altered States with Guests plays King Crimson @渋谷NHK509スタジオ"
+title: 'Altered States with Guests plays King Crimson @渋谷NHK509スタジオ'
 date: 2010-08-08
-venue: "es with Guests plays King Crimson @渋谷NHK509スタジオ"
-source: "wordpress"
+venue: '渋谷NHK509スタジオ'
+source: 'wordpress'
 artists:
-  - "ナスノミツル"
-  - "内橋和久"
-  - "芳垣安洋"
+  - 'ナスノミツル'
+  - '内橋和久'
+  - '芳垣安洋'
 ---
 
 NHK-FM「今日は一日プログレ三昧」13時間放送とゆー無謀な企画の中での生放送ライブでキング・クリムゾンをコピーという、これまた無茶な企画。  
@@ -24,40 +24,24 @@ Altered Statesってことで太陽と戦慄～レッド辺りの曲をやるの
 ちなみに家に帰って録音してたのを聴いたら、ミックスのせいかラジオ音質のせいか、ナマで聴いてた時よりもよりクリムゾンそっくりに聞こえました。  
 このAltered States plays King Crimsonは11/26に新宿PIT-INNでまたやるそうです。
 
-  
 1. 21st Century Schizoid Man  
-    including Mirrors  
-    
-3.  I Talk To The Wind  
-    
-4.  Epitaph  
-    a) March For No Reason  
-    b) Tomorrow And Tomorrow  
-    
-5.  Moonchild  
-    a) The Dream  
-    b)The Illusion  
-    
-6.  The Court of Crimson King  
-    a) The Return Of The Fire Witch  
-    b) The Dance Of The Puppets  
-    
+   including Mirrors
+2. I Talk To The Wind
+3. Epitaph  
+   a) March For No Reason  
+   b) Tomorrow And Tomorrow
+4. Moonchild  
+   a) The Dream  
+   b)The Illusion
+5. The Court of Crimson King  
+   a) The Return Of The Fire Witch  
+   b) The Dance Of The Puppets
 
-  
-
-  
--   内橋和久 (guitars)  
-    
--   ナスノミツル (bass)  
-    
--   芳垣安洋 (drums)  
-    
--   岡本洋(key)  
-    
--   Dennis Gunn (vocals,guitars)  
-    
--   塩谷博之 (flute, clarinet, soprano sax)  
-    
--   吉田隆一 (flute, tenor sax, bass clarinet)  
-    
--   デヴィッド・マシコ (vocals)
+- 内橋和久 (guitars)
+- ナスノミツル (bass)
+- 芳垣安洋 (drums)
+- 岡本洋(key)
+- Dennis Gunn (vocals,guitars)
+- 塩谷博之 (flute, clarinet, soprano sax)
+- 吉田隆一 (flute, tenor sax, bass clarinet)
+- デヴィッド・マシコ (vocals)

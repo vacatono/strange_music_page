@@ -1,10 +1,10 @@
 ---
-title: "Van der Graaf Generator @渋谷O-WEST"
+title: 'Van der Graaf Generator @渋谷O-WEST'
 date: 2008-06-28
-venue: "or @渋谷O-WEST"
-source: "wordpress"
+venue: '渋谷O-WEST'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
 ---
 
 そんなで行ってきました。Van der Graaf Generatorの初来日（ってか次の機会があるとは思えないのですが）  

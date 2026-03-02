@@ -1,10 +1,25 @@
 ---
 title: 'FLAT122,SHERPA,日比谷カタン,内核の波 @吉祥寺Silver Elephant'
 date: 2007-07-29
-venue: '122,SHERPA,日比谷カタン,内核の波 @吉祥寺Silver Elephant'
+venue: '吉祥寺Silver Elephant'
 source: 'wordpress'
 artists:
   - 'FLAT122'
+  - 川崎隆男
+  - 平田聡
+  - 田辺清貴
+  - SHERPA
+  - 船橋陽
+  - 堀越功
+  - 河崎純
+  - 立岩潤三
+  - 日比谷カタン
+  - 内核の波
+  - 小林智
+  - 鈴木和美
+  - 村岡満男
+  - 吉田真吾
+  - 高木大地
 ---
 
 #### FLAT122

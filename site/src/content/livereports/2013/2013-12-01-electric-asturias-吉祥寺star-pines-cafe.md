@@ -1,12 +1,12 @@
 ---
-title: "Electric Asturias @吉祥寺Star Pine's Cafe"
+title: "Electric Asturias @吉祥寺STAR PINE'S CAFE"
 date: 2013-12-01
-venue: "吉祥寺Star Pine's Cafe"
-source: "wordpress"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'wordpress'
 artists:
-  - "テイセナ"
-  - "大山曜"
-  - "平田聡"
+  - 'テイセナ'
+  - '大山曜'
+  - '平田聡'
 ---
 
 来年4月に[Cruise to the Edge 2014](http://cruisetotheedge.com/)とゆー「カリブ海プログレクルージング」という凄いイベント（コンセプトも凄いけどメンツも凄い）に日本から唯一参加するエレアスのライブに行ってきました。大山さんのMCもこの話がメインでした。

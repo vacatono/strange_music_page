@@ -1,8 +1,8 @@
 ---
-title: "光束夜,Che-Shizu,Mahel Sharal Hash Buz @ 吉祥寺starpine's Cafe"
+title: "光束夜,Che-Shizu,Mahel Sharal Hash Buz @ 吉祥寺STAR PINE'S CAFE"
 date: 2001-02-09
-venue: "吉祥寺starpine's Cafe"
-source: "html"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'html'
 ---
 
 シェシズとマヘルを見たくて行きました。ちょっと風邪がまだ残っていたので、下のテーブル席の後ろの方でコーヒーとか飲みながらゆーっくり見るつもりでした。
@@ -20,4 +20,3 @@ source: "html"
 適正な会場で、適正な観客数でゆっくり見たかったです。風邪悪化。
 
 ちなみに会場でかおりんさんとbelleさんに会いました(なんでこんなに会うんだろう..?)、ラーメン美味かったです。また。
-

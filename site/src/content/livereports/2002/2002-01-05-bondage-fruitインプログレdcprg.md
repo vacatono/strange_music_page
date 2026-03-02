@@ -1,22 +1,22 @@
 ---
-title: "Bondage Fruit,インプログレ,DCPRG @ 吉祥寺STARPINE'S CAFE"
+title: "Bondage Fruit,インプログレ,DCPRG @ 吉祥寺STAR PINE'S CAFE"
 date: 2002-01-05
-venue: "吉祥寺STARPINE'S CAFE"
-source: "html"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'html'
 artists:
-  - "勝井祐二"
-  - "鬼怒無月"
-  - "高良久美子"
-  - "大坪寛彦"
-  - "岡部洋一"
-  - "ホッピー神山"
-  - "吉田達也"
-  - "ナスノミツル"
+  - '勝井祐二'
+  - '鬼怒無月'
+  - '高良久美子'
+  - '大坪寛彦'
+  - '岡部洋一'
+  - 'ホッピー神山'
+  - '吉田達也'
+  - 'ナスノミツル'
 setlist:
-  - "?"
-  - "PLAYMATE AT HANOI"
-  - "CIRCLE/LINE ～最後の平和を我らに"
-  - "安っぽくて泣きたくなる話"
+  - '?'
+  - 'PLAYMATE AT HANOI'
+  - 'CIRCLE/LINE ～最後の平和を我らに'
+  - '安っぽくて泣きたくなる話'
 ---
 
 2002年最初のライヴ。でも本当は行く気無くて、正月はじめて実家に帰ってて弟と話してたら「行こう」とか言うことになって、急遽車で吉祥寺へ。「大吉」とかいう正月早々ヘンなオールナイトイベント。
@@ -66,4 +66,3 @@ DJがパフィーを流し始めたと思ったらDCPRGのはじまり
 2. PLAYMATE AT HANOI
 3. CIRCLE/LINE ～最後の平和を我らに
 4. 安っぽくて泣きたくなる話
-

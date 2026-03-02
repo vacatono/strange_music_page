@@ -1,12 +1,12 @@
 ---
-title: "Electric Asturias @渋谷屋根裏"
+title: 'Electric Asturias @渋谷屋根裏'
 date: 2011-12-11
-venue: "渋谷屋根裏"
-source: "wordpress"
+venue: '渋谷屋根裏'
+source: 'wordpress'
 artists:
-  - "ASTURIAS"
-  - "FLAT122"
-  - "大山曜"
+  - 'ASTURIAS'
+  - 'FLAT122'
+  - '大山曜'
 ---
 
 という訳で、前回のRound Houseとの共演に続いてのワンマンライブ。  
@@ -14,7 +14,7 @@ artists:
 「Moondawn」の曲の途中、テイセナさんの短いアドリブの部分での弾けたプレイが凄かった、エレアス・アコアス・ステラの3つのバンドで観てますが、やっぱりこの方のポテンシャル凄いと思います。  
 今までエレアスでは演奏していなかった2ndのRogusなんかも演奏、このへんからラストにかけてとても気合の入った演奏で良かったです。
 
-ちなみに次回は3/31に吉祥寺Star Pine's Cafeでまたワンマンだそうで。今回演奏されなかった新曲などにも期待。(個人的にはエレアスで「血闘のアンビバレンス」が聴きたい…絶対格好良いと思うんだけど)  
+ちなみに次回は3/31に吉祥寺STAR PINE'S CAFEでまたワンマンだそうで。今回演奏されなかった新曲などにも期待。(個人的にはエレアスで「血闘のアンビバレンス」が聴きたい…絶対格好良いと思うんだけど)  
 あとは平田さんのStella Lee Jonesが12/24に吉祥寺Silver Elephantでレコ発。1/8にはかなり久々のFLAT122のライブも有るようです。
 
 1\. The Lancer  
@@ -32,16 +32,10 @@ artists:
 1\. Distance  
 2\. The Lancer
 
-  
--   大山曜 (bass)  
-    
--   平田聡 (guitars)  
-    
--   テイセナ (violin)  
-    
--   川越 好博 (keyboards)  
-    
--   田辺清貴 (drums)  
-    
+- 大山曜 (bass)
+- 平田聡 (guitars)
+- テイセナ (violin)
+- 川越 好博 (keyboards)
+- 田辺清貴 (drums)
 
 http://www.youtube.com/watch?v=-zptowvgh-k

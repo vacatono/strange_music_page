@@ -1,7 +1,7 @@
 ---
-title: '音叉四〇六九&FLAT122 @吉祥寺silver-elephant'
+title: '音叉四〇六九&FLAT122 @吉祥寺Silver Elephant'
 date: 2021-07-03
-venue: '吉祥寺silver-elephant'
+venue: '吉祥寺Silver Elephant'
 source: 'manual'
 artists:
   - '川崎隆男'

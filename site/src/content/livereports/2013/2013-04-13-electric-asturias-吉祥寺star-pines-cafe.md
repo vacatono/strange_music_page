@@ -1,11 +1,11 @@
 ---
-title: "Electric Asturias @吉祥寺Star Pine's Cafe"
+title: "Electric Asturias @吉祥寺STAR PINE'S CAFE"
 date: 2013-04-13
-venue: "吉祥寺Star Pine's Cafe"
-source: "wordpress"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'wordpress'
 artists:
-  - "大山曜"
-  - "平田聡"
+  - '大山曜'
+  - '平田聡'
 ---
 
 5月のアメリカでのフェス[RosFest](http://www.rosfest.com/)の出演前の壮行会ライブとゆーことで、久々のライブです。ちなみにRosFestですが2004年から開催されてるプログ系のフェスで今回はThe Flower KingsとかPain of SalvationとかShadow Galleryなどが出演するみたいです。

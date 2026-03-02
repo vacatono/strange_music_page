@@ -1,20 +1,20 @@
 ---
-title: "Date Course Pentagon Royal Garden @ 吉祥寺Star Pine's Cafe"
+title: "Date Course Pentagon Royal Garden @ 吉祥寺STAR PINE'S CAFE"
 date: 2000-06-25
-venue: "吉祥寺Star Pine's Cafe"
-source: "html"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'html'
 artists:
-  - "菊地成孔"
-  - "大友良英"
-  - "芳垣安洋"
-  - "大儀見元"
-  - "栗原正巳"
-  - "藤井信雄"
-  - "坪口昌恭"
-  - "津上研太"
-  - "吉見征樹"
-  - "高井康生"
-  - "後関好宏"
+  - '菊地成孔'
+  - '大友良英'
+  - '芳垣安洋'
+  - '大儀見元'
+  - '栗原正巳'
+  - '藤井信雄'
+  - '坪口昌恭'
+  - '津上研太'
+  - '吉見征樹'
+  - '高井康生'
+  - '後関好宏'
 ---
 
 えーと急に予定が空いたので行く事にしました、菊地成孔がボスの11人編成のバンドです。
@@ -40,4 +40,3 @@ artists:
 - 吉見征樹 (tabla)
 - 高井康生 (guitars)
 - 後関好宏 (sax)
-

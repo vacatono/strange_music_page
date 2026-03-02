@@ -1,14 +1,14 @@
 ---
-title: "ELEPHANT TALK @ 吉祥寺STARPINE'S CAFE"
+title: "ELEPHANT TALK @ 吉祥寺STAR PINE'S CAFE"
 date: 2000-10-04
-venue: "吉祥寺STARPINE'S CAFE"
-source: "html"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'html'
 artists:
-  - "すずきあおい"
-  - "名和達彦"
-  - "立岩潤三"
-  - "真下洋子"
-  - "吉田隆一"
+  - 'すずきあおい'
+  - '名和達彦'
+  - '立岩潤三'
+  - '真下洋子'
+  - '吉田隆一'
 ---
 
 仕事の谷間の水曜日でした。N氏さん(なんか言い方ヘンだな)の参加してるELEPHANT TALKへ。
@@ -32,4 +32,3 @@ artists:
 - 立岩潤三 (percussions,tabla)
 - 真下洋子 (piano)
 - 吉田隆一 (flute,baritone sax,percussions)
-

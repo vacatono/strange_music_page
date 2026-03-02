@@ -1,16 +1,16 @@
 ---
-title: "SLAPP HAPPY,ALTERD STATES + 菊地成孔 @吉祥寺Starpine's Cafe"
+title: "SLAPP HAPPY,ALTERD STATES + 菊地成孔 @吉祥寺STAR PINE'S CAFE"
 date: 2000-05-14
-venue: ""
-source: "html"
+venue: ''
+source: 'html'
 artists:
-  - "ナスノミツル"
-  - "芳垣安洋"
-  - "内橋和久"
-  - "菊地成孔"
-  - "Dagmar Krause"
-  - "Anthony Moore"
-  - "Peter Blegvad"
+  - 'ナスノミツル'
+  - '芳垣安洋'
+  - '内橋和久'
+  - '菊地成孔'
+  - 'Dagmar Krause'
+  - 'Anthony Moore'
+  - 'Peter Blegvad'
 ---
 
 本当は来週の羅針盤か山本精一+PHEWの日に行こうと思ってたSLAPP HAPPY初の来日公演(初っていうか最後だろーけど)です、なんだか仕事が地獄のように忙しくなってきたので、行ける日に行っておく事にしました。原付でズババババと吉祥寺へ、途中で雨降ってきてヒドイ目に逢いましたけど。
@@ -34,4 +34,3 @@ SLAPP HAPPYって個人的にはそれほど思い入れの無い人達だった
 - Dagmar Krause (vocals)
 - Anthony Moore (keyboards,guitars,bass)
 - Peter Blegvad (guitars,vocals)
-

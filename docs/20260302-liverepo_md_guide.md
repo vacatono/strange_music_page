@@ -37,7 +37,7 @@ site/src/content/livereports/
 │   └── ...
 ├── 2014/
 │   └── ...
-└── 2026-02-21-mitarafina-那由他計画-吉祥寺silver-elephant.md
+└── 2026-02-21-mitarafina-那由他計画-吉祥寺Silver Elephant.md
 ```
 
 > [!NOTE]
@@ -234,9 +234,9 @@ source: 'wordpress'
 
 ```markdown
 ---
-title: 'NATSUMEN @ NHK-FM ライブビート公開収録'
+title: 'NATSUMEN @ NHK-FMライブビート公開収録'
 date: 2005-04-21
-venue: 'NHK-FM ライブビート公開収録'
+venue: 'NHK-FMライブビート公開収録'
 source: 'wordpress'
 artists:
   - 'A.S.E'

@@ -1,29 +1,24 @@
 ---
-title: "川喜多美子(D-DAY),ジャック達 @代々木Zher the ZOO"
+title: '川喜多美子(D-DAY),ジャック達 @代々木Zher the ZOO'
 date: 2006-05-13
-venue: "代々木Zher the ZOO"
-source: "wordpress"
+venue: '代々木Zher the ZOO'
+source: 'wordpress'
 ---
 
-仕事で遅くなったので、捏造と贋作は見れませんでした。ザ・残念。  
+仕事で遅くなったので、捏造と贋作は見れませんでした。ザ・残念。
 
 #### 川喜多美子(D-DAY)
 
-  
+- 川喜多美子 (vocals)
 
-  
--   川喜多美子 (vocals)
-  
--   ハッカイ (guitars)
-  
--   光永厳 (bass)
-  
--   はっちゃき (drums)
-  
--   ライオンメリイ (keyboards)
-  
+- ハッカイ (guitars)
 
-  
+- 光永厳 (bass)
+
+- はっちゃき (drums)
+
+- ライオンメリイ (keyboards)
+
 ってか何この80年代。
 
 D-DAYの再発 ( [http://bridge-inc.net/store/?p=productsMore&iProduct=2696](http://bridge-inc.net/store/?p=productsMore&iProduct=2696) ) に伴いライブ。
@@ -36,23 +31,18 @@ D-DAYの再発 ( [http://bridge-inc.net/store/?p=productsMore&iProduct=2696](htt
 
 最後の曲では、元メンバー（マルとか）に加えななきさとえ（！）まで出てきて「Peaches」を合唱！！！
 
-あーまたやって欲しいけど、もうやらないだろーなぁ。  
+あーまたやって欲しいけど、もうやらないだろーなぁ。
 
 #### ジャック達
 
-  
+- 一色進 (vocals,guitars)
 
-  
--   一色進 (vocals,guitars)
-  
--   夏秋文尚 (drums)
-  
--   福島幹夫 (bass)
-  
--   キハラ宙 (guitars)
-  
+- 夏秋文尚 (drums)
 
-  
+- 福島幹夫 (bass)
+
+- キハラ宙 (guitars)
+
 夏秋さんのスコーンと抜けたドラムが大変気持ちよかったです。一色さんのしょーもないMCがおかしかった、久保田信吾が客席からツッコミ入れまくり。ツッコミ担当でステージに出ててもイイのに。ギターの人初めて見たけど格好良かったなぁ。
 
 最後には、川喜多美子・光永厳・松尾清憲・鈴木さえ子（！！）が出てきて。何この80年代その２。

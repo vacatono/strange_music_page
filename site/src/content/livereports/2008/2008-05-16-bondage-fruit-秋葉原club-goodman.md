@@ -1,11 +1,11 @@
 ---
-title: "Bondage Fruit @秋葉原CLUB-GOODMAN"
+title: 'Bondage Fruit @秋葉原CLUB GOODMAN'
 date: 2008-05-16
-venue: "秋葉原CLUB-GOODMAN"
-source: "wordpress"
+venue: '秋葉原CLUB GOODMAN'
+source: 'wordpress'
 artists:
-  - "勝井祐二"
-  - "鬼怒無月"
+  - '勝井祐二'
+  - '鬼怒無月'
 ---
 
 暫く活動してなかったボンフル、随分久しぶりに見るなぁ・・・たぶんMats & Morgan来日の前座の時以来だから、5年ぶりくらいかな？  

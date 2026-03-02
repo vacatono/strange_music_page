@@ -1,16 +1,16 @@
 ---
-title: "KILLING TIME @ 南青山MANDALA"
+title: 'KILLING TIME @ 南青山MANDALA'
 date: 1999-04-07
-venue: "南青山MANDALA"
-source: "html"
+venue: '南青山MANDALA'
+source: 'html'
 artists:
-  - "板倉文"
-  - "清水一登"
-  - "Ma*To"
-  - "斎藤ネコ"
+  - '板倉文'
+  - '清水一登'
+  - 'Ma*To'
+  - '斎藤ネコ'
 ---
 
-復活してから、2回目のライヴは南青山マンダラにて。私はもうこの音が聴けるだけで幸せなので、まともなライヴレポなんか書けないんですけど。曲目は前回とそんなに変わらなかったと思います。
+復活してから、2回目のライヴは南青山MANDALAにて。私はもうこの音が聴けるだけで幸せなので、まともなライヴレポなんか書けないんですけど。曲目は前回とそんなに変わらなかったと思います。
 
 という前回と一緒のメンバーでした。やっぱりマヌケで、アヴァンギャルドで、優しい音楽でした。今回はPAのせいか板倉さんのギターの音がちょっと小さかったのが気になったんですけど。
 
@@ -20,6 +20,5 @@ artists:
 
 - 板倉文 (guitars)
 - 清水一登 (piano,keyboards)
-- Ma*To (tabla,sampler,keyboards)
+- Ma\*To (tabla,sampler,keyboards)
 - 斎藤ネコ (violin)
-
