@@ -29,7 +29,12 @@ const year = report.data.date.getFullYear();
         {report.data.venue && (
           <span class="report-meta-item">📍 <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
         )}
-        <span class="report-meta-item">📝 {report.data.source === 'wordpress' ? 'WordPress' : 'HTML版'}</span>
+        <span class="report-meta-item">📝 {
+          report.data.source === 'wordpress' ? 'WordPress' : 
+          report.data.source === 'html' ? 'HTML版' : 
+          report.data.source === 'keep' ? 'Keep' :
+          report.data.source || '不明'
+        }</span>
       </div>
 
       {report.data.artists && report.data.artists.length > 0 && (
