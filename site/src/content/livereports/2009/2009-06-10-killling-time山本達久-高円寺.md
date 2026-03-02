@@ -23,19 +23,13 @@ artists:
   
 
   
-2.  PERU
-  
-4.  8687
-  
-6.  Following Evening
-  
-8.  セブムチョセ
-  
-10.  FALL
-  
-12.  奴隷の恩返し
-  
-14.  SALON
+1. PERU
+2. 8687
+3. Following Evening
+4. セブムチョセ
+5. FALL
+6. 奴隷の恩返し
+7. SALON
   
 
   
@@ -43,19 +37,13 @@ artists:
   
 
   
-2.  重量投げ
-  
-4.  MIFUNE
-  
-6.  ヒョーロク玉
-  
-8.  LIMBO'S DANCE
-  
-10.  WISH
-  
-12.  EBRIO
-  
-14.  BOB
+1. 重量投げ
+2. MIFUNE
+3. ヒョーロク玉
+4. LIMBO'S DANCE
+5. WISH
+6. EBRIO
+7. BOB
   
 
   
@@ -63,7 +51,7 @@ encore: 
   
 
   
-2.  日没
+1. 日没
   
 
   

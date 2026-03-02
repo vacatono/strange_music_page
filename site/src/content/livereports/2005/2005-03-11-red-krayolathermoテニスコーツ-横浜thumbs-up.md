@@ -15,9 +15,8 @@ artists:
 途中から見ました、ドラムとエフェクト。まるでボーカルの無いSilver Apples。んでもあんなズンドコしたドラムでなくって、小技が効いてて面白いの。アルバム聴いてみたくなったな、山本直樹のジャケのヤツ買ってみようかしらん。  
 
   
-2.  君島結 (effects,electronics)
-  
-4.  須藤俊明 (drums)
+1. 君島結 (effects,electronics)
+2. 須藤俊明 (drums)
   
 
   
@@ -31,13 +30,10 @@ artists:
 ライヴでは稚拙さと純粋さとって感じ、ちょっとそーゆーのを演出してる所も感じたけど、やっぱり好きかもしれない。  
 
   
-2.  植野隆司
-  
-4.  さや (vocals,keyboards)
-  
-6.  ??
-  
-8.  ??
+1. 植野隆司
+2. さや (vocals,keyboards)
+3. ??
+4. ??
   
 
   
@@ -51,11 +47,9 @@ artists:
 少なくとも60過ぎのオッサンの音楽では無いと思うのですけど、どーなんですか？すげぇ。  
 
   
-2.  Mayo Thompson (guitars,vocals)
-  
-4.  Tom Watson (guitars,vocals)
-  
-6.  George Hurley (drums)
+1. Mayo Thompson (guitars,vocals)
+2. Tom Watson (guitars,vocals)
+3. George Hurley (drums)
   
 
   

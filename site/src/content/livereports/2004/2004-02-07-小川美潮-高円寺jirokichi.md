@@ -20,35 +20,21 @@ artists:
 しかしその毎回思うのですが・・・たのむからCD出してくれ。  
 
   
-2.  デンキ
-  
-4.  花の答え
-  
-6.  Hasu Kria
-  
-8.  ? (Michael Franks/Lady Wants to knowだそうです)
-  
-10.  ? (ホビットの夢という曲らしいです)
-  
-12.  弁天システム
-  
-14.  Tea for Two
-  
-16.  三月の水
-  
-18.  Old Devil Moon
-  
-20.  良心力学
-  
-22.  On The Road
-  
-24.  恋
-  
-26.  はじめて
-  
-28.  私は宝
-  
-30.  ウォーリー・ビーズ (細野晴臣)
+1. デンキ
+2. 花の答え
+3. Hasu Kria
+4. ? (Michael Franks/Lady Wants to knowだそうです)
+5. ? (ホビットの夢という曲らしいです)
+6. 弁天システム
+7. Tea for Two
+8. 三月の水
+9. Old Devil Moon
+10. 良心力学
+11. On The Road
+12. 恋
+13. はじめて
+14. 私は宝
+15. ウォーリー・ビーズ (細野晴臣)
   
 
   

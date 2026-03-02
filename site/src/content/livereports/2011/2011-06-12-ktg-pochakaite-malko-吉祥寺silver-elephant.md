@@ -19,17 +19,12 @@ artists:
 次回ライブは未定ですが、また楽しみにしてますです。  
 
   
-2.  Spiral
-  
-4.  屋上にて
-  
-6.  Woolly-Minded Shoot
-  
-8.  Neo Classic Dance
-  
-10.  波涛
-  
-12.  Sign
+1. Spiral
+2. 屋上にて
+3. Woolly-Minded Shoot
+4. Neo Classic Dance
+5. 波涛
+6. Sign
   
 
   

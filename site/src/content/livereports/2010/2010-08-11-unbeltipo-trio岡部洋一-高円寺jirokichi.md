@@ -17,23 +17,23 @@ artists:
 今自分のBlogチェックしてみたら2004年のライブで「Joujoushka」の生演奏聴いてるなぁ・・・なんかだいぶ印象違うような気がする。  
 
   
-2.  The Tape Eater  
+1. The Tape Eater  
     
-3.  UBT #4  
+2. UBT #4  
     
-4.  Oil On The Pan On The Canvas  
+3. Oil On The Pan On The Canvas  
     
 
   
 
   
-2.  UBT #26  
+1. UBT #26  
     
-3.  Joujoushka  
+2. Joujoushka  
     
-4.  UBT #23  
+3. UBT #23  
     
-5.  The Grid Of The Wind  
+4. The Grid Of The Wind  
     
 
   

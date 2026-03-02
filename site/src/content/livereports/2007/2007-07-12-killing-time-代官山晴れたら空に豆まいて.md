@@ -24,45 +24,33 @@ artists:
 1st set  
 
   
-2.  Undiu
-  
-4.  Wish
-  
-6.  Sanfona
-  
-8.  8687
-  
-10.  EBRIO
-  
-12.  Salon (Upon Hearing)
+1. Undiu
+2. Wish
+3. Sanfona
+4. 8687
+5. EBRIO
+6. Salon (Upon Hearing)
   
 
   
 2nd set  
 
   
-2.  Peru
-  
-4.  Following Evening
-  
-6.  ゆっくりさん (Limbo's Dance)
-  
-8.  Vacatono (奴隷の恩返し)
-  
-10.  Blivits
-  
-12.  BOB
-  
-14.  日没
+1. Peru
+2. Following Evening
+3. ゆっくりさん (Limbo's Dance)
+4. Vacatono (奴隷の恩返し)
+5. Blivits
+6. BOB
+7. 日没
   
 
   
 encore  
 
   
-2.  Salon (w/小川美潮)
-  
-4.  かたたたき (老人達の夢)
+1. Salon (w/小川美潮)
+2. かたたたき (老人達の夢)
   
 
   

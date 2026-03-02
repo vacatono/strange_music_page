@@ -7,27 +7,17 @@ artists:
   - "Hermeto Pascoal"
 ---
 
-2.  Interiores
-  
-4.  Classico Romantico Moderno
-  
-6.  Depois da Arebentacao
-  
-8.  Batera
-  
-10.  Atualidades
-  
-12.  Flora Lis
-  
-14.  E Pra Voce, Arismar
-  
-16.  Na Calada da Noite
-  
-18.  Feitinha pra Nos
-  
-20.  Ja Fui
-  
-22.  Do Chao a Cumeeira
+1. Interiores
+2. Classico Romantico Moderno
+3. Depois da Arebentacao
+4. Batera
+5. Atualidades
+6. Flora Lis
+7. E Pra Voce, Arismar
+8. Na Calada da Noite
+9. Feitinha pra Nos
+10. Ja Fui
+11. Do Chao a Cumeeira
   
 
   

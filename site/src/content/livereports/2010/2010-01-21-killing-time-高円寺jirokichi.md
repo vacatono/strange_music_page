@@ -26,43 +26,31 @@ artists:
   
 
   
-2.  Peru
-  
-4.  8687
-  
-6.  Fall
-  
-8.  Ebrio
-  
-10.  impro.
-  
-12.  Limbo Dance
-  
-14.  SALON
+1. Peru
+2. 8687
+3. Fall
+4. Ebrio
+5. impro.
+6. Limbo Dance
+7. SALON
   
 
   
 
   
-2.  沈黙する湖
-  
-4.  ヒョーロク玉
-  
-6.  impro.
-  
-8.  Following evening
-  
-10.  WISH
-  
-12.  Blivits
-  
-14.  BOB
+1. 沈黙する湖
+2. ヒョーロク玉
+3. impro.
+4. Following evening
+5. WISH
+6. Blivits
+7. BOB
   
 
   
 
   
-2.  日没
+1. 日没
   
 
   

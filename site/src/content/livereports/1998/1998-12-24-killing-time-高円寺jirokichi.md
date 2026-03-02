@@ -13,36 +13,25 @@ artists:
 
 1st set:  
 
-1.  ?
-  
-3.  Peru
-  
-5.  Upon Hearing
-  
-7.  Wish
-  
-9.  EBRIO  
+1. ?
+2. Peru
+3. Upon Hearing
+4. Wish
+5. EBRIO  
     
 
   
 2nd set:  
 
   
-2.  沈黙する湖
-  
-4.  8687
-  
-6.  Stive for Happiness
-  
-8.  SONG FOR FOOD
-  
-10.  日没
-  
-12.  Khorchin
-  
-14.  奴隷の恩返し
-  
-16.  老人たちの夢
+1. 沈黙する湖
+2. 8687
+3. Stive for Happiness
+4. SONG FOR FOOD
+5. 日没
+6. Khorchin
+7. 奴隷の恩返し
+8. 老人たちの夢
   
 
   

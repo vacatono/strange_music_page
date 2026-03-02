@@ -65,23 +65,15 @@ RUINSだったハズが佐々木さん欠席（なんかケガしてるらしい
 ギターの佐々木さんの不在でちょっと音圧物足りない部分も有りましたけど、その分キーボードとボーカルが全面に出てきて聴きやすかったです。ベースの坂元さんは現在沖縄在住だそうであんまりライヴできなさそーですけど、この編成でこの音なら佐々木さんベースで高円寺百景やって欲しいなーとか。  
 
   
-2.  VISSQAUELL
-  
-4.  BECTTEM POLT
-  
-6.  NIVRAYM
-  
-8.  ?
-  
-10.  MEDERRO PASSQUIRR
-  
-12.  ?
-  
-14.  SUNNA ZARIOKI
-  
-16.  GUOTH DAHHA
-  
-18.  IOSS (後半のみ)
+1. VISSQAUELL
+2. BECTTEM POLT
+3. NIVRAYM
+4. ?
+5. MEDERRO PASSQUIRR
+6. ?
+7. SUNNA ZARIOKI
+8. GUOTH DAHHA
+9. IOSS (後半のみ)
   
 
   

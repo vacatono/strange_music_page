@@ -36,17 +36,12 @@ artists:
 内容だけで言ったら、エレアス(Electric Asturias）にも負けてないと思います。もーちょい客来れば良いのに。  
 
   
-2.  ジャンピエール
-  
-4.  かげろう
-  
-6.  Stella Lee Jones
-  
-8.  鳴らない電話
-  
-10.  Synapse
-  
-12.  Clouds
+1. ジャンピエール
+2. かげろう
+3. Stella Lee Jones
+4. 鳴らない電話
+5. Synapse
+6. Clouds
   
 
   

@@ -23,23 +23,15 @@ artists:
   
 
   
-2.  Samba Giulietta
-  
-4.  Caprica
-  
-6.  Africo
-  
-8.  Lounge
-  
-10.  Smith
-  
-12.  Arios
-  
-14.  Rain Tree
-  
-16.  Song
-  
-18.  Nanan
+1. Samba Giulietta
+2. Caprica
+3. Africo
+4. Lounge
+5. Smith
+6. Arios
+7. Rain Tree
+8. Song
+9. Nanan
   
 
   
@@ -47,21 +39,14 @@ artists:
   
 
   
-2.  ときどき
-  
-4.  waltz for mishio
-  
-6.  night song
-  
-8.  三月の水 (Aguas De Marco)
-  
-10.  ぼんやりと
-  
-12.  バラに降る雨 (Double Rainbow)
-  
-14.  duet for neko and mishio
-  
-16.  ひまわり
+1. ときどき
+2. waltz for mishio
+3. night song
+4. 三月の水 (Aguas De Marco)
+5. ぼんやりと
+6. バラに降る雨 (Double Rainbow)
+7. duet for neko and mishio
+8. ひまわり
   
 
   
@@ -69,9 +54,8 @@ encore: 
   
 
   
-2.  One Note Samba
-  
-4.  かえるのサンバ
+1. One Note Samba
+2. かえるのサンバ
   
 
   

@@ -29,15 +29,11 @@ artists:
   
 
   
-2.  Pills To Kill Ma August
-  
-4.  ???
-  
-6.  Whole Lotta Summer
-  
-8.  Sonata of Summer
-  
-10.  Akiramujina
+1. Pills To Kill Ma August
+2. ???
+3. Whole Lotta Summer
+4. Sonata of Summer
+5. Akiramujina
   
 
   

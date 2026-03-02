@@ -18,33 +18,33 @@ artists:
 プログレと言うにはちょっと微妙にユルイ感じのこのユニットなのですが、個人的には文句なしに面白いです。SalleGaveau好きな人とかにもアピールするんじゃないかな？とか思ってるのですがどうでしょう？  
 
   
-2.  ピアノソロ  
+1. ピアノソロ  
     
-3.  重量投げ  
+2. 重量投げ  
     
-4.  Fall  
+3. Fall  
     
-5.  Party swing  
+4. Party swing  
     
 
   
 
   
-2.  収容所  
+1. 収容所  
     
-3.  大赤斑  
+2. 大赤斑  
     
-4.  Sub-continental Tango  
+3. Sub-continental Tango  
     
-5.  最低人 variations  
+4. 最低人 variations  
     
-6.  ヒョーロク玉  
+5. ヒョーロク玉  
     
-7.  Dusk  
+6. Dusk  
     
-8.  Surdo balkan steps  
+7. Surdo balkan steps  
     
-9.  腰くだけ (アンコール)  
+8. 腰くだけ (アンコール)  
     
 
 　清水一登 (piano, DW-8000)  

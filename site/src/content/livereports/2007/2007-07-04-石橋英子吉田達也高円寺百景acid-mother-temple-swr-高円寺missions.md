@@ -20,25 +20,16 @@ artists:
 this heatの2曲では川端さんも参加、結構元ネタに忠実なカバーで川端さんも真面目に弾いてます。後半はやっぱりナスノさん参加のトリオで。今日初めて見たわけでもないのですけど、やっぱりプログレだわなぁ。  
 
   
-2.  Sanctuary
-  
-4.  Festival of Teeth
-  
-6.  Death in A Dream
-  
-8.  The Invention of Prachute
-  
-10.  Twilight Furniture (this heat)
-  
-12.  A New Kind of Water (this heat)
-  
-14.  Classic Medley
-  
-16.  Hospital
-  
-18.  Poet and Peasant
-  
-20.  Across the storm
+1. Sanctuary
+2. Festival of Teeth
+3. Death in A Dream
+4. The Invention of Prachute
+5. Twilight Furniture (this heat)
+6. A New Kind of Water (this heat)
+7. Classic Medley
+8. Hospital
+9. Poet and Peasant
+10. Across the storm
   
 
   

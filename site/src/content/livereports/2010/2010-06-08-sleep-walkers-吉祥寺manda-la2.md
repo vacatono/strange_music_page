@@ -16,13 +16,10 @@ artists:
 で、実践編とゆーことでTheronious Monkの「Friday the 13th」とAnton Webernを合成した曲を演奏。ある意味想い出波止場の「Larks' Tongues in Aspic+Sex Machine」みたいな。
 
   
-2.  それそれ
-  
-4.  MC （清水一登の１２音階技法講座）
-  
-6.  Fridays the 13th/variations
-  
-8.  夢で会いましょう
+1. それそれ
+2. MC （清水一登の１２音階技法講座）
+3. Fridays the 13th/variations
+4. 夢で会いましょう
   
 
 後半・・・というか本編。いきなり「重量投げ」ザッパみたいな変なキメから入る無茶な曲。  
@@ -34,29 +31,18 @@ artists:
 コレ続けてくれればもう「おUが観たいー」とか思わずにすむかも。早くも次回が楽しみです。
 
   
-2.  重量投げ
-  
-4.  Fall
-  
-6.  ヒョーロク玉
-  
-8.  Improvisation
-  
-10.  大赤斑
-  
-12.  Sub-continental Tango
-  
-14.  Improvisation
-  
-16.  地底人vs最低人
-  
-18.  Party Swing
-  
-20.  Dusk
-  
-22.  Do  You wanna Dance (surdo balkan steps)
-  
-24.  Friday 13th/variations (encore)
+1. 重量投げ
+2. Fall
+3. ヒョーロク玉
+4. Improvisation
+5. 大赤斑
+6. Sub-continental Tango
+7. Improvisation
+8. 地底人vs最低人
+9. Party Swing
+10. Dusk
+11. Do  You wanna Dance (surdo balkan steps)
+12. Friday 13th/variations (encore)
   
 
   

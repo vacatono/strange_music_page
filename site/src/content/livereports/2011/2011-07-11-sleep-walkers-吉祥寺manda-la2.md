@@ -28,29 +28,21 @@ Do you wanna dance? はノリの良い、ちょっと嘘っぽいバルカン音
 そうそう、MCのライブインフォで小林武文さんが言ってたのですが、7/27(水)に[吉祥寺foxhall](http://foxhole.exblog.jp/)で「山本達久+小林武文+清水一登」というのがあるみたいです。面白そうなので行ってみようかと。  
 
   
-2.  インプロ
-  
-4.  収容所
-  
-
+1. インプロ
+2. 収容所
   
 
   
-2.  重量投げ
+
   
-4.  Fall
-  
-6.  Party swing
-  
-8.  ヒョーロク玉
-  
-10.  Sub-continental Tango
-  
-12.  Dusk
-  
-14.  Do  you wanna dance?  (Surdo Balkan Steps)
-  
-16.  Polka for Zippy
+1. 重量投げ
+2. Fall
+3. Party swing
+4. ヒョーロク玉
+5. Sub-continental Tango
+6. Dusk
+7. Do  you wanna dance?  (Surdo Balkan Steps)
+8. Polka for Zippy
   
 
   

@@ -18,33 +18,33 @@ artists:
 各メンバーがそれぞれ個性持ちつつも構成された音出すバンドですが、吉田さんが入ることによってより「ロックバンド」っぽくなってた感じ、曲によってはUnvers Zeroとかの暗黒チェンバーみたいな風にも聴こえてきました。コレがサルガヴォがと言われると、普段とはだいぶ違うのですがこんなのも是非またやって欲しいです。  
 
   
-2.  Alloy  
+1. Alloy  
     
-3.  童話で書かれた生態系  
+2. 童話で書かれた生態系  
     
-4.  悪魔にやられた悪魔  
+3. 悪魔にやられた悪魔  
     
-5.  Parade  
+4. Parade  
     
-6.  Tempered Elan  
+5. Tempered Elan  
     
-7.  La Cumparsita  
+6. La Cumparsita  
     
 
   
 
   
-2.  影絵遊び  
+1. 影絵遊び  
     
-3.  Strange Device  
+2. Strange Device  
     
-4.  HERAKLION (吉田さんの曲)  
+3. HERAKLION (吉田さんの曲)  
     
-5.  Weightless ZOO  
+4. Weightless ZOO  
     
-6.  行進するライナセロスヴァイパー  
+5. 行進するライナセロスヴァイパー  
     
-7.  ぐちゃぐちゃな秩序 (アンコール)  
+6. ぐちゃぐちゃな秩序 (アンコール)  
     
 
   

@@ -20,39 +20,39 @@ artists:
 次回のアコアスは未定らしいですが、来週はユニベルゼロ来日の前座でエレアスのライブ。３月は吉祥寺スターパインズカフェでエレアスのワンマンが有ります。
 
   
-2.  WATARIDORI  
+1. WATARIDORI  
     
-3.  Global Network  
+2. Global Network  
     
-4.  White Room  
+3. White Room  
     
-5.  柔らかな回廊 (Corridoio molle)  
+4. 柔らかな回廊 (Corridoio molle)  
     
-6.  凍てついた記憶  
+5. 凍てついた記憶  
     
-7.  ルカ組曲  
+6. ルカ組曲  
       
       
     
-8.  Marching Grass on The Hill  
+7. Marching Grass on The Hill  
     
-9.  Distance  
+8. Distance  
     
-10.  冬  
+9. 冬  
      
-11.  邂逅  
+10. 邂逅  
      
-12.  Perpetual Motion  
+11. Perpetual Motion  
      
-13.  黄源の舞  
+12. 黄源の舞  
      
-14.  Rogus  
+13. Rogus  
        
        
      
-15.  Cryptogam Illusion  
+14. Cryptogam Illusion  
      
-16.  Legend  
+15. Legend  
      
 
   

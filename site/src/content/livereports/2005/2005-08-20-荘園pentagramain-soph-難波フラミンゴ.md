@@ -15,11 +15,9 @@ source: "wordpress"
 何年かぶりに藤井様と再会できて嬉しかったです。  
 
   
-2.  西尾ヤスヒロ (guitars)
-  
-4.  藤井博章 (bass)
-  
-6.  森功 (drums)
+1. 西尾ヤスヒロ (guitars)
+2. 藤井博章 (bass)
+3. 森功 (drums)
   
 
   
@@ -33,19 +31,13 @@ source: "wordpress"
 ちなみに4曲目はJean-Luc Pontyの4thからの曲。  
 
   
-2.  AQUARIUS
-  
-4.  PARADOX(I'm confused)
-  
-6.  EMERALD FOREST
-  
-8.  Egocentric Molecules (Jean-Luc Ponty)
-  
-10.  KAAMOS
-  
-12.  PEGASUS
-  
-14.  ESCAPE FROM THE BLACKHOLE
+1. AQUARIUS
+2. PARADOX(I'm confused)
+3. EMERALD FOREST
+4. Egocentric Molecules (Jean-Luc Ponty)
+5. KAAMOS
+6. PEGASUS
+7. ESCAPE FROM THE BLACKHOLE
   
 
   
@@ -75,17 +67,12 @@ source: "wordpress"
 3曲目はサウンドオブミュージックのアレです。といってもアインソフにしか聴こえないけど。  
 
   
-2.  白鳥の湖
-  
-4.  マジックカーペット
-  
-6.  私の好きなもの
-  
-8.  ブライアンスミスの主題による変奏曲
-  
-10.  ルーサの谷間
-  
-12.  処女航海
+1. 白鳥の湖
+2. マジックカーペット
+3. 私の好きなもの
+4. ブライアンスミスの主題による変奏曲
+5. ルーサの谷間
+6. 処女航海
   
 
   

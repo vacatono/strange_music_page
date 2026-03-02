@@ -10,21 +10,14 @@ artists:
 #fishermen tit totのレコ初のライヴは仕事でどーしても行けなくって、しかもCDもなかなか見つけられなくって、この日に(普段音楽全然聴かないような)友達誘ってちょっとイベントじみたライヴだったんですけど、行ってきました。  
 
   
-2.  Ruby
-  
-4.  Runaway from Circus
-  
-6.  Rainbow
-  
-8.  Happy Happy Family
-  
-10.  Diving for Daiamond
-  
-12.  ためいきの丘
-  
-14.  森と森の間に
-  
-16.  ロシア鉄道
+1. Ruby
+2. Runaway from Circus
+3. Rainbow
+4. Happy Happy Family
+5. Diving for Daiamond
+6. ためいきの丘
+7. 森と森の間に
+8. ロシア鉄道
   
 
   

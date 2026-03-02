@@ -26,47 +26,34 @@ artists:
 1st set:  
 
   
-2.  PERU
-  
-4.  8687
-  
-6.  FOLLOWING EVENING
-  
-8.  SEBO MURCHOSE
-  
-10.  EBRIO (w/福岡ユタカ)
-  
-12.  SALON (w/小川美潮)
+1. PERU
+2. 8687
+3. FOLLOWING EVENING
+4. SEBO MURCHOSE
+5. EBRIO (w/福岡ユタカ)
+6. SALON (w/小川美潮)
   
 
   
 2nd set:  
 
   
-2.  Undiu (Joao Gilberto)
-  
-4.  WISH
-  
-6.  Sanfona (Egberto Gismonti)
-  
-8.  LIMBO DANCE
-  
-10.  BLIVITS
-  
-12.  BOB
-  
-14.  日没
+1. Undiu (Joao Gilberto)
+2. WISH
+3. Sanfona (Egberto Gismonti)
+4. LIMBO DANCE
+5. BLIVITS
+6. BOB
+7. 日没
   
 
   
 encore:  
 
   
-2.  奴隷の恩返し
-  
-4.  EBRIO (w/村田陽一,福岡ユタカ)
-  
-6.  かたたたき
+1. 奴隷の恩返し
+2. EBRIO (w/村田陽一,福岡ユタカ)
+3. かたたたき
   
 
   

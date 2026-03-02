@@ -26,25 +26,16 @@ artists:
 ([http://www.geocities.jp/gonzo1go/home.html](http://www.geocities.jp/gonzo1go/home.html))  
 
   
-2.  Distance
-  
-4.  Adolescencia
-  
-6.  Cryptogam Illusion
-  
-8.  Bird Eyes View
-  
-10.  神の摂理に挑む者達
-  
-12.  Global Network
-  
-14.  Brilliant Streams
-  
-16.  Nostalghia
-  
-18.  流氷
-  
-20.  精神宮殿
+1. Distance
+2. Adolescencia
+3. Cryptogam Illusion
+4. Bird Eyes View
+5. 神の摂理に挑む者達
+6. Global Network
+7. Brilliant Streams
+8. Nostalghia
+9. 流氷
+10. 精神宮殿
   
 
   

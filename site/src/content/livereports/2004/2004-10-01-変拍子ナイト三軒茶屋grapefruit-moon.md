@@ -21,15 +21,11 @@ artists:
 ちなみに次回のライヴ(10/14@新宿Live Freak)では元魔方陣、現KBBの菅野詩郎さんがドラムのようです。  
 
   
-2.  波涛
-  
-4.  祈り
-  
-6.  ?
-  
-8.  Neo Classical Dance
-  
-10.  Spiral
+1. 波涛
+2. 祈り
+3. ?
+4. Neo Classical Dance
+5. Spiral
   
 
   

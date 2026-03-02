@@ -18,17 +18,12 @@ artists:
 結婚式+2次会で既に飲んでたのでウロ覚えですけど、2nd setはこんな感じだったかな？  
 
   
-2.  (新曲)
-  
-4.  8687
-  
-6.  VACATONO (奴隷の恩返し)
-  
-8.  SALON (Upon Hearing)
-  
-10.  PERU
-  
-12.  EBRIO (アンコール)
+1. (新曲)
+2. 8687
+3. VACATONO (奴隷の恩返し)
+4. SALON (Upon Hearing)
+5. PERU
+6. EBRIO (アンコール)
   
 
   

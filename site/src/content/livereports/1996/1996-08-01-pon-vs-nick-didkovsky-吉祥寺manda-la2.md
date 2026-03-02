@@ -28,17 +28,12 @@ artists:
 1st set: PON  
 
   
-2.  GU #3
-  
-4.  ペテン師 #13
-  
-6.  '94.6.10 #1
-  
-8.  ペテン師 #14
-  
-10.  '94.5.19 #1
-  
-12.  GU #6
+1. GU #3
+2. ペテン師 #13
+3. '94.6.10 #1
+4. ペテン師 #14
+5. '94.5.19 #1
+6. GU #6
   
 
   
@@ -48,12 +43,8 @@ artists:
 3rd set: PON + N.Didkovsky  
 
   
-2.  Didkovsky+植村+清水
-  
-4.  Didkovsky+高良+坪口+植村
-  
-6.  Didkovsky+広瀬
-  
-8.  GU #2
-  
-10.  The Shameful Stein
+1. Didkovsky+植村+清水
+2. Didkovsky+高良+坪口+植村
+3. Didkovsky+広瀬
+4. GU #2
+5. The Shameful Stein

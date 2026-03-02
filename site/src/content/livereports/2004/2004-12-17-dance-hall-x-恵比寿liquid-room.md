@@ -82,21 +82,14 @@ LIQUID ROOMが恵比寿に移転して初めて行きました。上のバーの
 でも久々に「S」が聴けたのは嬉しかった。  
 
   
-2.  Playmate at Hanoi
-  
-4.  Fame
-  
-6.  構造-1
-  
-8.  構造-5
-  
-10.  Hey Joe
-  
-12.  構造-6
-  
-14.  S
-  
-16.  Mirror Balls
+1. Playmate at Hanoi
+2. Fame
+3. 構造-1
+4. 構造-5
+5. Hey Joe
+6. 構造-6
+7. S
+8. Mirror Balls
   
 
   

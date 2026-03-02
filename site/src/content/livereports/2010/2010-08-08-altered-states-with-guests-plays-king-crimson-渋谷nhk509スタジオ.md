@@ -25,7 +25,7 @@ Altered Statesってことで太陽と戦慄～レッド辺りの曲をやるの
 このAltered States plays King Crimsonは11/26に新宿PIT-INNでまたやるそうです。
 
   
-2.  21st Century Schizoid Man  
+1. 21st Century Schizoid Man  
     including Mirrors  
     
 3.  I Talk To The Wind  

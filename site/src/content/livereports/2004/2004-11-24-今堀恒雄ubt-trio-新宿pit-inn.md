@@ -17,35 +17,28 @@ artists:
 1st set  
 
   
-2.  UBT1
-  
-4.  Method of panic
-  
-6.  Desert for dessert
-  
-8.  JDVer3
+1. UBT1
+2. Method of panic
+3. Desert for dessert
+4. JDVer3
   
 
   
 2nd set  
 
   
-2.  (?)
-  
-4.  (red eye?)
-  
-6.  Joujoushka
-  
-8.  UBT3（の最後のリフ）
-  
-10.  D.V.Bleach (UBT10)
+1. (?)
+2. (red eye?)
+3. Joujoushka
+4. UBT3（の最後のリフ）
+5. D.V.Bleach (UBT10)
   
 
   
 encore  
 
   
-2.  In Organic
+1. In Organic
   
 
   

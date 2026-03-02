@@ -13,27 +13,17 @@ artists:
 行ってきたよ、すっげー楽しかったよ。とりあえず細かいことはラーメン食ってから書くよ。  
 
   
-2.  Undiu
-  
-4.  老人達の夢 (かたたたき)
-  
-6.  WISH
-  
-8.  8687
-  
-10.  Ebrio
-  
-12.  奴隷の恩返し (Vacatono)
-  
-14.  Limbo's Dance (ゆっくりさん)
-  
-16.  Sanfona (新曲!)
-  
-18.  Tasmania
-  
-20.  Upon Hearing (SALON)
-  
-22.  日没
+1. Undiu
+2. 老人達の夢 (かたたたき)
+3. WISH
+4. 8687
+5. Ebrio
+6. 奴隷の恩返し (Vacatono)
+7. Limbo's Dance (ゆっくりさん)
+8. Sanfona (新曲!)
+9. Tasmania
+10. Upon Hearing (SALON)
+11. 日没
   
 
   

@@ -18,13 +18,10 @@ artists:
 4曲目は3枚目のアルバム収録のとにかく弾きまくりの曲、自分のいる所からはステージ見え無かったんですけど、かなり気合入りすぎだったようです。  
 
   
-2.  (新曲)
-  
-4.  ?
-  
-6.  ミニマル
-  
-8.  Frost and Fire
+1. (新曲)
+2. ?
+3. ミニマル
+4. Frost and Fire
   
 
   
@@ -50,31 +47,19 @@ artists:
 えーと曲目はちょっとわかんない（CD1枚しか持ってないし）ので、来日公式からセットリストをコピペ。  
 
   
-2.  DAISY
-  
-4.  BANNED
-  
-6.  HAST
-  
-8.  SCHIZO
-  
-10.  JIGSAW
-  
-12.  TRASAW
-  
-14.  ETAGE
-  
-16.  WATCH ME
-  
-18.  DALTSUG
-  
-20.  HOLLMER
-  
-22.  LOUDER (encore 1)
-  
-24.  BAADER (encore 1)
-  
-26.  advokaten feat dupont (encore 2)
+1. DAISY
+2. BANNED
+3. HAST
+4. SCHIZO
+5. JIGSAW
+6. TRASAW
+7. ETAGE
+8. WATCH ME
+9. DALTSUG
+10. HOLLMER
+11. LOUDER (encore 1)
+12. BAADER (encore 1)
+13. advokaten feat dupont (encore 2)
   
 
   

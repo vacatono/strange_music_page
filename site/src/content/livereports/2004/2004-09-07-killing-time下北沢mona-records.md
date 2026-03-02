@@ -29,25 +29,16 @@ artists:
 ラスト「かたたたき」では清水さんの吊りシロフォンが炸裂。木琴がグルグル回ってました。  
 
   
-2.  Undiu
-  
-4.  Limbo's dance (ゆっくりさん)
-  
-6.  Wish
-  
-8.  Upon Hearing (Salon)
-  
-10.  8687
-  
-12.  A Petty Solace (Strive for happiness?)
-  
-14.  Ebrio
-  
-16.  Peru
-  
-18.  日没
-  
-20.  老人達の夢（かたたたき）
+1. Undiu
+2. Limbo's dance (ゆっくりさん)
+3. Wish
+4. Upon Hearing (Salon)
+5. 8687
+6. A Petty Solace (Strive for happiness?)
+7. Ebrio
+8. Peru
+9. 日没
+10. 老人達の夢（かたたたき）
   
 
   

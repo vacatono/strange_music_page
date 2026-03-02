@@ -50,21 +50,21 @@ http://fresh-pr.com/
 3/4曲目はなんだっけな？確かまだアルバムには入ってない曲。  
 
   
-2.  Vissqauell (3rd)  
+1. Vissqauell (3rd)  
     
-3.  Rattims Firezz (4th)  
+2. Rattims Firezz (4th)  
     
-4.  ???  
+3. ???  
     
-5.  ???  
+4. ???  
     
-6.  Fettim Paillu (4th)  
+5. Fettim Paillu (4th)  
     
-7.  Angherr Shisspa (4th)  
+6. Angherr Shisspa (4th)  
     
-8.  Rissenddo Rraimb (2nd)  
+7. Rissenddo Rraimb (2nd)  
     
-9.  Nyvraym (3rd)  
+8. Nyvraym (3rd)  
     
 
   

@@ -70,17 +70,12 @@ artists:
 セットリストたぶんこんな（自信なし、Arabesqueのフレーズを聴いた気もするし）  
 
   
-2.  Isotope
-  
-4.  Objection
-  
-6.  Freestone
-  
-8.  impro. - Rambling
-  
-10.  Nervecell
-  
-12.  Jackson (アンコール)
+1. Isotope
+2. Objection
+3. Freestone
+4. impro. - Rambling
+5. Nervecell
+6. Jackson (アンコール)
   
 
   

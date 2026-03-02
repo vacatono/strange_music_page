@@ -49,17 +49,17 @@ Poseidonのフェス初日です。シルエレ来るの久々ですが。
 あーでも今回は本当に安定していて、凄く良かったです。このままアレコレ煮詰めて2ndとか作って欲しいなーとか思っています。  
 
   
-2.  波濤  
+1. 波濤  
     
-3.  Matsukura Snow  
+2. Matsukura Snow  
     
-4.  Etude pt.1 / pt.2  
+3. Etude pt.1 / pt.2  
     
-5.  Subway  
+4. Subway  
     
-6.  Neo Classic Dance  
+5. Neo Classic Dance  
     
-7.  Spiral  
+6. Spiral  
     
 
   

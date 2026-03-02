@@ -25,15 +25,15 @@ guitar+bass+drums+percussion+keyboard+synthesizer+voiceの7人編成のバンド
 この日は特に佐々木絵美さんのアコーディオンがキレ良くって、とても締まって聴けました。最近の国内構築系プログレでは本当に一番面白いんじゃないかと思ってます。10月からレコーディングとの事で、音源出してもっと活躍して欲しいなぁと思ってます。  
 
   
-2.  Jean-Pierre  
+1. Jean-Pierre  
     
-3.  Synapse  
+2. Synapse  
     
-4.  Ceaseless Memory (Part A/Part B)  
+3. Ceaseless Memory (Part A/Part B)  
     
-5.  X-zone  
+4. X-zone  
     
-6.  Parallel Railways  
+5. Parallel Railways  
     
 
   

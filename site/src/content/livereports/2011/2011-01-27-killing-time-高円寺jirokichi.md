@@ -11,19 +11,19 @@ artists:
   - 'Ma*To'
 ---
 
-2.  PERU
-3.  8687
-4.  Limbo dance
-5.  (ピアソラの曲)
-6.  SALON
+1. PERU
+2. 8687
+3. Limbo dance
+4. (ピアソラの曲)
+5. SALON
 
-7.  Following evening
-8.  Sebo Murchose
-9.  ヒョーロク玉
-10. 沈黙する湖
-11. BOB
+6. Following evening
+7. Sebo Murchose
+8. ヒョーロク玉
+9. 沈黙する湖
+10. BOB
 
-12. EBRIO
+11. EBRIO
 
 - 清水一登 (piano,keyboards)
 - Ma\*To (tabla,synthesizer)

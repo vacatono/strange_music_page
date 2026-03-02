@@ -9,41 +9,30 @@ artists:
   - "板倉文"
 ---
 
-2.  6 1/2
-  
-4.  Sebo Murchose
-  
-6.  新大久保の夜
-  
-8.  羊の見た夢
-  
-10.  印象主義
-  
-12.  新大魔人
+1. 6 1/2
+2. Sebo Murchose
+3. 新大久保の夜
+4. 羊の見た夢
+5. 印象主義
+6. 新大魔人
   
 
   
 
   
-2.  ニュー一本
-  
-4.  HASU KRIYA
-  
-6.  Misty
-  
-8.  A Night in Tunisia
-  
-10.  見つからない森
-  
-12.  梅肉エキス
+1. ニュー一本
+2. HASU KRIYA
+3. Misty
+4. A Night in Tunisia
+5. 見つからない森
+6. 梅肉エキス
   
 
   
 
   
-2.  Feelings
-  
-4.  ウェイトレス
+1. Feelings
+2. ウェイトレス
   
 
   

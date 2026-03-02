@@ -18,13 +18,10 @@ artists:
 あ、でも最後のインプロちょっと長すぎて飽きた。  
 
   
-2.  ?
-  
-4.  Rain Drop
-  
-6.  アフロ圏
-  
-8.  ?
+1. ?
+2. Rain Drop
+3. アフロ圏
+4. ?
   
 
   
@@ -51,21 +48,21 @@ artists:
 一部ラスの「Expresso」はGazeuse!のラス曲。BonさんはHoldsworthのギターのラインを一生懸命なぞってる感じ。  
 
   
-2.  Soli  
+1. Soli  
     
-3.  ?  
+2. ?  
     
-4.  Golden Dilemma  
+3. Golden Dilemma  
     
-5.  ?  
+4. ?  
     
-6.  Three Blind Mice  
+5. Three Blind Mice  
     
-7.  Heavy Tune  
+6. Heavy Tune  
     
-8.  (Benoit Moerlan solo)  
+7. (Benoit Moerlan solo)  
     
-9.  Expresso  
+8. Expresso  
     
 
 #### Gongzilla

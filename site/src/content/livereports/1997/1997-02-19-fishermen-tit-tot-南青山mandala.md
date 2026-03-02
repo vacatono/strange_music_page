@@ -47,54 +47,34 @@ artists:
 1st set:  
 
   
-2.  ? (Happy Happy Family)
-  
-4.  Run Away From Circus
-  
-6.  ? (中原さんの曲)
-  
-8.  働く男
-  
-10.  ? (獏)
-  
-12.  Jazz
-  
-14.  plans for chaos (Diving For Diamonds)  
+1. ? (Happy Happy Family)
+2. Run Away From Circus
+3. ? (中原さんの曲)
+4. 働く男
+5. ? (獏)
+6. Jazz
+7. plans for chaos (Diving For Diamonds)  
      
 
   
 2nd set:  
 
   
-2.  路傍の石
-  
-4.  アンデス
-  
-6.  幸の言葉
-  
-8.  老人の歌
-  
-10.  嵐ヶ丘 (常習者のごとく)
-  
-12.  snowflake's promise
-  
-14.  リケリケ
-  
-16.  ためいきの丘
-  
-18.  take2 (Ruby)
-  
-20.  戸川純に捧げる曲
-  
-22.  ミステリー
-  
-24.  森と森の間に
-  
-26.  うそつきトム
-  
-28.  ロシア鉄道
-  
-30.  リケリケ (encore)
+1. 路傍の石
+2. アンデス
+3. 幸の言葉
+4. 老人の歌
+5. 嵐ヶ丘 (常習者のごとく)
+6. snowflake's promise
+7. リケリケ
+8. ためいきの丘
+9. take2 (Ruby)
+10. 戸川純に捧げる曲
+11. ミステリー
+12. 森と森の間に
+13. うそつきトム
+14. ロシア鉄道
+15. リケリケ (encore)
   
 
   

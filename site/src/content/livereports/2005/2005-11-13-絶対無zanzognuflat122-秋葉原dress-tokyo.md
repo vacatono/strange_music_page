@@ -64,21 +64,14 @@ artists:
 ただこのハコではちょっとピアノの音が聴きにくかったように思いました。  
 
   
-2.  夏
-  
-4.  Etude #1
-  
-6.  Etude #2
-  
-8.  Stela Lee Jones
-  
-10.  目眩
-  
-12.  ?(台風)
-  
-14.  Neo Classic Dance
-  
-16.  Spiral
+1. 夏
+2. Etude #1
+3. Etude #2
+4. Stela Lee Jones
+5. 目眩
+6. ?(台風)
+7. Neo Classic Dance
+8. Spiral
   
 
   

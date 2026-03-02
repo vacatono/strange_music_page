@@ -51,19 +51,13 @@ artists:
 何でもカナダでライブをして、9月くらいに新譜を作る（現在大絶賛で中断中とか…）ようです。新譜楽しみだなー。  
 
   
-2.  ??? (素数ゼミ)
-  
-4.  No Reason up to the Death
-  
-6.  Pills To Kill Ma August
-  
-8.  (新曲, 夏の温泉大爆発)
-  
-10.  Septemujina
-  
-12.  Natsu no Mujina
-  
-14.  Newsummerboy
+1. ??? (素数ゼミ)
+2. No Reason up to the Death
+3. Pills To Kill Ma August
+4. (新曲, 夏の温泉大爆発)
+5. Septemujina
+6. Natsu no Mujina
+7. Newsummerboy
   
 
   

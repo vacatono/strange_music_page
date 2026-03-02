@@ -47,23 +47,15 @@ artists:
 あ、あとこの日は妙に拍手の音が大きかったよーに思います。やっぱりみんな待ち望んでたんだなーとか思いました。なので「また18年後に」とか言わないでまたやって欲しいです。  
 
   
-2.  Highland
-  
-4.  Phoenix
-  
-6.  ???
-  
-8.  Tightrope
-  
-10.  陽炎
-  
-12.  ???
-  
-14.  Rogus
-  
-16.  Ryu-Hyo
-  
-18.  Distance
+1. Highland
+2. Phoenix
+3. ???
+4. Tightrope
+5. 陽炎
+6. ???
+7. Rogus
+8. Ryu-Hyo
+9. Distance
   
 
   
