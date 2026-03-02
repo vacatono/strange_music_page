@@ -17,7 +17,7 @@
   --color-tag-text: #4a5568;
   --font-body: sans-serif;
   --font-mono: monospace;
-  --max-width: 960px;
+  --max-width: 800px;
   --radius: 8px;
   --transition: 0.2s ease;
 }
@@ -34,6 +34,7 @@
 html {
   font-size: 15px;
   scroll-behavior: smooth;
+  overflow-y: scroll; /* Always show scrollbar to prevent layout shift */
 }
 
 body {
@@ -63,9 +64,19 @@ img {
 
 /* Container */
 .container {
+  width: 100%;
   max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Fixed container width on desktop to prevent shifting between pages */
+@media (min-width: 800px) {
+  .container {
+    width: var(--max-width);
+  }
 }
 
 /* Header */
