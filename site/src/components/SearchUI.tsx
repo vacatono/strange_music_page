@@ -18,7 +18,7 @@ const SearchUI: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/search-index.json')
+    fetch(`${import.meta.env.BASE_URL}search-index.json`.replace('//', '/'))
       .then(res => res.json())
       .then(data => {
         const fuseInstance = new Fuse<SearchResult>(data, {
@@ -81,7 +81,7 @@ const SearchUI: React.FC = () => {
 
       <div className="search-results-list">
         {results.map(({ item }) => (
-          <a key={item.id} href={`/livereports/${item.slug}/`} className="search-result-item">
+          <a key={item.id} href={`${import.meta.env.BASE_URL}livereports/${item.slug}/`} className="search-result-item">
             <div className="result-header">
               <span className="result-date">{item.date}</span>
               <h3 className="result-title">{item.title}</h3>

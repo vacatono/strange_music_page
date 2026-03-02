@@ -25,12 +25,12 @@ const { year, reports } = Astro.props;
 ---
 
 <BaseLayout title={`${year}年のライブレポート`}>
-  <a href="/years/" class="back-link">← 年別一覧へ</a>
+  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/`} class="back-link">← 年別一覧へ</a>
   <h1 class="page-title">{year}年</h1>
   <p class="page-subtitle">{reports.length}件のライブレポート</p>
 
   {reports.map((report: any) => (
-    <a href={`/livereports/${report.id}/`} class="report-card">
+    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/livereports/${report.id}/`} class="report-card">
       <div class="report-card-date">
         {report.data.date.toISOString().slice(0, 10)}
       </div>

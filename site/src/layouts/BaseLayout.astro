@@ -16,20 +16,20 @@ const { title, description = 'strange music page - ライブレポートアー�
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;700&family=M+PLUS+1+Code&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/styles/global.css" />
+  <link rel="stylesheet" href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/styles/global.css`} />
 </head>
 <body>
   <header class="site-header">
     <div class="container">
-      <a href="/" class="site-title">
+      <a href={import.meta.env.BASE_URL} class="site-title">
         <span class="site-title-main">strange music page</span>
         <span class="site-title-sub">live reports archive 1993-2014</span>
       </a>
       <nav class="site-nav">
-        <a href="/">トップ</a>
-        <a href="/years/">年別</a>
-        <a href="/artists/">アーティスト</a>
-        <a href="/venues/">会場</a>
+        <a href={import.meta.env.BASE_URL}>トップ</a>
+        <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/`}>年別</a>
+        <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/artists/`}>アーティスト</a>
+        <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/venues/`}>会場</a>
       </nav>
     </div>
   </header>

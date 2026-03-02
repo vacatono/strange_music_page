@@ -19,7 +19,7 @@ const year = report.data.date.getFullYear();
 ---
 
 <BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - ライブレポート`}>
-  <a href={`/years/${year}/`} class="back-link">← {year}年のレポートへ</a>
+  <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/years/${year}/`} class="back-link">← {year}年のレポートへ</a>
 
   <article>
     <div class="report-header">
@@ -27,7 +27,7 @@ const year = report.data.date.getFullYear();
       <div class="report-meta">
         <span class="report-meta-item">📅 {dateStr}</span>
         {report.data.venue && (
-          <span class="report-meta-item">📍 <a href={`/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
+          <span class="report-meta-item">📍 <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
         )}
         <span class="report-meta-item">📝 {report.data.source === 'wordpress' ? 'WordPress' : 'HTML版'}</span>
       </div>
@@ -37,7 +37,7 @@ const year = report.data.date.getFullYear();
           <ul class="tag-list">
             {report.data.artists.map((artist: string) => (
               <li>
-                <a href={`/artists/${toSlug(artist)}/`} class="tag-link">{artist}</a>
+                <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/artists/${toSlug(artist)}/`} class="tag-link">{artist}</a>
               </li>
             ))}
           </ul>
