@@ -18,7 +18,8 @@ const SearchUI: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}search-index.json`.replace('//', '/'))
+    const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+    fetch(`${baseUrl}/search-index.json`.replace('//', '/'))
       .then(res => res.json())
       .then(data => {
         const fuseInstance = new Fuse<SearchResult>(data, {

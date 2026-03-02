@@ -1,4 +1,6 @@
 ---
+import HeaderSearch from '../components/HeaderSearch';
+
 interface Props {
   title: string;
   description?: string;
@@ -31,6 +33,7 @@ const { title, description = 'strange music page - live memo archive 1993-' } = 
         <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/artists/`}>アーティスト</a>
         <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/venues/`}>会場</a>
       </nav>
+      <HeaderSearch client:load />
     </div>
   </header>
 
