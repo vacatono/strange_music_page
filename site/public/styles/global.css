@@ -325,13 +325,23 @@ main.container {
   margin-bottom: 1rem;
 }
 
-.report-body ul,
+.report-body ul {
+  margin: 1rem 0 1rem 1.5rem;
+  list-style: none;
+}
+
 .report-body ol {
-  margin: 0.5rem 0 1rem 1.5rem;
+  margin: 1rem 0 1rem 1.5rem;
+  list-style: decimal;
 }
 
 .report-body li {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.15rem;
+}
+
+.report-body li p {
+  margin-bottom: 0;
+  display: inline; /* pタグをインライン化して余分な改行を防ぐ */
 }
 
 /* Section heading */
