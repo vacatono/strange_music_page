@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Search from '../components/Search.astro';
 import { getCollection } from 'astro:content';
 
 const reports = await getCollection('livereports');
@@ -45,7 +46,7 @@ const recent = sorted.slice(0, 10);
     </div>
   </div>
 
-  <div id="search"></div>
+  <Search />
 
   <h2 class="section-heading">年別アーカイブ</h2>
   <div class="year-grid">
