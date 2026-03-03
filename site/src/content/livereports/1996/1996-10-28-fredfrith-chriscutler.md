@@ -4,6 +4,7 @@ date: 1996-10-28
 venue: '渋谷LA-MAMA'
 source: 'html'
 artists:
+  - '来日公演'
   - 'Fred Frith'
   - 'Chris Cutler'
   - '一噌幸弘'
