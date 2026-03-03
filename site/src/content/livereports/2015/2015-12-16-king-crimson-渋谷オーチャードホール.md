@@ -15,7 +15,7 @@ artists:
   - 'Bill Rieflin'
 setlist:
   - Walk on Monk Morph Chamber Music
-  - Larks' Tongues in Aspic, Part One
+  - Larks' Tongues in Aspic, Part I
   - Peace - An End
   - Pictures of a City
   - Radical Action
@@ -32,7 +32,7 @@ setlist:
   - The Letters
   - Level Five
   - Starless
-  - Larks' Tongues in Aspic Part II (encore)
+  - Larks' Tongues in Aspic, Part II (encore)
   - 21st Century Schizoid Man (encore)
 ---
 

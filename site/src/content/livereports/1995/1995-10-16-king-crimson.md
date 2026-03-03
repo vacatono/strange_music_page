@@ -1,9 +1,11 @@
 ---
-title: 'KING CRIMSON @ 中野サンプラザ'
+title: 'King Crimson @ 中野サンプラザ'
 date: 1995-10-16
 venue: '中野サンプラザ'
 source: 'html'
 artists:
+  - '来日公演'
+  - 'King Crimson'
   - 'Robert Fripp'
   - 'Adrian Belew'
   - 'Bill Bruford'
@@ -20,6 +22,7 @@ setlist:
   - 'thrak'
   - 'Matte Kudasai'
   - 'Neurotica'
+  - 'VROOOM'
   - 'Sex, Sleep, Eat, Drink, Dream'
   - 'People'
   - 'Three of A Perfect Pair'
@@ -38,33 +41,9 @@ thrak出してからの来日っす。大学の友達と行きました.....
 
 「RED」とか「LARKS' TONGUES IN ASPIC」とかの定番曲は結構盛りあがったんですけど、何かトータルで感じるモノが無かったと言うか。
 
-## メンバー
-
 - Robert Fripp (guitars)
 - Adrian Belew (guitars,vocals)
 - Bill Bruford (drums,percussions)
 - Pat Mastellott (drums,percussions)
 - Tony Levin (bass,stick)
 - Trey Gunn (stick)
-
-## セットリスト
-
-1. VROOOM VROOOM
-2. Frame by Frame
-3. Dinosaur
-4. One Time
-5. Red
-6. B'BOOM
-7. thrak
-8. Matte Kudasai
-9. Neurotica
-10. Sex, Sleep, Eat, Drink, Dream
-11. People
-12. Three of A Perfect Pair
-13. improvisation
-14. Elephant Talk
-15. Indiscipline
-16. B'BISH
-17. Talking Drum
-18. Larks' Tongues in Aspic Part Two
-19. Walking On Air
