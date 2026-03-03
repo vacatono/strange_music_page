@@ -12,7 +12,7 @@ artists:
 setlist:
   - 'instrumental (from GALATEA)'
   - '黎明風'
-  - 'Ring part.1drum soloRing part.2'
+  - 'Ring part.1 - drum solo - Ring part.2'
   - 'Drastic Night'
   - '蝶胡夢楼の一夜'
   - 'ルシフェルの翼'
