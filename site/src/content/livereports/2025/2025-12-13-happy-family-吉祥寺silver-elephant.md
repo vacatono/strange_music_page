@@ -4,6 +4,7 @@ date: 2025-12-13
 venue: '吉祥寺Silver Elephant'
 source: 'manual'
 artists:
+  - 'HAPPY FAMILY'
   - '森本賢一'
   - '泉谷隆洋'
   - '市川秀水'

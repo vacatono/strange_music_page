@@ -4,6 +4,8 @@ date: 2026-02-21
 venue: '吉祥寺Silver Elephant'
 source: ''
 artists:
+  - 'Mitaraphina'
+  - '那由他計画'
   - '未藍千紗'
   - 'Raphy'
   - '田中隆司'

@@ -4,6 +4,8 @@ date: 2026-02-07
 venue: '吉祥寺star-pines-cafe'
 source: 'manual'
 artists:
+  - 'チャクラ'
+  - 'くじら'
   - '板倉文'
   - '小川美潮'
   - '勝俣伸吾'
