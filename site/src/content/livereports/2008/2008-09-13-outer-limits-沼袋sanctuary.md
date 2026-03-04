@@ -1,19 +1,27 @@
 ---
-title: "Outer Limits @沼袋Sanctuary"
+title: 'Outer Limits @沼袋Sanctuary'
 date: 2008-09-13
-venue: "沼袋Sanctuary"
-source: "wordpress"
+venue: '沼袋Sanctuary'
+source: 'wordpress'
+artists:
+  - 'Outer Limits'
+  - '塚本周正'
+  - '川口貴'
+  - '杉本正'
+  - '荒牧隆'
+  - '桜井信行'
 ---
 
 80年代に日本のプログレ聴いてた人なら知らない人はいないでしょ？なグループ、アウターリミッツの４年ぶりのライブだそうです。ちなみに自分はナマで見るのは初めて。  
 前半は新譜「STROMATOLITE」中心の演奏。後半では旧作から「Misty Moon」と「ペールブルーの情景」  
 アンコールでは最近出たコンピCDの「Discoloured Ice」と、旧作から「Spanish Labyrinth」（だったよな確か）
 
-　塚本周正 (keyboards,chorus)  
-　川口貴 (violin)  
-　杉本正 (bass,vocals)  
-　荒牧隆 (guitars)  
-　桜井信行 (drums)  
+- 塚本周正 (keyboards,chorus)
+- 川口貴 (violin)
+- 杉本正 (bass,vocals)
+- 荒牧隆 (guitars)
+- 桜井信行 (drums)
+
 ( [http://www.amy.hi-ho.ne.jp/alan/outerlimits/](http://www.amy.hi-ho.ne.jp/alan/outerlimits/) )
 
 ・川口貴さんのバイオリンがとても格好良かった。  
