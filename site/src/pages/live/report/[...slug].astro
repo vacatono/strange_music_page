@@ -16,14 +16,15 @@ const { Content } = await render(report);
 
 const dateStr = report.data.date ? report.data.date.toISOString().slice(0, 10) : '日付不明';
 const year = report.data.date ? report.data.date.getFullYear() : '不明';
+const title = report.data.title || '無題';
 ---
 
-<BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - live memo`}>
+<BaseLayout title={title} description={`${dateStr} ${title} - live memo`}>
   <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/years/${year}/`} class="back-link">← {year}年のメモへ</a>
 
   <article>
     <div class="report-header">
-      <h1 class="page-title">{report.data.title}</h1>
+      <h1 class="page-title">{title}</h1>
       <div class="report-meta">
         <span class="report-meta-item">📅 {dateStr}</span>
         {report.data.venue && (

@@ -1,10 +1,13 @@
 ---
-title: "Fred Frith+Ahmad Compaore+オノセイゲン @飯田橋日仏学院"
+title: 'Fred Frith+Ahmad Compaore+オノセイゲン @飯田橋日仏学院'
 date: 2009-01-17
-venue: "飯田橋日仏学院"
-source: "wordpress"
+venue: '飯田橋日仏学院'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - 'Fred Frith'
+  - 'Ahmad Compaore'
+  - 'オノセイゲン'
 ---
 
 Curved Air終了後、急いで川崎から飯田橋へ。  
@@ -19,6 +22,6 @@ Ahmad Compaoreはサウジアラビア生まれマルセイユ育ちのドラム
 
 まぁとりあえず見れただけでも嬉しかったです。んでも、久々の来日なのだから色んな人と1週間くらい色々やってくれれば良いのになぁ。
 
-　Fred Frith (guitars)  
-　Ahmad Compaore (drums)  
-　Seigen Ono (guitars)
+- Fred Frith (guitars)
+- Ahmad Compaore (drums)
+- Seigen Ono (guitars)

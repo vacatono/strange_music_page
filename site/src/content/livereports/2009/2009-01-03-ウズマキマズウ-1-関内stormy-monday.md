@@ -1,11 +1,16 @@
 ---
-title: "ウズマキマズウ-1 @関内Stormy Monday"
-date: 2008-01-03
-venue: "関内Stormy Monday"
-source: "wordpress"
+title: 'ウズマキマズウ-1 @関内Stormy Monday'
+date: 2009-01-03
+venue: '関内Stormy Monday'
+source: 'wordpress'
 artists:
-  - "小川美潮"
-  - "板倉文"
+  - '小川美潮'
+  - '板倉文'
+  - 'BANANA-UG'
+  - 'Ma*To'
+  - '大川俊司'
+  - 'MAC清水'
+  - 'オイラー小林'
 ---
 
 新年最初のライブはやっぱりコレだったりします（確か去年も1/4に見てる）  
@@ -33,10 +38,10 @@ artists:
 encore:  
 1\. 私は宝
 
-　小川美潮 (vocals)  
-　板倉文 (guitars)  
-　BANANA-UG (keyboards)  
-　Ma\*To (keyboards)  
-　大川俊司 (bass)  
-　MAC清水 (percussions)  
-　オイラー小林 (drums)
+- 小川美潮 (vocals)
+- 板倉文 (guitars)
+- BANANA-UG (keyboards)
+- Ma\*To (keyboards)
+- 大川俊司 (bass)
+- MAC清水 (percussions)
+- オイラー小林 (drums)

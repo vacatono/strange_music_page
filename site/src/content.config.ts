@@ -6,7 +6,7 @@ const livereports = defineCollection({
     title: z.string().optional(),
     date: z.coerce.date().optional(),
     venue: z.string().optional().default(''),
-    source: z.enum(['html', 'wordpress', 'fb', 'facebook', 'manual', 'twitter', 'keep', '']).optional(),
+    source: z.enum(['html', 'wordpress', 'mixi', 'facebook', 'manual', 'twitter', 'keep', '']).optional(),
     artists: z.array(z.string()).optional().default([]),
     setlist: z.array(z.string()).optional().default([]),
   }),
