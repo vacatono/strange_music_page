@@ -14,8 +14,8 @@ export async function getStaticPaths() {
 const { report } = Astro.props;
 const { Content } = await render(report);
 
-const dateStr = report.data.date.toISOString().slice(0, 10);
-const year = report.data.date.getFullYear();
+const dateStr = report.data.date ? report.data.date.toISOString().slice(0, 10) : '日付不明';
+const year = report.data.date ? report.data.date.getFullYear() : '不明';
 ---
 
 <BaseLayout title={report.data.title} description={`${dateStr} ${report.data.title} - live memo`}>

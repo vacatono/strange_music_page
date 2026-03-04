@@ -7,7 +7,9 @@ export async function getStaticPaths() {
 
   const years = new Set<number>();
   for (const r of reports) {
-    years.add(r.data.date.getFullYear());
+    if (r.data.date) {
+      years.add(r.data.date.getFullYear());
+    }
   }
 
   return [...years].map(year => ({
@@ -15,8 +17,8 @@ export async function getStaticPaths() {
     props: {
       year,
       reports: reports
-        .filter(r => r.data.date.getFullYear() === year)
-        .sort((a, b) => a.data.date.getTime() - b.data.date.getTime()),
+        .filter(r => r.data.date && r.data.date.getFullYear() === year)
+        .sort((a, b) => (a.data.date?.getTime() || 0) - (b.data.date?.getTime() || 0)),
     },
   }));
 }

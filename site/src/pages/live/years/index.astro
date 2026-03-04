@@ -7,8 +7,10 @@ const reports = await getCollection('livereports');
 // 年別集計
 const yearCounts = new Map<number, number>();
 for (const r of reports) {
-  const y = r.data.date.getFullYear();
-  yearCounts.set(y, (yearCounts.get(y) || 0) + 1);
+  if (r.data.date) {
+    const y = r.data.date.getFullYear();
+    yearCounts.set(y, (yearCounts.get(y) || 0) + 1);
+  }
 }
 const years = [...yearCounts.entries()].sort((a, b) => b[0] - a[0]);
 ---
