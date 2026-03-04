@@ -1,7 +1,7 @@
 ---
-title: '令和サイケデリック物理学I @吉祥寺star-pines-cafe'
+title: "令和サイケデリック物理学I @吉祥寺STAR PINE'S CAFE"
 date: 2026-02-07
-venue: '吉祥寺star-pines-cafe'
+venue: "吉祥寺STAR PINE'S CAFE"
 source: 'manual'
 artists:
   - 'チャクラ'

@@ -1,10 +1,24 @@
 ---
-title: "パスカルズ @吉祥寺STAR PINE’S CAFE"
+title: "パスカルズ @ 吉祥寺STAR PINE'S CAFE"
 date: 2006-09-05
-venue: "吉祥寺STAR PINE’S CAFE"
-source: "wordpress"
+venue: "吉祥寺STAR PINE'S CAFE"
+source: 'wordpress'
 artists:
-  - "坂本弘道"
+  - '坂本弘道'
+  - '美尾洋乃'
+  - '石川浩司'
+  - '知久寿焼'
+  - '金井太郎'
+  - 'ロケット・マツ'
+  - 'あかね'
+  - '原さとし'
+  - '松井亜由美'
+  - 'クリスチィヌ'
+  - 'うつお'
+  - '大竹サラ'
+  - '三木黄太'
+  - '永畑風人'
+  - '横澤龍太郎'
 ---
 
 #前々から見たい見たいと思っていたパスカルズのライブによーやっと行ってきました。ヨーロッパツアー帰りなのね。
@@ -17,39 +31,22 @@ CDも気に入ってるのですけど、良いライブを見たなーと思い
 
 あとこの日の殊勲賞は、たぶんメンバーの中のどなたかの子供。ステージの後ろをチョロチョロして、最後にはノリノリでたまの石川さんのおなかをペチペチ叩いてました。
 
-和んだ。  
+和んだ。
 
-  
--   ロケット・マツ (pianica,accordion,piano)
-  
--   あかね (toy piano,vocals)
-  
--   金井太郎 (guitars)
-  
--   知久寿焼 (ukulele,口琴,vocals)
-  
--   原さとし (banjo)
-  
--   松井亜由美 (violin)
-  
--   クリスチィヌ (violin)
-  
--   うつお (violin,recorder)
-  
--   大竹サラ (violin,recorder)
-  
--   坂本弘道 (cello)
-  
--   三木黄太 (cello)
-  
--   永畑風人 (trumpet,soprano sax)
-  
--   石川浩司 (percussions)
-  
--   横澤龍太郎 (drums)
-  
--   美尾洋乃 (violin)
-  
+- ロケット・マツ (pianica,accordion,piano)
+- あかね (toy piano,vocals)
+- 金井太郎 (guitars)
+- 知久寿焼 (ukulele,口琴,vocals)
+- 原さとし (banjo)
+- 松井亜由美 (violin)
+- クリスチィヌ (violin)
+- うつお (violin,recorder)
+- 大竹サラ (violin,recorder)
+- 坂本弘道 (cello)
+- 三木黄太 (cello)
+- 永畑風人 (trumpet,soprano sax)
+- 石川浩司 (percussions)
+- 横澤龍太郎 (drums)
+- 美尾洋乃 (violin)
 
-  
 ( [http://pascals1.hp.infoseek.co.jp](http://pascals1.hp.infoseek.co.jp) )

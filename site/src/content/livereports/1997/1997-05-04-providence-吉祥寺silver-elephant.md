@@ -1,7 +1,7 @@
 ---
-title: 'Providence @ 吉祥寺SILVER-ELEPHANT'
-date: 1996-05-04
-venue: '吉祥寺SILVER-ELEPHANT'
+title: 'Providence @ 吉祥寺Silver Elephant'
+date: 1997-05-04
+venue: '吉祥寺Silver Elephant'
 source: 'html'
 artists:
   - 'Providence'

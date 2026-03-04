@@ -1,7 +1,7 @@
 ---
-title: 'Providence @ 吉祥寺SILVER-ELEPHANT'
+title: 'Providence @ 吉祥寺Silver Elephant'
 date: 1996-05-04
-venue: '吉祥寺SILVER-ELEPHANT'
+venue: '吉祥寺Silver Elephant'
 source: 'html'
 artists:
   - 'Providence'
@@ -11,18 +11,18 @@ artists:
   - '杉山雄一'
   - '仲陣文敬'
 setlist:
- - 月下にて
- - エルリオ(インストゥルメンタル)
- - 筐絡のエピローグ
- - ドラスティックナイト
- - ring part.1 - crystal dragon
- - HCHO40
- - Goodbye Bluesky (Pink Floyd)
- - LOVE
- - ベスカティア
- - Diary of Madman
- - 六月の詩 (encore)
- - ガラテア (encore)
+  - 月下にて
+  - エルリオ(インストゥルメンタル)
+  - 筐絡のエピローグ
+  - ドラスティックナイト
+  - ring part.1 - crystal dragon
+  - HCHO40
+  - Goodbye Bluesky (Pink Floyd)
+  - LOVE
+  - ベスカティア
+  - Diary of Madman
+  - 六月の詩 (encore)
+  - ガラテア (encore)
 ---
 
 - 塚田円 (keyboards)
