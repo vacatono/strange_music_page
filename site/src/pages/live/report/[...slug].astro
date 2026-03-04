@@ -27,6 +27,9 @@ const title = report.data.title || '無題';
       <h1 class="page-title">{title}</h1>
       <div class="report-meta">
         <span class="report-meta-item">📅 {dateStr}</span>
+        {report.data.source && (
+          <span class="report-meta-item">🔗 {report.data.source}</span>
+        )}
         {report.data.venue && (
           <span class="report-meta-item">📍 <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/live/venues/${toSlug(report.data.venue)}/`}>{report.data.venue}</a></span>
         )}
