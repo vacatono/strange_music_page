@@ -1,6 +1,6 @@
 ---
 title: '清水一登Conjuntopabin @ 吉祥寺MANDA-LA2'
-date: 2016-11-04
+date: 2016-11-02
 venue: '吉祥寺MANDA-LA2'
 source: 'keep'
 artists:
