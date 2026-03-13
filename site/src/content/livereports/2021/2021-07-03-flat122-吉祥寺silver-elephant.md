@@ -4,6 +4,7 @@ date: 2021-07-03
 venue: '吉祥寺Silver Elephant'
 source: 'manual'
 artists:
+  - 'FLAT122'
   - '川崎隆男'
   - '黒澤健児'
   - '中島洋隆'
