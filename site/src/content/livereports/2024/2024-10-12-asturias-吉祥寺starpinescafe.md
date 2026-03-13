@@ -3,7 +3,7 @@ title: "Asturias Fes (day1) @吉祥寺STAR PINE'S CAFE"
 date: 2024-10-12
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'twitter'
-artist:
+artists:
   - 'Asturias'
   - '大山曜'
   - '平田聡'
