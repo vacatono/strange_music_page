@@ -1,10 +1,13 @@
 ---
-title: "Kim Hiorthoy (Smalltown Supersound Japan Tour)"
+title: 'Kim Hiorthoy (Smalltown Supersound Japan Tour)'
 date: 2004-11-18
-venue: ""
-source: "wordpress"
+venue: ''
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - 'Kim Hiorthoy'
+  - 'Joakim Haugland'
+  - 'Yuichiro Fujimoto'
 ---
 
 Kim Hiorthoyが出るっつーんで、行ってきました。「Smallsound Supersound」ってノルウェーのレーベルのツアー。after hours主催。メガネ女子多めな感じ。

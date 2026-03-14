@@ -1,13 +1,13 @@
 ---
-title: "KILLING TIME@下北沢mona records"
+title: 'KILLING TIME@下北沢mona records'
 date: 2004-09-07
-venue: "下北沢mona records"
-source: "wordpress"
+venue: '下北沢mona records'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - 'whacho'
+  - '斎藤ネコ'
+  - '板倉文'
+  - '清水一登'
 ---
 
 1999/4/7以来の東京でのライヴです。（こないだの山中湖は行けなかったので）
@@ -26,9 +26,8 @@ artists:
 
 「Strive for happiness」はランデヴーってドラマのサントラの曲。だったと思う。
 
-ラスト「かたたたき」では清水さんの吊りシロフォンが炸裂。木琴がグルグル回ってました。  
+ラスト「かたたたき」では清水さんの吊りシロフォンが炸裂。木琴がグルグル回ってました。
 
-  
 1. Undiu
 2. Limbo's dance (ゆっくりさん)
 3. Wish
@@ -39,25 +38,19 @@ artists:
 8. Peru
 9. 日没
 10. 老人達の夢（かたたたき）
-  
 
-  
+- 板倉文 (guitars)
 
-  
--   板倉文 (guitars)
-  
--   清水一登 (keyboards,bass clarinet,xylophone)
-  
--   斎藤ネコ (violin)
-  
--   Mecken (bass)
-  
--   Ma\*To (tabla)
-  
--   Whacho (percussions)
-  
+- 清水一登 (keyboards,bass clarinet,xylophone)
 
-  
+- 斎藤ネコ (violin)
+
+- Mecken (bass)
+
+- Ma\*To (tabla)
+
+- Whacho (percussions)
+
 こんなに緩くていい加減で、それでも楽しいライヴはなかなか無いなと思います。
 
 このバンドの聴いてなかったら、こんなに音楽好きになってなかったと思うので。

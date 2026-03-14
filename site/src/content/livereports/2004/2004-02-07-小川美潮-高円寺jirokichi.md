@@ -1,12 +1,14 @@
 ---
-title: "小川美潮 @高円寺JIROKICHI"
+title: '小川美潮 @高円寺JIROKICHI'
 date: 2004-02-07
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "板倉文"
+  - '小川美潮'
+  - 'whacho'
+  - '板倉文'
+  - '大川俊司'
+  - '勝俣伸吾'
 ---
 
 小川美潮さん、最近あんまり行ってなかったんですけど、板倉文とWhacho参加という事で、風邪ひいてたけど行ってきました。
@@ -17,9 +19,8 @@ artists:
 
 あ、ピアノは元チャクラ/Ring Linksの勝俣伸吾さん。初めて見たのですけど素直な感じのピアノ、前見たときのピアノの人（石井為人さんだっけな？）よりも合ってる感じでした。パーカッションはWhachoさん、相変わらず面白いなぁー。
 
-しかしその毎回思うのですが・・・たのむからCD出してくれ。  
+しかしその毎回思うのですが・・・たのむからCD出してくれ。
 
-  
 1. デンキ
 2. 花の答え
 3. Hasu Kria
@@ -35,17 +36,9 @@ artists:
 13. はじめて
 14. 私は宝
 15. ウォーリー・ビーズ (細野晴臣)
-  
 
-  
-
-  
--   小川美潮 (vocals,bass)
-  
--   大川俊司 (bass,guitars)
-  
--   勝俣伸吾 (piano)
-  
--   板倉文 (guitars)
-  
--   Whacho (percussions)
+- 小川美潮 (vocals,bass)
+- 大川俊司 (bass,guitars)
+- 勝俣伸吾 (piano)
+- 板倉文 (guitars)
+- Whacho (percussions)

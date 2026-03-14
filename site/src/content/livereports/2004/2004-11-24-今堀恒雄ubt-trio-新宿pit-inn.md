@@ -1,11 +1,12 @@
 ---
-title: "今堀恒雄UBT Trio @新宿PIT-INN"
+title: '今堀恒雄UBT Trio @新宿PIT-INN'
 date: 2004-11-24
-venue: "新宿PIT-INN"
-source: "wordpress"
+venue: '新宿PIT-INN'
+source: 'wordpress'
 artists:
-  - "ナスノミツル"
-  - "今堀恒雄"
+  - 'ナスノミツル'
+  - '今堀恒雄'
+  - '佐野康夫'
 ---
 
 #えーと未だに何てコメントしていいのか迷うようなライヴです。何か物凄く密度の濃いライヴでした。  
@@ -14,38 +15,25 @@ artists:
 そもそも「あの宇宙人のロックバンドみたいなアルバム曲をライヴでどう再現するのか？」と思って行ったんですけど、アルバム曲も既にアレンジが変わっててもう何が何だか。  
 結局何のレポにもなってないなぁ、説明不能（投げた）。
 
-1st set  
+1st set
 
-  
 1. UBT1
 2. Method of panic
 3. Desert for dessert
 4. JDVer3
-  
 
-  
-2nd set  
+2nd set
 
-  
 1. (?)
 2. (red eye?)
 3. Joujoushka
 4. UBT3（の最後のリフ）
 5. D.V.Bleach (UBT10)
-  
 
-  
-encore  
+encore
 
-  
 1. In Organic
-  
 
-  
-
-  
--   今堀恒雄 (guitars,sampler)
-  
--   佐野康夫 (drums)
-  
--   ナスノミツル (bass)
+- 今堀恒雄 (guitars,sampler)
+- 佐野康夫 (drums)
+- ナスノミツル (bass)

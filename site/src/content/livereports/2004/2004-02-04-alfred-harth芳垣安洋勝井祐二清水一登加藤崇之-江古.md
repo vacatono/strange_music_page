@@ -1,17 +1,18 @@
 ---
-title: "Alfred Harth+芳垣安洋+勝井祐二+清水一登+加藤崇之 @江古"
+title: 'Alfred Harth+芳垣安洋+勝井祐二+清水一登+加藤崇之 @ 江古田BUDDY'
 date: 2004-02-04
-venue: "江古"
-source: "wordpress"
+venue: '江古田BUDDY'
+source: 'wordpress'
 artists:
-  - "勝井祐二"
-  - "大友良英"
-  - "清水一登"
+  - 'Alfred Harth'
+  - '芳垣安洋'
+  - '勝井祐二'
+  - '清水一登'
+  - '加藤崇之'
 ---
 
 ドイツ人のAlfred Harth（Cassiberにいた人）を迎えてのセッションです。Alfred Harthさんは大友良英New Jazz Quartetに正式加入とか。
 
-  
 久々にインプロらしいライヴを見たな～といった感想。Alfred Harthはサックスとクラリネットの他になんだかホースみたいなのを振り回しながらの演奏とか、実はこの人CDすら聴いたことないんですけど、2部後半の勢いある演奏とかカッチョ良かったです。悪人面だけど。
 
 あと、加藤崇之さんもこの日はじめて・・・じゃないや渋さで見たこと有るんだ。でもちゃんと音を聴くのは初めてという事で。Derek Baileyっぽい「ピキョー」とかいう音はちょっと苦手、スティック使ったり、何か金物叩いたりしたりしてましたけど・・・ちょっと似たような音ばっかに聴こえちゃったなぁ。
@@ -20,15 +21,10 @@ artists:
 
 芳垣さんは流石ッちゅー感じで、ほとんど主導権を取ってるよーな感じがします。シンバルの使い方とか面白かったなぁ。勝井さんはやや印象弱めな感じ。
 
-二部後半の煽情的な感じの盛り上がり方が好きでした、全員ボルテージmaxみたいなの。あーゆーの好きな自分はやっぱり単純なんだろうか？  
+二部後半の煽情的な感じの盛り上がり方が好きでした、全員ボルテージmaxみたいなの。あーゆーの好きな自分はやっぱり単純なんだろうか？
 
-  
--   Alfred Harth (tenor sax,clarinets)
-  
--   芳垣安洋 (drums,percussions)
-  
--   勝井祐二 (violin)
-  
--   清水一登 (piano,keyboards)
-  
--   加藤崇之 (guitars)
+- Alfred Harth (tenor sax,clarinets)
+- 芳垣安洋 (drums,percussions)
+- 勝井祐二 (violin)
+- 清水一登 (piano,keyboards)
+- 加藤崇之 (guitars)

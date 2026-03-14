@@ -1,10 +1,11 @@
 ---
-title: "KRAFTWERK @Zepp Tokyo"
+title: 'KRAFTWERK @Zepp Tokyo'
 date: 2004-02-28
-venue: "Zepp Tokyo"
-source: "wordpress"
+venue: 'Zepp Tokyo'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - KRAFTWERK
 ---
 
 ロボット出たっすよ！！！蛍光ワイヤーフレームスーツ（そんな名前なのかアレ？）は結構ショボかったすよ！！！
@@ -13,9 +14,8 @@ artists:
 
 前回のエレグラでも良かったんですけど、RADIO-ACTIVITYとか格好良かったです。一部の曲は80年代アレンジに戻ってるような気がしました、気のせいかもしれないけど。あとTOUR DE FRANCE 2003の映像が良かった。なんつーか前回のエレグラでの食い足りなかった部分を補完してもらったよーな気分。
 
-曲名はたぶん↓みたいな感じ。  
+曲名はたぶん↓みたいな感じ。
 
-  
 1. MAN MACHINE
 2. EXPO 2000
 3. TOUR DE FRANCE 2003
@@ -34,19 +34,10 @@ artists:
 16. ELEKTRO KARDIOGRAM
 17. AERO DYNAMIK
 18. BOING BOOM TSCHAK/MUSIC NON STOP
-  
 
-  
+- Ralph Hutter
+- Henning Schmitz
+- Fritz Hilpert
+- Florian Schneider
 
-  
--   Ralph Hutter
-  
--   Henning Schmitz
-  
--   Fritz Hilpert
-  
--   Florian Schneider
-  
-
-  
 ([http://www.kraftwerk.com/](http://www.kraftwerk.com/))
