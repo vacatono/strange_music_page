@@ -1,7 +1,7 @@
 ---
-title: 'KILLING TIME @ 高円寺jirokichi'
+title: 'KILLING TIME @ 高円寺JIROKICHI'
 date: 2009-04-28
-venue: '高円寺jirokichi'
+venue: '高円寺JIROKICHI'
 source: 'mixi'
 artists:
   - '板倉文'
