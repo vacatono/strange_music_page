@@ -1,10 +1,13 @@
 ---
-title: "UK @川崎Club CItta"
+title: "UK @川崎CLUB CITTA'"
 date: 2012-06-14
-venue: "川崎Club CItta"
-source: "wordpress"
+venue: "川崎CLUB CITTA'"
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - John Wetton
+  - Eddie Jobson
+  - Terry Bozzio
 ---
 
 そんな訳で流石にこのメンツで見に行かないという選択肢も無かったので川崎へ。チケット全部外れて当たった友人の方にチケット分けてもらったのですが。

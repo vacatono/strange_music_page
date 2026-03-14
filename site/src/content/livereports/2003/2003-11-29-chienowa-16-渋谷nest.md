@@ -1,7 +1,7 @@
 ---
-title: 'chienowa 16 @ 渋谷NEST'
+title: 'chienowa 16 @ 渋谷O-NEST'
 date: 2003-11-29
-venue: '渋谷NEST'
+venue: '渋谷O-NEST'
 source: 'wordpress'
 artists:
   - 'NATSUMEN'
@@ -41,11 +41,8 @@ artists:
 これでもーちょい歌メロが印象に残るとイイと思うんですけど・・・・
 
 - 藤井友信 (guitars,vocals)
-
 - 吉村祐司 (drums)
-
 - 大野慎太郎 (bass)
-
 - 坂井キヨオシ (piano)
 
 #### NATSUMEN
@@ -67,17 +64,11 @@ artists:
 そしてそれまではライヴで、12/14高田馬場PHASE,12/31秋葉原CLUB GOODMAN。→http://boat.d4k.net/
 
 - AxSxE (guitars)
-
 - Aine (miming guitar)
-
 - Yashyro (acoustic guitar)
-
 - 石橋英子 (keyboards,xylophone,flute)
-
 - Maseeta (drums)
-
 - Shige (bass)
-
 - Izu (clarinet)
 
 #### sugar plant

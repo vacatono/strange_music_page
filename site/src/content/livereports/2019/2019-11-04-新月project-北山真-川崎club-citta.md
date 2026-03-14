@@ -1,7 +1,7 @@
 ---
-title: '新●月Project with 北山真 @ 川崎CLUB Citta'
+title: "新●月Project with 北山真 @ 川崎CLUB CITTA'"
 date: 2019-11-04
-venue: '川崎CLUB Citta'
+venue: "川崎CLUB CITTA'"
 source: 'manual'
 artists:
   - '新●月Project'

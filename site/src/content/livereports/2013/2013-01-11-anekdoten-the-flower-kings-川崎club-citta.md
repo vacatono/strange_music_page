@@ -1,8 +1,11 @@
 ---
-title: 'Anekdoten, The Flower Kings @川崎CLUB CITTA'
+title: "Anekdoten, The Flower Kings @川崎CLUB CITTA'"
 date: 2013-01-11
-venue: '川崎CLUB CITTA'
+venue: "川崎CLUB CITTA'"
 source: 'wordpress'
+artists:
+  - 'Anekdoten'
+  - 'The Flower Kings'
 ---
 
 ヨーロピアンロックフェス2013の1日目です（2日目はMoon Safari, Trettioariga Kriget, The Flower Kings）どのバンドも観たこと無かったのですが、とりあえずAnekdotenが観たかったので1日目へ。
