@@ -64,14 +64,14 @@ class TypeSquare_ST_Fonts {
 
 	public function get_fonttheme_keys() {
 		return array(
-			'font_theme' 			=> __( 'フォントテーマ', self::$text_domain ),
-			'title_target'    => __( '見出しタグ', self::$text_domain ),
-			'lead_target'     => __( 'リードタグ', self::$text_domain ),
-			'text_target'     => __( '本文タグ', self::$text_domain ),
-			'bold_target'     => __( '強調タグ', self::$text_domain ),
-			'fade_in'         => __( 'フェードイン', self::$text_domain ),
-			'fade_time'       => __( 'フェード時間', self::$text_domain ),
-			'show_post_form'  => __( '記事ごとにフォントを設定', self::$text_domain ),
+			'font_theme' 			=> __( '繝輔か繝ｳ繝医ユ繝ｼ繝・, self::$text_domain ),
+			'title_target'    => __( '隕句・縺励ち繧ｰ', self::$text_domain ),
+			'lead_target'     => __( '繝ｪ繝ｼ繝峨ち繧ｰ', self::$text_domain ),
+			'text_target'     => __( '譛ｬ譁・ち繧ｰ', self::$text_domain ),
+			'bold_target'     => __( '蠑ｷ隱ｿ繧ｿ繧ｰ', self::$text_domain ),
+			'fade_in'         => __( '繝輔ぉ繝ｼ繝峨う繝ｳ', self::$text_domain ),
+			'fade_time'       => __( '繝輔ぉ繝ｼ繝画凾髢・, self::$text_domain ),
+			'show_post_form'  => __( '險倅ｺ九＃縺ｨ縺ｫ繝輔か繝ｳ繝医ｒ險ｭ螳・, self::$text_domain ),
 		);
 	}
 
@@ -125,7 +125,7 @@ class TypeSquare_ST_Fonts {
 		}else{
 			update_option( 'typesquare_custom_theme', $options );
 		}
-		$result = __( 'フォントテーマの設定に成功しました。', self::$text_domain );
+		$result = __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭・險ｭ螳壹↓謌仙粥縺励∪縺励◆縲・, self::$text_domain );
 		$this->show_result( $result );
 	}
 
@@ -138,7 +138,7 @@ class TypeSquare_ST_Fonts {
 		unset( $options['theme'][ $id ] );
 		unset( $options['fonts'][ $id ] );
 		update_option( 'typesquare_custom_theme', $options );
-		$result = __( 'フォントテーマの削除に成功しました。', self::$text_domain );
+		$result = __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭・蜑企勁縺ｫ謌仙粥縺励∪縺励◆縲・, self::$text_domain );
 		$this->show_result( $result );
 	}
 

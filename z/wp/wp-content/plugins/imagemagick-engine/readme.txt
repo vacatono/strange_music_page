@@ -131,7 +131,7 @@ You'll probably have problems with various other plugins too unless you fix this
 * Tested with WordPress 3.1
 
 = 1.2.0 =
-* Rewrite image cropping for Imagick PHP module to make sure we keep image profiles. Thanks to Christian Münch for report
+* Rewrite image cropping for Imagick PHP module to make sure we keep image profiles. Thanks to Christian Mﾃｼnch for report
 * Improve test for IM executable
 * Administration: AJAXify image resizing, clarify engine selection, only load css/js on actual plugin page
 * Handle progressbar version incompatability for jQuery UI 1.8 (in WP 3.1) and jQuery UI 1.7 (in WP 3.0)

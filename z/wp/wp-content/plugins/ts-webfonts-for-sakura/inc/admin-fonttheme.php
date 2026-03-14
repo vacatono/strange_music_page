@@ -17,8 +17,8 @@ class TypeSquare_Admin_Fonttheme extends TypeSquare_Admin_Base {
 		$option_name = 'typesquare_auth';
 		$nonce_key = TypeSquare_ST::OPTION_NAME;
 		echo "<div class='wrap'>";
-		echo '<h2>'. __( 'カスタムフォントテーマ' , self::$text_domain ). '</h2>';
-		echo '<p>'. __( 'オリジナルのフォントテーマの作成や編集が行えます。' , self::$text_domain ). '</p>';
+		echo '<h2>'. __( '繧ｫ繧ｹ繧ｿ繝繝輔か繝ｳ繝医ユ繝ｼ繝・ , self::$text_domain ). '</h2>';
+		echo '<p>'. __( '繧ｪ繝ｪ繧ｸ繝翫Ν縺ｮ繝輔か繝ｳ繝医ユ繝ｼ繝槭・菴懈・繧・ｷｨ髮・′陦後∴縺ｾ縺吶・ , self::$text_domain ). '</p>';
 		do_action( 'typesquare_add_setting_before' );
 		$auth_param = $this->get_auth_params();
 		if ( false !== $auth_param['typesquare_auth']['auth_status'] ) {
@@ -66,13 +66,13 @@ class TypeSquare_Admin_Fonttheme extends TypeSquare_Admin_Base {
 			$html .= "<input type='hidden' name='ts_edit_mode' value='new' />";
 			$html .= "<input type='hidden' name='typesquare_custom_theme[id]' value='{$theme_id}' maxlength='16' style='width:100%;' pattern='^[0-9A-Za-z]+$' required/>";
 		}
-		$html .= '<h4>■'. __( 'フォントテーマ名' , self::$text_domain ). '</h4>';
-		$html .= '<p>'. __( 'フォントテーマの名称を設定します。（最大16文字まで）' , self::$text_domain ). '</p>';
+		$html .= '<h4>笆'. __( '繝輔か繝ｳ繝医ユ繝ｼ繝槫錐' , self::$text_domain ). '</h4>';
+		$html .= '<p>'. __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭・蜷咲ｧｰ繧定ｨｭ螳壹＠縺ｾ縺吶ゑｼ域怙螟ｧ16譁・ｭ励∪縺ｧ・・ , self::$text_domain ). '</p>';
 		$html .= "<input type='text' name='typesquare_custom_theme[name]' value='{$theme_name}' maxlength='16' style='width:100%;' required/>";
-		$html .= '<h4>■'. __( 'フォントテーマの設定' , self::$text_domain ). '</h4>';
-		$html .= '<p>'. __( '各クラスに設定するフォントを選択します。' , self::$text_domain ). '</p>';
+		$html .= '<h4>笆'. __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭・險ｭ螳・ , self::$text_domain ). '</h4>';
+		$html .= '<p>'. __( '蜷・け繝ｩ繧ｹ縺ｫ險ｭ螳壹☆繧九ヵ繧ｩ繝ｳ繝医ｒ驕ｸ謚槭＠縺ｾ縺吶・ , self::$text_domain ). '</p>';
 		$html .= "<div id='ts-react-search-font'></div>";
-		$html .= get_submit_button( __( 'フォントテーマを設定する', self::$text_domain ) );
+		$html .= get_submit_button( __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭ｒ險ｭ螳壹☆繧・, self::$text_domain ) );
 		$html .= '</form>';
 		$html .= $this->_get_delete_fonttheme_form( $theme_input );
 		$html .= $this->_get_script( $font_list );
@@ -81,7 +81,7 @@ class TypeSquare_Admin_Fonttheme extends TypeSquare_Admin_Base {
 
 	private function _get_script( $font_list ) {
 		$vars  = "var form_id = '#". self::MENU_FONTTHEME. "';";
-		$vars .= "var notify_text = '". __( 'フォントを１種類以上選択してください。', self::$text_domain ). "';";
+		$vars .= "var notify_text = '". __( '繝輔か繝ｳ繝医ｒ・醍ｨｮ鬘樔ｻ･荳企∈謚槭＠縺ｦ縺上□縺輔＞縲・, self::$text_domain ). "';";
 $script = <<<EOM
 {$vars}
 jQuery( document ).ready(function() {
@@ -123,7 +123,7 @@ EOM;
 			$html .= "<input type='hidden' name='ts_edit_mode' value='delete' />";
 			$html .= $theme_input;
 			$html .= wp_nonce_field( 'ts_update_font_name_setting', 'ts_update_font_name_setting', true , false );
-			$html .= get_submit_button( __( 'フォントテーマを削除する', self::$text_domain ) );
+			$html .= get_submit_button( __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭ｒ蜑企勁縺吶ｋ', self::$text_domain ) );
 			$html .= '</form>';
 		}
 		return $html;
@@ -134,7 +134,7 @@ EOM;
 		$query = './admin.php?page='. self::MENU_FONTGEN;
 		$html  = '';
 		if ( is_array( $options['theme'] ) && ! empty( $options['theme'] ) ) {
-			$html .= '<h3>■'. __( 'カスタムフォントテーマ一覧' , self::$text_domain ). '</h3>';
+			$html .= '<h3>笆'. __( '繧ｫ繧ｹ繧ｿ繝繝輔か繝ｳ繝医ユ繝ｼ繝樔ｸ隕ｧ' , self::$text_domain ). '</h3>';
 			$html .= "<table class='widefat form-table'>";
 			$html .= '<tbody>';
 			$html .= '<tr><td>';
@@ -149,7 +149,7 @@ EOM;
 			}
 			$html .= '</select>';
 			$html .= "<input type='hidden' name='ts_edit_mode' value='update' />";
-			$html .= get_submit_button( __( '編集する', self::$text_domain ) );
+			$html .= get_submit_button( __( '邱ｨ髮・☆繧・, self::$text_domain ) );
 			$html .= wp_nonce_field( 'ts_update_font_list' , 'ts_update_font_list' , true , false );
 			$html .= '</form>';
 			$html .= '</td></tr>';
@@ -159,7 +159,7 @@ EOM;
 		if (count($options['theme']) < self::FONT_THEME_MAX) {
 			$html .= "<form method='POST' action='{$query}'>";
 			$html .= "<input type='hidden' name='ts_edit_mode' value='new' />";
-			$html .= get_submit_button( __( '新しいカスタムフォントテーマを作成する', self::$text_domain ) );
+			$html .= get_submit_button( __( '譁ｰ縺励＞繧ｫ繧ｹ繧ｿ繝繝輔か繝ｳ繝医ユ繝ｼ繝槭ｒ菴懈・縺吶ｋ', self::$text_domain ) );
 			$html .= wp_nonce_field( 'ts_update_font_list' , 'ts_update_font_list' , true , false );
 			$html .= '</form>';
 		}
@@ -169,16 +169,16 @@ EOM;
 	private function _get_font_data( $fonts ) {
 		$text  = '';
 		if ( isset( $fonts['title'] ) ) {
-			$text .= __( '見出し：', self::$text_domain ). $fonts['title']. ',';
+			$text .= __( '隕句・縺暦ｼ・, self::$text_domain ). $fonts['title']. ',';
 		}
 		if ( isset( $fonts['lead'] ) ) {
-			$text .= __( 'リード：', self::$text_domain ). $fonts['lead']. ',';
+			$text .= __( '繝ｪ繝ｼ繝会ｼ・, self::$text_domain ). $fonts['lead']. ',';
 		}
 		if ( isset( $fonts['text'] ) ) {
-			$text .= __( '本文：', self::$text_domain ). $fonts['text']. ',';
+			$text .= __( '譛ｬ譁・ｼ・, self::$text_domain ). $fonts['text']. ',';
 		}
 		if ( isset( $fonts['bold'] ) ) {
-			$text .= __( '太字：', self::$text_domain ). $fonts['bold']. ',';
+			$text .= __( '螟ｪ蟄暦ｼ・, self::$text_domain ). $fonts['bold']. ',';
 		}
 		$text = rtrim( $text, ',' );
 		$text = str_replace( ",", " / ", $text );
@@ -189,7 +189,7 @@ EOM;
 		$option_name = 'typesquare_auth';
 		$nonce_key = TypeSquare_ST::OPTION_NAME;
 		echo "<div class='wrap'>";
-		echo '<h2>'. __( 'フォントテーマエディタ' , self::$text_domain ). '</h2>';
+		echo '<h2>'. __( '繝輔か繝ｳ繝医ユ繝ｼ繝槭お繝・ぅ繧ｿ' , self::$text_domain ). '</h2>';
 		do_action( 'typesquare_add_setting_before' );
 		$auth_param = $this->get_auth_params();
 		if ( false !== $auth_param['typesquare_auth']['auth_status'] ) {

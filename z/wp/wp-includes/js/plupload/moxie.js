@@ -514,7 +514,7 @@ define("moxie/core/utils/Env", [
 	 * Lightweight JavaScript-based User-Agent string parser
 	 * https://github.com/faisalman/ua-parser-js
 	 *
-	 * Copyright © 2012-2015 Faisal Salman <fyzlman@gmail.com>
+	 * Copyright ﾂｩ 2012-2015 Faisal Salman <fyzlman@gmail.com>
 	 * Dual licensed under GPLv2 & MIT
 	 */
 	var UAParser = (function (undefined) {
@@ -3345,7 +3345,7 @@ define('moxie/core/utils/Encode', [], function() {
 		// +   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
 		// +   bugfixed by: Pellentesque Malesuada
 		// +   improved by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
-		// +   improved by: Rafał Kukawski (http://kukawski.pl)
+		// +   improved by: Rafaﾅ・Kukawski (http://kukawski.pl)
 		// *     example 1: base64_encode('Kevin van Zonneveld');
 		// *     returns 1: 'S2V2aW4gdmFuIFpvbm5ldmVsZA=='
 		// mozilla has this native
@@ -7388,7 +7388,7 @@ define("moxie/runtime/html5/utils/BinaryReader", [
 			UTF16StringReader.apply(this, arguments);
 		}
 	}
-	 
+	ﾂ
 
 	Basic.extend(BinaryReader.prototype, {
 		

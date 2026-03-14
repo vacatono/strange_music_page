@@ -608,7 +608,7 @@ function _is_valid_nav_menu_item( $item ) {
 /**
  * Retrieves all menu items of a navigation menu.
  *
- * Note: Most arguments passed to the `$args` parameter – save for 'output_key' – are
+ * Note: Most arguments passed to the `$args` parameter 窶・save for 'output_key' 窶・are
  * specifically for retrieving nav_menu_item posts from get_posts() and may only
  * indirectly affect the ultimate ordering and content of the resulting nav menu
  * items that get returned from this function.

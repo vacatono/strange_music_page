@@ -2,8 +2,7 @@
 /*
 Plugin Name: TS Webfonts for SAKURA RS
 Version: 2.0.0
-Description: さくらのレンタルサーバで株式会社モリサワ提供のWebフォント30書体が無料で利用できるプラグインです。
-Author: SAKURA Internet Inc.
+Description: 縺輔￥繧峨・繝ｬ繝ｳ繧ｿ繝ｫ繧ｵ繝ｼ繝舌〒譬ｪ蠑丈ｼ夂､ｾ繝｢繝ｪ繧ｵ繝ｯ謠蝉ｾ帙・Web繝輔か繝ｳ繝・0譖ｸ菴薙′辟｡譁吶〒蛻ｩ逕ｨ縺ｧ縺阪ｋ繝励Λ繧ｰ繧､繝ｳ縺ｧ縺吶・Author: SAKURA Internet Inc.
 Author URI: http://www.sakura.ne.jp/
 Plugin URI: https://help.sakura.ad.jp/app/answers/detail/a_id/2600
 Text Domain: ts-webfonts-for-sakura

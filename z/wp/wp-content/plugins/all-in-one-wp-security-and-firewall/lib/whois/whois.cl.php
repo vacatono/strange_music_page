@@ -36,13 +36,13 @@ class cl_handler
 		{
 		$items = array(
                   'admin' => '(Administrative Contact)',
-                  'tech' => 'Contacto Técnico (Technical Contact):',
+                  'tech' => 'Contacto Tﾃｩcnico (Technical Contact):',
                   'domain.nserver' => 'Servidores de nombre (Domain servers):',
                   'domain.changed' => '(Database last updated on):'
                   );
 
 		$trans = array(
-					'organización:' => 'organization',
+					'organizaciﾃｳn:' => 'organization',
 					'nombre      :' => 'name');
 
 		$r['regrinfo'] = easy_parser($data_str['rawdata'], $items, 'd-m-y', $trans);

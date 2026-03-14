@@ -64,7 +64,7 @@ class TypeSquare_Admin extends TypeSquare_Admin_Base {
 					$auth = TypeSquare_ST_Auth::get_instance();
 					$auth_result = $auth->auth( $_POST['typesquare_auth'] );
 					if ( !($auth_result['auth_status']) ) {
-						$msg = __( 'ログインに失敗しました。メールアドレスとパスワード、配信IDをご確認の上再度お試しください。' , self::$text_domain );
+						$msg = __( '繝ｭ繧ｰ繧､繝ｳ縺ｫ螟ｱ謨励＠縺ｾ縺励◆縲ゅΓ繝ｼ繝ｫ繧｢繝峨Ξ繧ｹ縺ｨ繝代せ繝ｯ繝ｼ繝峨・・菫｡ID繧偵＃遒ｺ隱阪・荳雁・蠎ｦ縺願ｩｦ縺励￥縺縺輔＞縲・ , self::$text_domain );
 						$result = new WP_Error( 'TypeSquare Login Error', $msg );
 						$this->set_error_messages( $result );
 					}

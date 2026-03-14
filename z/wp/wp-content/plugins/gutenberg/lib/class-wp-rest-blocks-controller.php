@@ -108,12 +108,12 @@ class WP_REST_Blocks_Controller extends WP_REST_Posts_Controller {
 					'readonly'    => true,
 				),
 				'title'   => array(
-					'description' => __( 'The block’s title.', 'gutenberg' ),
+					'description' => __( 'The block窶冱 title.', 'gutenberg' ),
 					'type'        => 'string',
 					'required'    => true,
 				),
 				'content' => array(
-					'description' => __( 'The block’s HTML content.', 'gutenberg' ),
+					'description' => __( 'The block窶冱 HTML content.', 'gutenberg' ),
 					'type'        => 'string',
 					'required'    => true,
 				),

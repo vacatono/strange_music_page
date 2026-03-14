@@ -10,7 +10,7 @@ Multibyte functionality enhancement for the WordPress Japanese package.
 == Description ==
 
 Multibyte functionality enhancement for the WordPress Japanese package.
-[日本語の説明を読む](http://eastcoder.com/code/wp-multibyte-patch/ "Documentation in Japanese")
+[譌･譛ｬ隱槭・隱ｬ譏弱ｒ隱ｭ繧](http://eastcoder.com/code/wp-multibyte-patch/ "Documentation in Japanese")
 
 == Installation ==
 

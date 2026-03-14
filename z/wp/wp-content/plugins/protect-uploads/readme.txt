@@ -19,8 +19,8 @@ The uploads directory is where the files of the WordPress library are stored. Un
 Available languages :
 
 * English
-* Français
-* Español
+* Franﾃｧais
+* Espaﾃｱol
 * Italian (thanks to Marko97)
 
 For support, please visit [protect uploads plugin](http://www.alticreation.com/en/protect-uploads/ "protect uploads plugin for Wordpress by alticreation")
