@@ -4,6 +4,7 @@ date: 1999-10-16
 venue: '法政大学学生会館'
 source: 'html'
 artists:
+  - '来日公演'
   - 'Keith Tippett'
 ---
 

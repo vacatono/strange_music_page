@@ -4,6 +4,7 @@ date: 1999-10-11
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'html'
 artists:
+  - '来日公演'
   - 'Charles Hayward'
 ---
 
