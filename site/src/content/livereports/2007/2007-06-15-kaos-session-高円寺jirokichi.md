@@ -1,27 +1,29 @@
 ---
 title: "KAO's session @高円寺JIROKICHI"
 date: 2007-06-15
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "仙波清彦"
-  - "小川美潮"
-  - "板倉文"
+  - '仙波清彦'
+  - '小川美潮'
+  - '板倉文'
+  - '高橋香織'
+  - '吉森信'
+  - '一本茂樹'
 ---
 
 #で、絶好調の板倉文さんを見にJIROKICHIへ。  
 いやもー、特に1st setでは何かもう憑き物が落ちたかのよーな弾きまくりで、板倉文ファンとしては言うこと茄子です。ブラジルジャズ～プログレ風味な感じで、板倉さんは言うまでもなく吉森信さんのファンキーなピアノも仙波さんのドカスカしたドラムも高橋香織さんのバイオリンも良いです。あとこのバンドでしか聴いたことないのですけど、一本茂樹さんのアップライトベースが何か物凄くイイ音してて。  
-2nd setの1曲目はなんとチャクラの「私と百貨店」まさかこんな曲をナマで聴けると思わなかった・・・  
+2nd setの1曲目はなんとチャクラの「私と百貨店」まさかこんな曲をナマで聴けると思わなかった・・・
 
-  
--   高橋香織 (violin)
-  
--   吉森信 (piano,keyboards)
-  
--   板倉文 (guitars)
-  
--   一本茂樹 (bass)
-  
--   仙波清彦 (drums,percussions)
-  
--   小川美潮 (vocals on 2nd set)
+- 高橋香織 (violin)
+
+- 吉森信 (piano,keyboards)
+
+- 板倉文 (guitars)
+
+- 一本茂樹 (bass)
+
+- 仙波清彦 (drums,percussions)
+
+- 小川美潮 (vocals on 2nd set)

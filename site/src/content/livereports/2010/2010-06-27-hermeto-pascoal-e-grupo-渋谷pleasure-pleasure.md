@@ -1,6 +1,6 @@
 ---
-title: '2010/06/26,27 Hermeto Pascoal e Grupo @渋谷Pleasure Pleasure'
-date: 2010-06-29
+title: 'Hermeto Pascoal e Grupo @渋谷Pleasure Pleasure'
+date: 2010-06-27
 venue: '渋谷Pleasure Pleasure'
 source: 'wordpress'
 artists:

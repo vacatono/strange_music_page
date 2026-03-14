@@ -1,11 +1,12 @@
 ---
-title: "仙波清彦+高岡大祐+山本達久 @渋谷Bar Isshee"
+title: '仙波清彦+高岡大祐+山本達久 @渋谷Bar Isshee'
 date: 2011-04-11
-venue: "渋谷Bar Isshee"
-source: "wordpress"
+venue: '渋谷Bar Isshee'
+source: 'wordpress'
 artists:
-  - "仙波清彦"
-  - "山本達久"
+  - '仙波清彦'
+  - '山本達久'
+  - '高岡大祐'
 ---
 
 この日の夕方に結構大きめの余震が有ったので行くかどうか結構迷ったのですが、こんな組み合わせを俺がスルーしちゃいかんだろうと思い渋谷へ…電車遅れてスタート間に合わなかったよ。  

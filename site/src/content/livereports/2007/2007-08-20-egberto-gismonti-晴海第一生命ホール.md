@@ -1,10 +1,11 @@
 ---
-title: "Egberto Gismonti @晴海第一生命ホール"
+title: 'Egberto Gismonti @晴海第一生命ホール'
 date: 2007-08-20
-venue: "晴海第一生命ホール"
-source: "wordpress"
+venue: '晴海第一生命ホール'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - 'Egberto Gismonti'
+  - '来日公演'
 ---
 
 16年ぶりの来日とかで、初めてナマで見ました・・・いや、もうねぇ。凄いわ。

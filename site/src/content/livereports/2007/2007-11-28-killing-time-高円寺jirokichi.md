@@ -1,13 +1,16 @@
 ---
-title: "KILLING TIME @高円寺JIROKICHI"
+title: 'KILLING TIME @高円寺JIROKICHI'
 date: 2007-11-28
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - 'whacho'
+  - '斎藤ネコ'
+  - '板倉文'
+  - '清水一登'
+  - 'Ma*To'
+  - 'MECKEN'
+  - '小林武文'
 ---
 
 個人的に毎回行かなければならないKILLING TIMEのライブ。行ってきました。箇条書きで感想。
@@ -46,17 +49,10 @@ artists:
 \-encore  
 1\. 日没
 
-  
--   板倉文 (guitars)  
-    
--   清水一登 (piano,keyboards,bass clarinet)  
-    
--   Ma\*To (tabla,keyboards)  
-    
--   whacho (percussions)  
-    
--   MECKEN (bass)  
-    
--   斎藤ネコ (violin)  
-    
--   オイラー小林 (drums)
+- 板倉文 (guitars)
+- 清水一登 (piano,keyboards,bass clarinet)
+- Ma\*To (tabla,keyboards)
+- whacho (percussions)
+- MECKEN (bass)
+- 斎藤ネコ (violin)
+- オイラー小林 (drums)

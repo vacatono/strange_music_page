@@ -1,21 +1,20 @@
 ---
-title: "HUNUNHUM,Optrum,夢中夢 @新宿Motion"
+title: 'HUNUNHUM,Optrum,夢中夢 @新宿Motion'
 date: 2007-02-24
-venue: "新宿Motion"
-source: "wordpress"
+venue: '新宿Motion'
+source: 'wordpress'
 artists:
-  - "HUNUNHUM"
+  - 'HUNUNHUM'
 ---
 
 で、こないだCD買った夢中夢を見たくて新宿まで行ってきました。寒いー。
 
 新宿Motionは初めて行くライブハウス。西武新宿駅の横辺りのビルの４階。URGAの手前くらいかな。
 
-途中から入ったら２バンド目の途中くらい。  
+途中から入ったら２バンド目の途中くらい。
 
 #### HUNUNHUM
 
-  
 ギター、ベース、シンセ、サックス、ドラム、パーカッションの６人編成。もービックリの体育会系レコメンバンド。SOH-BANDとかHAPPY FAMILYとかそんな感じ（わかりにくい例えでスマン）
 
 ホントに、なんで今まで話題にならなかったんだろー？俺が知らなかっただけ？？？ってくらい面白いバンドでした。
@@ -26,16 +25,14 @@ artists:
 
 ちなみにバンド名ですけどMCの時に「ハーンハーンです」って聴こえてそのまんまググって見たけど全然見つからなかった。
 
-( [http://www.hununhum.com/index.html](http://www.hununhum.com/index.html) )  
+( [http://www.hununhum.com/index.html](http://www.hununhum.com/index.html) )
 
 #### Optrum
 
-  
-まぁコレは前も見てるので。蛍光灯とドラムの織り成すズガガガガズピピピピ。  
+まぁコレは前も見てるので。蛍光灯とドラムの織り成すズガガガガズピピピピ。
 
 #### 夢中夢
 
-  
 えーと個人的にはHUNUNHUMで満足しちゃってたのですけど、今日の目当てはコレ。大阪のスラッシュメタルシンフォバンド。
 
 ギター、ボーカル、鍵盤、ドラム、ベース、バイオリンのやっぱり６人編成。

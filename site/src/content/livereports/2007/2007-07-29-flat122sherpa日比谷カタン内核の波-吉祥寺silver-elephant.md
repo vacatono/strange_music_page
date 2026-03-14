@@ -34,11 +34,9 @@ artists:
 4. 目眩
 5. 波濤
 
-- 　川崎隆男 (piano)
-
-- 　平田聡 (guitars)
-
-- 　田辺清貴 (drums)
+- 川崎隆男 (piano)
+- 平田聡 (guitars)
+- 田辺清貴 (drums)
 
 #### SHERPA
 
@@ -46,11 +44,8 @@ artists:
 即興でガーと暴れてる部分に較べて、引きの静かなパートの方が自分には面白く感じました（自分が即興あまり好きじゃないってのもあるけど）
 
 - 船橋陽 (sax)
-
 - 堀越功 (piano)
-
 - 河崎純 (contrabass)
-
 - 立岩潤三 (drums)
 
 #### 日比谷カタン
@@ -69,13 +64,9 @@ POSEIDONさんとかこんなこと ( http://www.musicterm.jp/poseidon/press/ai/
 特に鍵盤の人がKORGのR3 ( http://www.korg.co.jp/Product/Synthesizer/R3/ ) を無理やりショルダーキーボードにしてて、そのあまりの意味の無さっぷりに大笑いしました。何か見ていて中島秀行さん（浪漫座のライブでお菓子を配る人）を思い出しましたが、たぶんそんなの連想したのはあの会場で自分だけでしょう。
 
 - 小林智 (bass)
-
 - 鈴木和美 (flute)
-
 - 村岡満男 (guitars,trumpet)
-
 - 吉田真吾 (drums)
-
 - 高木大地 (synthesizer)
 
 ( [http://mypage.odn.ne.jp/home/naikaku3104](http://mypage.odn.ne.jp/home/naikaku3104) )

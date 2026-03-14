@@ -1,10 +1,15 @@
 ---
-title: "Benoit Moerlen @江古田BUDDY"
+title: 'Benoit Moerlen @江古田BUDDY'
 date: 2011-07-03
-venue: "江古田BUDDY"
-source: "wordpress"
+venue: '江古田BUDDY'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - 'Benoit Moerlen'
+  - '菅野詩朗'
+  - '中嶋洋隆'
+  - '林隆史'
+  - '河崎今日子'
 ---
 
 元Pierre Moerlen's GongとかGongzillaのBenoit Moerlenの来日公演に行ってきました。以前Expresso GONG/GONGZILLAで来日した時も観に行きましたがゴングのExpresso II辺りからのマリンバ大活躍の変なジャズロックが結構好きで。
@@ -35,15 +40,14 @@ Benoit Moerlenは、割と小柄で細身な方なのですがマレットを持
 6\. Rocking Roller
 
 1\. OYE COMO BA?  
-2\. Tequilla  
+2\. Tequilla
 
-  
--   Benoit Moerlen (marimba, midi-vibe)
-  
--   菅野詩朗 (drums)
-  
--   中嶋洋隆 (bass)
-  
--   林隆史 (guitars)
-  
--   河崎今日子 (violin)
+- Benoit Moerlen (marimba, midi-vibe)
+
+- 菅野詩朗 (drums)
+
+- 中嶋洋隆 (bass)
+
+- 林隆史 (guitars)
+
+- 河崎今日子 (violin)

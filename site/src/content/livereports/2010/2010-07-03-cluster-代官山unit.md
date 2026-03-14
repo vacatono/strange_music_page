@@ -5,6 +5,8 @@ venue: '代官山UNIT'
 source: 'wordpress'
 artists:
   - '来日公演'
+  - Dieter Moebius
+  - Hans-Joachim Roedelius
 ---
 
 ドイツ電子音楽のパイオニア、と呼んでも良いのかな？Kluster名義だったらKraftwerkよりも先の1969年くらいから活動してる電子音楽ユニット。今回代官山UNITの6周年記念パーティーで来日。Cluster名義では1996年のリキッド以来だから14年ぶりかな？まぁクラブなんてもう全く行かないのですが、コレを見逃すと次は無いかなと思って行ってきました。  

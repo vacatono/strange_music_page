@@ -1,11 +1,16 @@
 ---
-title: "福原まり+猫沢エミ, Gastronomics @六本木新世界"
+title: '福原まり+猫沢エミ, Gastronomics @六本木新世界'
 date: 2011-07-23
-venue: "六本木新世界"
-source: "wordpress"
+venue: '六本木新世界'
+source: 'wordpress'
 artists:
-  - "矢口博康"
-  - "福原まり"
+  - '矢口博康'
+  - '福原まり'
+  - '猫沢エミ'
+  - '越川歩'
+  - '岩見継吾'
+  - '濱田理恵'
+  - '川口義之'
 ---
 
 #### 福原まり+猫沢エミ

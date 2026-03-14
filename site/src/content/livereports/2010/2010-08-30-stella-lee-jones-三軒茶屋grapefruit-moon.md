@@ -4,7 +4,15 @@ date: 2010-08-30
 venue: '三軒茶屋Grapefruit Moon'
 source: 'wordpress'
 artists:
-  - 'FLAT122'
+  - '岸本淳一'
+  - 'Stella Lee Jones'
+  - '平田聡'
+  - 'テイセナ'
+  - '佐藤真也'
+  - '佐々木絵実'
+  - '谷本朋翼'
+  - '工藤源大'
+  - '三ヶ田晋'
 ---
 
 **\[ 岸本淳一 \]**  

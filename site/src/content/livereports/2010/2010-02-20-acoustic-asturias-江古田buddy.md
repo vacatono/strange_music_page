@@ -1,10 +1,14 @@
 ---
-title: "Acoustic Asturias @江古田BUDDY"
+title: 'Acoustic Asturias @江古田BUDDY'
 date: 2010-02-20
-venue: "江古田BUDDY"
-source: "wordpress"
+venue: '江古田BUDDY'
+source: 'wordpress'
 artists:
-  - "大山曜"
+  - '大山曜'
+  - '筒井香織'
+  - '川越好博'
+  - 'テイセナ'
+  - '中島オバヲ'
 ---
 
 去年末のエレアス(electric asturias)の時に勢いでチケットを買ってしまったので（まぁどっちにしろ来てたろうけど）アコアス(acoustic asturias)のライブです。ゲストはMambabooの中島オバヲさん。バイオリンは伊藤恭子さんが都合により欠席で代わりにエレアス（こないだStella Lee Jonesでも見たけど）テイセナさんが参加。
@@ -24,9 +28,8 @@ artists:
 
 セットリストはたぶん以下のような感じ。前半の3曲目だけわかんなかった・・・誰か詳しい方ヘルプ。
 
-（追記）コメント欄で指摘もらいました、前半3曲目「凍てついた記憶」。後半6曲目は「Marching Grass on the Hill」でした・・・スミマセン。  
+（追記）コメント欄で指摘もらいました、前半3曲目「凍てついた記憶」。後半6曲目は「Marching Grass on the Hill」でした・・・スミマセン。
 
-  
 1. 神の摂理に挑む者達
 2. かげろう
 3. 凍てついた記憶
@@ -34,37 +37,21 @@ artists:
 5. 黄原の舞 (w/中島オバヲ)
 6. 邂逅 (w/中島オバヲ)
 7. Luminous Flower (w/中島オバヲ)
-  
 
-  
+8. ユハンヌス
+9. ベタスプレンデス
+10. Perpetual Motion
+11. 命をつなぐ水 (w/中島オバヲ)
+12. woods 迷いの森 (w/中島オバヲ)
+13. Marching Grass On The Hill (w/中島オバヲ)
+14. 流氷 (w/中島オバヲ)
 
-  
-1. ユハンヌス
-2. ベタスプレンデス
-3. Perpetual Motion
-4. 命をつなぐ水 (w/中島オバヲ)
-5. woods 迷いの森 (w/中島オバヲ)
-6. Marching Grass On The Hill (w/中島オバヲ)
-7. 流氷 (w/中島オバヲ)
-  
+15. Horizons (ギターソロ)
+16. Distance
+17. 黄原の舞 (w/中島オバヲ)
 
-  
-
-  
-1. Horizons (ギターソロ)
-2. Distance
-3. 黄原の舞 (w/中島オバヲ)
-  
-
-  
-
-  
--   大山曜 (guitars)
-  
--   筒井香織 (clarinet,recorder)
-  
--   川越好博 (piano)
-  
--   テイセナ (violin)
-  
--   中島オバヲ (percussions)
+- 大山曜 (guitars)
+- 筒井香織 (clarinet,recorder)
+- 川越好博 (piano)
+- テイセナ (violin)
+- 中島オバヲ (percussions)

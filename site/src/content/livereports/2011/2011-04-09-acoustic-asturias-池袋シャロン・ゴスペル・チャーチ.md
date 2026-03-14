@@ -1,10 +1,14 @@
 ---
-title: "Acoustic Asturias @池袋シャロン・ゴスペル・チャーチ"
+title: 'Acoustic Asturias @池袋シャロン・ゴスペル・チャーチ'
 date: 2011-04-09
-venue: "池袋シャロン・ゴスペル・チャーチ"
-source: "wordpress"
+venue: '池袋シャロン・ゴスペル・チャーチ'
+source: 'wordpress'
 artists:
-  - "大山曜"
+  - '大山曜'
+  - '筒井香織'
+  - '川越好博'
+  - 'テイセナ'
+  - '堀子孝英'
 ---
 
 池袋のシャロン・ゴスペル・チャーチという教会でのAcoustic Asturiasのレコ発ライブ。  
@@ -17,14 +21,13 @@ artists:
 
 次回は未定みたいですが、テイセナさんとElectric Asturiasの平田さんが参加する[Stella Lee Jone](http://www.myspace.com/satoshihirataunit)sが来週の4/15に江古田BUDDYで難波弘之さんのAPJと対バン、6/12には筒井香織さんの参加する[KTG](http://www.myspace.com/neoclassicensemble_ktg)が吉祥寺SilverElephantでポチャカイテマルコと対バンです。で、9月くらいにElectric Asturiasが有るかもしれないとかなんとか。
 
-  
 1.Legend  
 2.ベタ・スプレンデス  
 3.WATARIDORI  
 4.邂逅  
 5.Luminous Flower  
-6.神の摂理に挑む者たち  
-  
+6.神の摂理に挑む者たち
+
 1.ジムノペディ1番 (w/堀子孝英)  
 2.黄源の舞 (w/堀子孝英)  
 3.紅江 (w/堀子孝英)  

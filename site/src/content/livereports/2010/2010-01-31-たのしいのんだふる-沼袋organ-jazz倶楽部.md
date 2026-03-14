@@ -1,20 +1,18 @@
 ---
-title: "たのしいの◎んだふる @沼袋Organ Jazz倶楽部"
+title: 'たのしいの◎んだふる @沼袋Organ Jazz倶楽部'
 date: 2010-01-31
-venue: "沼袋Organ Jazz倶楽部"
-source: "wordpress"
+venue: '沼袋Organ Jazz倶楽部'
+source: 'wordpress'
 artists:
-  - "坂本弘道"
-  - "清水一登"
+  - '坂本弘道'
+  - '清水一登'
 ---
 
 毎月恒例の清水さんと舞踏の岡さんの即興ライブです。今回のミュージシャン側のゲストは坂本弘道さん、舞踏の方は女優の平手舞さんです。
 
-  
--   清水一登 (piano)
-  
--   坂本弘道 (cello)
-  
--   岡佐和香
-  
--   平手舞
+- 清水一登 (piano)
+- 坂本弘道 (cello)
+
+- 岡佐和香
+
+- 平手舞

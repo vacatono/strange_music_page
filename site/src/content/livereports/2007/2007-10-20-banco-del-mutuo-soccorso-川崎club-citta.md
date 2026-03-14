@@ -5,6 +5,7 @@ venue: "川崎CLUB CITTA'"
 source: 'wordpress'
 artists:
   - '来日公演'
+  - 'Banco Del Mutuo Soccorso'
 ---
 
 そんなわけで５月の公演がジャコモおじさんの足の手術とかで延期になってた、イタリアプログレのバンコの来日公演に行ってきました。  
@@ -15,15 +16,9 @@ artists:
 アンコールの最初ではマルテーゼがギター1本で・・・いきなりGenesisのHorizonsを演奏してて大笑い（その後はBeatlesでしたけど）あと3rdの「Non Mi Rompete」やってくれて嬉しかった（とりあえず聞いた中では3rdが一番好きなので）
 
 - Francesco Di Giacomo (vocals)
-
 - Vittorio Nocenzi (keyboards,vocals)
-
 - Rodolfo Maltese (guitars,trumpet)
-
 - Filippo Marcheggiani (guitars)
-
 - Tiziano Ricci (bass)
-
 - Maurizio Masi (drums)
-
 - Alessandro Papotto (sax,flute,clarinet)

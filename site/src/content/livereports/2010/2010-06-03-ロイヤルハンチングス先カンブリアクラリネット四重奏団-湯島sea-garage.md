@@ -1,11 +1,15 @@
 ---
-title: "ロイヤルハンチングス,先カンブリアクラリネット四重奏団 @湯島Sea Garage"
+title: 'ロイヤルハンチングス,先カンブリアクラリネット四重奏団 @湯島Sea Garage'
 date: 2010-06-03
-venue: "湯島Sea Garage"
-source: "wordpress"
+venue: '湯島Sea Garage'
+source: 'wordpress'
 artists:
-  - "梅津和時"
-  - "清水一登"
+  - '梅津和時'
+  - '清水一登'
+  - '多田葉子'
+  - '近藤達郎'
+  - '瀬戸信行'
+  - '熊坂義人'
 ---
 
 えーと2日続けての清水一登さん。

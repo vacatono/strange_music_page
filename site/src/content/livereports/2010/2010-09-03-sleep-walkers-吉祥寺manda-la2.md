@@ -1,12 +1,13 @@
 ---
-title: "Sleep walkers @吉祥寺MANDA-LA2"
+title: 'Sleep walkers @吉祥寺MANDA-LA2'
 date: 2010-09-03
-venue: "吉祥寺MANDA-LA2"
-source: "wordpress"
+venue: '吉祥寺MANDA-LA2'
+source: 'wordpress'
 artists:
-  - "向島ゆり子"
-  - "大熊ワタル"
-  - "清水一登"
+  - '向島ゆり子'
+  - '大熊ワタル'
+  - '清水一登'
+  - '小林武文'
 ---
 
 清水一登さんのユニット、名前が付いてから2度目のライブです。今回も最初は清水さんのピアノソロから、ソロアルバム辺りで聞き覚えのあるフレーズを交えながら10分くらいかな？  
@@ -15,37 +16,21 @@ artists:
 「大赤斑」のは「Sub-continental Tango～最低人～ヒョーロク玉」をメドレーで。「Dusk」はちょっと前のKILLING TIMEでも演奏してたっけな？小節の切れ目がよくわからないよーな不思議なミニマル曲。  
 アンコールでは「腰くだけ」を演奏、この曲も久しぶりに聴いた気がします（最近Arepos観に行ってないし）
 
-プログレと言うにはちょっと微妙にユルイ感じのこのユニットなのですが、個人的には文句なしに面白いです。SalleGaveau好きな人とかにもアピールするんじゃないかな？とか思ってるのですがどうでしょう？  
+プログレと言うにはちょっと微妙にユルイ感じのこのユニットなのですが、個人的には文句なしに面白いです。SalleGaveau好きな人とかにもアピールするんじゃないかな？とか思ってるのですがどうでしょう？
 
-  
-1. ピアノソロ  
-    
-2. 重量投げ  
-    
-3. Fall  
-    
-4. Party swing  
-    
+1. ピアノソロ
+2. 重量投げ
+3. Fall
+4. Party swing
 
-  
-
-  
-1. 収容所  
-    
-2. 大赤斑  
-    
-3. Sub-continental Tango  
-    
-4. 最低人 variations  
-    
-5. ヒョーロク玉  
-    
-6. Dusk  
-    
-7. Surdo balkan steps  
-    
-8. 腰くだけ (アンコール)  
-    
+5. 収容所
+6. 大赤斑
+7. Sub-continental Tango
+8. 最低人 variations
+9. ヒョーロク玉
+10. Dusk
+11. Surdo balkan steps
+12. 腰くだけ (アンコール)
 
 　清水一登 (piano, DW-8000)  
 　向島ゆり子 (violin)  

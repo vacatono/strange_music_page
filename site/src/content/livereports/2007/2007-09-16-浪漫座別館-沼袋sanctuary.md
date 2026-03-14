@@ -1,8 +1,16 @@
 ---
-title: "浪漫座別館 @沼袋Sanctuary"
+title: '浪漫座別館 @沼袋Sanctuary'
 date: 2007-09-16
-venue: "沼袋Sanctuary"
-source: "wordpress"
+venue: '沼袋Sanctuary'
+source: 'wordpress'
+artists:
+  - '浪漫座別館'
+  - '中嶋一晃'
+  - 'ひな'
+  - '浜田勝徳'
+  - '泉谷賢'
+  - '中嶋秀行'
+  - '北白川妙朗'
 ---
 
 1. 孔雀デラノーチェ（新曲：歌謡ムードコーラス）
@@ -18,19 +26,10 @@ source: "wordpress"
 11. 漫才「僕らの音楽授業」
 12. セルロイドの空
 13. 奈落の舞踏会
-  
 
-  
-
-  
--   中嶋一晃 (guitars)
-  
--   ひな (vocals)
-  
--   浜田勝徳 (bass)
-  
--   泉谷賢 (drums)
-  
--   中嶋秀行 (percussions,flute,vocals)
-  
--   北白川妙朗 (keyboards)
+- 中嶋一晃 (guitars)
+- ひな (vocals)
+- 浜田勝徳 (bass)
+- 泉谷賢 (drums)
+- 中嶋秀行 (percussions,flute,vocals)
+- 北白川妙朗 (keyboards)

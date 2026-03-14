@@ -1,16 +1,17 @@
 ---
-title: "KILLING TIME @高円寺JIROKICHI"
+title: 'KILLING TIME @高円寺JIROKICHI'
 date: 2010-09-10
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "Ma*To"
-  - "whacho"
-  - "斎藤ネコ"
-  - "清水一登"
+  - 'Ma*To'
+  - '斎藤ネコ'
+  - '清水一登'
+  - '青山純'
+  - 'MECKEN'
 ---
 
-4月の元住吉POWERS2以来なので5ヶ月ぶりかな？KILLING TIMEのライブです。  
+4月の元住吉POWERS2以来なので5ヶ月ぶりかな？ KILLING TIMEのライブです。  
 今回はご家庭の事情でwhachoさんが欠席、この5人でKILLING TIMEってのは初めてような。  
 珍しく最初っから「日没」（ラストとかアンコールでやること多かったような）からのスタート。この日はいつもとだいぶ曲順が違います。  
 メンバーも仰ってましたが「今日はバイオリンの音がよく聞こえる」と。まぁパーカッションとギター居ないし。うん。  
@@ -20,45 +21,22 @@ artists:
 んでしぶしぶメンバー出てきて…「何やるー？」「あのキメだらけのー（重量投げの事かな）」「譜面ないよー」（ここでMa\*Toさんが譜面持ってくる）「タスマニアなら一杯あるけどー」「愛の桟橋ってなんだっけー」「あーそれすっごいイイ曲」・・・などのやり取りがあり「重量投げ」と「タスマニア」どっちが良い？という話で、客からは「両方」と。  
 結局、最初に重量投げのキメ（というかこの曲キメしかないけど）をやって、突っ走るパートからタスマニアに無理矢理移行するというアンコールでした。ネコさんの譜面を必死に覗き込むMECKENさんが面白かった。
 
-  
-1. 日没  
-    
-2. PERU  
-    
-3. 沈黙する湖  
-    
-4. ヒョーロク玉  
-    
+1. 日没
+2. PERU
+3. 沈黙する湖
+4. ヒョーロク玉
 
-  
+5. SALON
+6. 8687
+7. Following evening
+8. Limbo dance
+9. Blivits
+10. Bob
+11. 重量投げ（ちょっとだけ）
+12. タスマニア
 
-  
-1. SALON  
-    
-2. 8687  
-    
-3. Following evening  
-    
-4. Limbo dance  
-    
-5. Blivits  
-    
-6. Bob  
-    
-7. 重量投げ（ちょっとだけ）  
-    
-8. タスマニア  
-    
-
-  
-
-  
--   清水一登 (piano, DW-8000)  
-    
--   斎藤ネコ (violin)  
-    
--   Ma\*To (tabla, synthesizers)  
-    
--   MECKEN (bass)  
-    
--   青山純 (drums)
+- 清水一登 (piano, DW-8000)
+- 斎藤ネコ (violin)
+- Ma\*To (tabla, synthesizers)
+- MECKEN (bass)
+- 青山純 (drums)

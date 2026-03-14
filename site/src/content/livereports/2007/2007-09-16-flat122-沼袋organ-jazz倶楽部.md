@@ -3,6 +3,11 @@ title: 'FLAT122 @沼袋Organ Jazz倶楽部'
 date: 2007-09-16
 venue: '沼袋Organ Jazz倶楽部'
 source: 'wordpress'
+artists:
+  - 'FLAT122'
+  - '川崎隆男'
+  - '平田聡'
+  - '田辺清貴'
 ---
 
 #ゴメンナサイ遅刻しました・・・「Etude」の途中だったのかな？  
