@@ -5,6 +5,16 @@ venue: '高円寺ペンギンハウス'
 source: 'wordpress'
 artists:
   - 'FLAT122'
+  - 'Co-rchestra'
+  - 'グッドラックヘイワ'
+  - '伊藤大地'
+  - '野村卓史'
+  - '野々歩'
+  - '小田晃生'
+  - '柴山真人'
+  - '川崎隆男'
+  - '平田聡'
+  - '田辺清貴'
 ---
 
 てなわけで高円寺ペンギンハウスに行ってきましたよ。
@@ -18,7 +28,6 @@ artists:
 ピアノとドラムだけなのにメロディー面白くって全然飽きないの。最後にSAKEROCKのCDにも入ってる「CHINESE SKATER」（確か）をやっておしまい。次回ライブは未定。
 
 - 伊藤大地 (drums,口笛)
-
 - 野村卓史 (piano)
 
 #### Co-rchestra
@@ -28,9 +37,7 @@ artists:
 ちなみにボーカル/フィドルの野々歩さんはロバの音楽座の方の娘さんなのだとか。
 
 - 野々歩 (fiddle,vocals)
-
 - 小田晃生 (fiddle,vocals)
-
 - 柴山真人 (guitars,vocals)
 
 ([http://www.roba-house.com/Co-rchestra/](http://www.roba-house.com/Co-rchestra/))  
@@ -45,9 +52,7 @@ Samla Mammas MannaとかFinchとか（どちらとも微妙に違うけど）好
 プログレッシャーは紙ジャケなんて買ってないでライブ行けばイイと思うのです。
 
 - 川崎隆男 (piano)
-
 - 平田聡 (guitars)
-
 - 田辺清貴 (drums)
 
 ([http://www.geocities.jp/flat122/](http://www.geocities.jp/flat122/))
