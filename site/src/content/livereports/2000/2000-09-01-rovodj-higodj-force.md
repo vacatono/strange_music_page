@@ -1,15 +1,15 @@
 ---
-title: "ROVO,DJ-HIGO,DJ-FORCE @ 法政大学学生会館"
+title: 'ROVO,DJ-HIGO,DJ-FORCE @ 法政大学学生会館'
 date: 2000-09-01
-venue: "法政大学学生会館"
-source: "html"
+venue: '法政大学学生会館'
+source: 'html'
 artists:
-  - "勝井祐二"
-  - "原田仁"
-  - "山本精一"
-  - "益子樹"
-  - "岡部洋一"
-  - "芳垣安洋"
+  - '勝井祐二'
+  - '原田仁'
+  - '山本精一'
+  - '益子樹'
+  - '岡部洋一'
+  - '芳垣安洋'
 ---
 
 ホリコシさんとあと、大学の友達(現在無職)と市ヶ谷へ。
@@ -36,4 +36,3 @@ artists:
 - 益子樹 (keyboards)
 - 岡部洋一 (percussions)
 - 芳垣安洋 (percussions)
-

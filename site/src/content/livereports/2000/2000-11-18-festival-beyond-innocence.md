@@ -1,8 +1,13 @@
 ---
-title: "festival BEYOND INNOCENCE @ 神戸XEBEC HALL"
+title: 'festival BEYOND INNOCENCE @ 神戸XEBEC HALL'
 date: 2000-11-18
-venue: "神戸XEBEC HALL"
-source: "html"
+venue: '神戸XEBEC HALL'
+source: 'html'
+artists:
+  - 'Han Bennink'
+  - '田中悠美子'
+  - '千野秀一'
+  - 'ふちがみとふなと'
 ---
 
 毎年この時期にやってるイベントです。2日間ずーーーーーーーーーーっと、一癖二癖三癖あるライヴを見ることができます。今回で5回目、私は初めてでした。
@@ -20,4 +25,3 @@ source: "html"
 千野秀一。この人も今回はそんなに目立つポジションじゃなかったんですけど、音に対してものすごく敏感に反応する感じでした。演奏終わるとその辺をふらふらしてるフツーの人なんですけど、演奏してる瞬間の集中力みたいなのは凄い伝わってきました。
 
 えーと後は思い出したらまた追加します。
-

@@ -1,12 +1,18 @@
 ---
-title: "CICALA-MVTA @六本木ヒルズ"
+title: 'CICALA-MVTA @六本木ヒルズ'
 date: 2005-08-15
-venue: "六本木ヒルズ"
-source: "wordpress"
+venue: '六本木ヒルズ'
+source: 'wordpress'
 artists:
-  - "吉田達也"
-  - "坂本弘道"
-  - "太田惠資"
+  - '吉田達也'
+  - '坂本弘道'
+  - '太田惠資'
+  - '大熊ワタル'
+  - '佐藤芳明'
+  - '渡辺明子'
+  - '関島岳郎'
+  - '吉田達也'
+  - 'こぐれみわぞう'
 ---
 
 六本木ヒルズ「カバレットアリーナ」というイベント。無料ライブ！だったので行ってきました。
@@ -15,25 +21,15 @@ artists:
 
 この日は大道芸人とのパフォーマンスと一緒でパントマイムとかジャンピングロープと一緒に演奏してました。サーカスのBGMっぽいのって林海象の昔の映画みたいなイメージでちょっとイイなぁとか思いました。ただやっぱりその頃に篠田昌已さんが鳴らしてた音とはちょっと違ってて、良くも悪くも洗練されてるよーにも思いました。
 
-([http://www.cicala-mvta.com/](http://www.cicala-mvta.com/))  
+([http://www.cicala-mvta.com/](http://www.cicala-mvta.com/))
 
-  
--   大熊ワタル (clarinet）
-  
--   太田惠資 (violin)
-  
--   桜井芳樹 (guitars)
-  
--   佐藤芳明 (accordion)
-  
--   渡辺明子 (trombone)
-  
--   関島岳郎 (tuba)
-  
--   吉田達也 (drums)
-  
--   こぐれみわぞう (チンドン太鼓)
-  
+- 大熊ワタル (clarinet）
+- 太田惠資 (violin)
+- 桜井芳樹 (guitars)
+- 佐藤芳明 (accordion)
+- 渡辺明子 (trombone)
+- 関島岳郎 (tuba)
+- 吉田達也 (drums)
+- こぐれみわぞう (チンドン太鼓)
 
-  
-[![f:id:vacatonos:20050815193844j:image](http://f.hatena.ne.jp/images/fotolife/v/vacatonos/20050815/20050815193844.jpg "f:id:vacatonos:20050815193844j:image")](http://f.hatena.ne.jp/vacatonos/20050815193844)
+[![f:id:vacatonos:20050815193844j:image](http://f.hatena.ne.jp/images/fotolife/v/vacatonos/20050815/20050815193844.jpg 'f:id:vacatonos:20050815193844j:image')](http://f.hatena.ne.jp/vacatonos/20050815193844)

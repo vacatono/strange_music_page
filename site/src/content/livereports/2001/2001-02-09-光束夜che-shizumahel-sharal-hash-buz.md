@@ -3,6 +3,12 @@ title: "光束夜,Che-Shizu,Mahel Sharal Hash Buz @ 吉祥寺STAR PINE'S CAFE"
 date: 2001-02-09
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'html'
+artists:
+  - '光束夜'
+  - 'Che-Shizu'
+  - 'Mahel Sharal Hash Buz'
+  - '向井千恵'
+  - '工藤冬里'
 ---
 
 シェシズとマヘルを見たくて行きました。ちょっと風邪がまだ残っていたので、下のテーブル席の後ろの方でコーヒーとか飲みながらゆーっくり見るつもりでした。
