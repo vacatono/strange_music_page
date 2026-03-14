@@ -1,27 +1,33 @@
 ---
-title: "BOAT,PANIC SMILE,DCPRG @ 渋谷CLUB QUATTRO"
+title: 'BOAT,PANIC SMILE,DCPRG @ 渋谷CLUB QUATTRO'
 date: 2001-09-22
-venue: "渋谷CLUB QUATTRO"
-source: "html"
+venue: '渋谷CLUB QUATTRO'
+source: 'html'
 artists:
-  - "菊地成孔"
-  - "大友良英"
-  - "高井康生"
-  - "栗原正己"
-  - "坪口昌恭"
-  - "後関好宏"
-  - "津上研太"
-  - "吉見征樹"
-  - "藤井信雄"
-  - "芳垣安洋"
-  - "三沢いずみ"
+  - '菊地成孔'
+  - '大友良英'
+  - '高井康生'
+  - '栗原正己'
+  - '坪口昌恭'
+  - '後関好宏'
+  - '津上研太'
+  - '吉見征樹'
+  - '藤井信雄'
+  - '芳垣安洋'
+  - '三沢いずみ'
+  - 'AxSxE'
+  - 'アイン'
+  - '坂井キヨオシ'
+  - '吉田肇'
+  - '石橋英子'
+  - 'Json Shalton'
 setlist:
-  - "CATCH 22"
-  - "PLAYMATE AT HANOI"
-  - "CIRCLE/LINE ～ 最後の平和を我らに"
-  - "?"
-  - "HEY JOE"
-  - "安っぽくて泣きたくなる話"
+  - 'CATCH 22'
+  - 'PLAYMATE AT HANOI'
+  - 'CIRCLE/LINE ～ 最後の平和を我らに'
+  - '?'
+  - 'HEY JOE'
+  - '安っぽくて泣きたくなる話'
 ---
 
 ホリコシさんと弟と一緒にライヴ(ヘンな面子だ)、入ったら既にボートがはじまってました。
@@ -72,4 +78,3 @@ setlist:
 4. ?
 5. HEY JOE
 6. 安っぽくて泣きたくなる話
-
