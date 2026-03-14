@@ -36,7 +36,7 @@
  * simple strings and complete email addresses as well. That means, that you might
  * use any of the following notations:
  *
- * - www.nﾃｶrgler.com
+ * - www.nörgler.com
  * - xn--nrgler-wxa
  * - xn--brse-5qa.xn--knrz-1ra.info
  *

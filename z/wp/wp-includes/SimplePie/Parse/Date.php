@@ -107,20 +107,20 @@ class SimplePie_Parse_Date
 		'sonnabend' => 6,
 		'sonntag' => 7,
 		// Italian
-		'lunedﾃｬ' => 1,
-		'martedﾃｬ' => 2,
-		'mercoledﾃｬ' => 3,
-		'giovedﾃｬ' => 4,
-		'venerdﾃｬ' => 5,
+		'lunedì' => 1,
+		'martedì' => 2,
+		'mercoledì' => 3,
+		'giovedì' => 4,
+		'venerdì' => 5,
 		'sabato' => 6,
 		'domenica' => 7,
 		// Spanish
 		'lunes' => 1,
 		'martes' => 2,
-		'miﾃｩrcoles' => 3,
+		'miércoles' => 3,
 		'jueves' => 4,
 		'viernes' => 5,
-		'sﾃ｡bado' => 6,
+		'sábado' => 6,
 		'domingo' => 7,
 		// Finnish
 		'maanantai' => 1,
@@ -131,21 +131,21 @@ class SimplePie_Parse_Date
 		'lauantai' => 6,
 		'sunnuntai' => 7,
 		// Hungarian
-		'hﾃｩtfﾅ・ => 1,
+		'hétfő' => 1,
 		'kedd' => 2,
 		'szerda' => 3,
-		'csﾃｼtﾃｶrtok' => 4,
-		'pﾃｩntek' => 5,
+		'csütörtok' => 4,
+		'péntek' => 5,
 		'szombat' => 6,
-		'vasﾃ｡rnap' => 7,
+		'vasárnap' => 7,
 		// Greek
-		'ﾎ釆ｵﾏ・ => 1,
-		'ﾎ､ﾏ∃ｹ' => 2,
-		'ﾎ､ﾎｵﾏ・ => 3,
-		'ﾎﾎｵﾎｼ' => 4,
-		'ﾎﾎｱﾏ・ => 5,
-		'ﾎ｣ﾎｱﾎｲ' => 6,
-		'ﾎ墹・・ => 7,
+		'Δευ' => 1,
+		'Τρι' => 2,
+		'Τετ' => 3,
+		'Πεμ' => 4,
+		'Παρ' => 5,
+		'Σαβ' => 6,
+		'Κυρ' => 7,
 	);
 
 	/**
@@ -195,21 +195,21 @@ class SimplePie_Parse_Date
 		'december' => 12,
 		// French
 		'janvier' => 1,
-		'fﾃｩvrier' => 2,
+		'février' => 2,
 		'mars' => 3,
 		'avril' => 4,
 		'mai' => 5,
 		'juin' => 6,
 		'juillet' => 7,
-		'aoﾃｻt' => 8,
+		'août' => 8,
 		'septembre' => 9,
 		'octobre' => 10,
 		'novembre' => 11,
-		'dﾃｩcembre' => 12,
+		'décembre' => 12,
 		// German
 		'januar' => 1,
 		'februar' => 2,
-		'mﾃ､rz' => 3,
+		'märz' => 3,
 		'april' => 4,
 		'mai' => 5,
 		'juni' => 6,
@@ -252,45 +252,45 @@ class SimplePie_Parse_Date
 		'maaliskuu' => 3,
 		'huhtikuu' => 4,
 		'toukokuu' => 5,
-		'kesﾃ､kuu' => 6,
-		'heinﾃ､kuu' => 7,
+		'kesäkuu' => 6,
+		'heinäkuu' => 7,
 		'elokuu' => 8,
 		'suuskuu' => 9,
 		'lokakuu' => 10,
 		'marras' => 11,
 		'joulukuu' => 12,
 		// Hungarian
-		'januﾃ｡r' => 1,
-		'februﾃ｡r' => 2,
-		'mﾃ｡rcius' => 3,
-		'ﾃ｡prilis' => 4,
-		'mﾃ｡jus' => 5,
-		'jﾃｺnius' => 6,
-		'jﾃｺlius' => 7,
+		'január' => 1,
+		'február' => 2,
+		'március' => 3,
+		'április' => 4,
+		'május' => 5,
+		'június' => 6,
+		'július' => 7,
 		'augusztus' => 8,
 		'szeptember' => 9,
-		'oktﾃｳber' => 10,
+		'október' => 10,
 		'november' => 11,
 		'december' => 12,
 		// Greek
-		'ﾎ厥ｱﾎｽ' => 1,
-		'ﾎｦﾎｵﾎｲ' => 2,
-		'ﾎ慚ｬﾏ・ => 3,
-		'ﾎ慚ｱﾏ・ => 3,
-		'ﾎ耐ﾏ・ => 4,
-		'ﾎ慚ｬﾎｹ' => 5,
-		'ﾎ慚ｱﾏ・ => 5,
-		'ﾎ慚ｱﾎｹ' => 5,
-		'ﾎ厥ｿﾏ歳ｽ' => 6,
-		'ﾎ厥ｿﾎｽ' => 6,
-		'ﾎ厥ｿﾏ歳ｻ' => 7,
-		'ﾎ厥ｿﾎｻ' => 7,
-		'ﾎ耐歳ｳ' => 8,
-		'ﾎ耐・ｳ' => 8,
-		'ﾎ｣ﾎｵﾏ' => 9,
-		'ﾎ湮ｺﾏ・ => 10,
-		'ﾎ斟ｿﾎｭ' => 11,
-		'ﾎ釆ｵﾎｺ' => 12,
+		'Ιαν' => 1,
+		'Φεβ' => 2,
+		'Μάώ' => 3,
+		'Μαώ' => 3,
+		'Απρ' => 4,
+		'Μάι' => 5,
+		'Μαϊ' => 5,
+		'Μαι' => 5,
+		'Ιούν' => 6,
+		'Ιον' => 6,
+		'Ιούλ' => 7,
+		'Ιολ' => 7,
+		'Αύγ' => 8,
+		'Αυγ' => 8,
+		'Σεπ' => 9,
+		'Οκτ' => 10,
+		'Νοέ' => 11,
+		'Δεκ' => 12,
 	);
 
 	/**
@@ -659,7 +659,7 @@ class SimplePie_Parse_Date
 			6: Second
 			7: Decimal fraction of a second
 			8: Zulu
-			9: Timezone ﾂｱ
+			9: Timezone ±
 			10: Timezone hours
 			11: Timezone minutes
 			*/
@@ -797,7 +797,7 @@ class SimplePie_Parse_Date
 			5: Hour
 			6: Minute
 			7: Second
-			8: Timezone ﾂｱ
+			8: Timezone ±
 			9: Timezone hours
 			10: Timezone minutes
 			11: Alphabetic timezone

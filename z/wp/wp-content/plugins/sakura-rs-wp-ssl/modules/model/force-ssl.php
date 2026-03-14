@@ -19,10 +19,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 class Force_ssl_sakura {
 	const HTACCESS_MARKER = 'Force SSL for SAKURA';
 	const HTACCESS_REWRITE_RULE = array(
-		'# Rewrite縺励※繧・TTPS迺ｰ蠅・､画焚繧呈怏蜉ｹ縺ｫ縺吶ｋ',
+		'# RewriteしてもHTTPS環境変数を有効にする',
 		'SetEnvIf REDIRECT_HTTPS (.*) HTTPS=$1',
 		'',
-		'# 蟶ｸ譎・TTPS蛹・HTTPS縺檎┌蜉ｹ縺ｪ蝣ｴ蜷医Μ繝繧､繝ｬ繧ｯ繝・',
+		'# 常時HTTPS化(HTTPSが無効な場合リダイレクト)',
 		'<IfModule mod_rewrite.c>',
 		'RewriteEngine on',
 		'RewriteCond %{ENV:HTTPS} !on',
@@ -31,7 +31,7 @@ class Force_ssl_sakura {
 		'</IfModule>',
 		);
 	const HTACCESS_REWRITE_RULE_NO_SNI = array(
-		'# 蟶ｸ譎・TTPS蛹・HTTPS縺檎┌蜉ｹ縺ｪ蝣ｴ蜷医Μ繝繧､繝ｬ繧ｯ繝・',
+		'# 常時HTTPS化(HTTPSが無効な場合リダイレクト)',
 		'<IfModule mod_rewrite.c>',
 		'RewriteEngine on',
 		'RewriteCond %{HTTPS} !on',
@@ -52,7 +52,7 @@ class Force_ssl_sakura {
 		if ( ( ! file_exists( $htaccess_file ) && is_writable( $home_path ) ) || is_writable( $htaccess_file ) ) {
 			return $htaccess_file;
 		} else {
-			return new WP_Error( 'Sakura SSL update Error', '.htaccess縺ｮ譖ｸ縺崎ｾｼ縺ｿ讓ｩ髯舌′縺ゅｊ縺ｾ縺帙ｓ縲よ嶌縺崎ｾｼ縺ｿ讓ｩ髯舌ｒ險ｭ螳壹＠縺ｦ縺九ｉ蜀榊ｺｦ螳溯｡後＠縺ｦ縺上□縺輔＞縲・ );
+			return new WP_Error( 'Sakura SSL update Error', '.htaccessの書き込み権限がありません。書き込み権限を設定してから再度実行してください。' );
 		}
 	}
 
@@ -134,7 +134,7 @@ class Force_ssl_sakura {
 			return $htaccess_file;
 		}
 		if ( ! got_mod_rewrite() ) {
-			return new WP_Error( 'Sakura SSL update Error', '.htaccess縺ｮ譖ｸ縺崎ｾｼ縺ｿ讓ｩ髯舌′縺ゅｊ縺ｾ縺帙ｓ縲よ嶌縺崎ｾｼ縺ｿ讓ｩ髯舌ｒ險ｭ螳壹＠縺ｦ縺九ｉ蜀榊ｺｦ螳溯｡後＠縺ｦ縺上□縺輔＞縲・);
+			return new WP_Error( 'Sakura SSL update Error', '.htaccessの書き込み権限がありません。書き込み権限を設定してから再度実行してください。');
 		}
 		$this->insert_htaccess_rule( $htaccess_file, $ssl_type );
 		update_option( Sakura_Base::SAKURA_FORCE_SSL, true );

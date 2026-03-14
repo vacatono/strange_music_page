@@ -1,7 +1,8 @@
 <?php
 /**
  * Plugin Name:     SAKURA RS WP SSL
- * Description:     縺薙・繝励Λ繧ｰ繧､繝ｳ縺ｯ縺輔￥繧峨・繝ｬ繝ｳ繧ｿ繝ｫ繧ｵ繝ｼ繝蝉ｸ翫・WordPress縺ｧ縲∝ｸｸ譎４SL蛹悶ｒ邁｡蜊倥↓陦後∴繧九・繝ｩ繧ｰ繧､繝ｳ縺ｧ縺吶・ * Author: SAKURA Internet Inc.
+ * Description:     このプラグインはさくらのレンタルサーバ上のWordPressで、常時SSL化を簡単に行えるプラグインです。
+ * Author: SAKURA Internet Inc.
  * Author URI: http://www.sakura.ne.jp/
  * Plugin URI: https://help.sakura.ad.jp/hc/ja/articles/115000047641
  * Text Domain:     sakura-rs-ssl

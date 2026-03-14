@@ -373,7 +373,7 @@ function autoptimize_extra_options_page() {
                         $lyte_config_url="options-general.php?page=lyte_settings_page";
                         echo sprintf(' <a href="'.$lyte_config_url.'">%s</a>', __('Click here to configure it.','autoptimize'));
                     } else {
-                        echo sprintf( __('%s allows you to 窶徑azy load窶・your videos, by inserting responsive 窶廰ite YouTube Embeds". ','autoptimize'),'<a href="https://wordpress.org/plugins/wp-youtube-lyte" target="_blank">WP YouTube Lyte</a>');
+                        echo sprintf( __('%s allows you to “lazy load” your videos, by inserting responsive “Lite YouTube Embeds". ','autoptimize'),'<a href="https://wordpress.org/plugins/wp-youtube-lyte" target="_blank">WP YouTube Lyte</a>');
                         $lyte_install_url= network_admin_url()."plugin-install.php?s=lyte&tab=search&type=term";
                         echo sprintf(' <a href="'.$lyte_install_url.'">%s</a>', __('Click here to install and activate it.','autoptimize'));
                     } ?>

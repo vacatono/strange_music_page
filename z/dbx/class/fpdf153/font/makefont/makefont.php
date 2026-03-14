@@ -289,9 +289,9 @@ function CheckTTF($file)
 }
 
 /*******************************************************************************
-* $fontfile : chemin du fichier TTF (ou chaçµœe vide si pas d'incorporation)    *
+* $fontfile : chemin du fichier TTF (ou chaîne vide si pas d'incorporation)    *
 * $afmfile :  chemin du fichier AFM                                            *
-* $enc :      encodage (ou chaçµœe vide si la police est symbolique)            *
+* $enc :      encodage (ou chaîne vide si la police est symbolique)            *
 * $patch :    patch optionnel pour l'encodage                                  *
 * $type :     type de la police si $fontfile est vide                          *
 *******************************************************************************/

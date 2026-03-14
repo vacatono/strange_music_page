@@ -662,7 +662,7 @@ class AIOWPSecurity_Utility_Htaccess
 
     /*
      * This function will disable directory listings for all directories, add this line to the
-     * site窶冱 root .htaccess file.
+     * site’s root .htaccess file.
      * NOTE: AllowOverride must be enabled in the httpd.conf file for this to work!
      */
     static function getrules_disable_index_views()

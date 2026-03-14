@@ -5,7 +5,7 @@
 //            or http://www.getid3.org                         //
 //          also https://github.com/JamesHeinrich/getID3       //
 //                                                             //
-//  FLV module by Seth Kaufman <sethﾃ・hirl-i-gig*com>          //
+//  FLV module by Seth Kaufman <sethØwhirl-i-gig*com>          //
 //                                                             //
 //  * version 0.1 (26 June 2005)                               //
 //                                                             //
@@ -15,7 +15,7 @@
 //                                                             //
 //  * version 0.2 (22 February 2006)                           //
 //  Support for On2 VP6 codec and meta information             //
-//    by Steve Webster <steve.websterﾃ惑eaturecreep*com>        //
+//    by Steve Webster <steve.websterØfeaturecreep*com>        //
 //                                                             //
 //  * version 0.3 (15 June 2006)                               //
 //  Modified to not read entire file into memory               //
@@ -24,17 +24,17 @@
 //  * version 0.4 (07 December 2007)                           //
 //  Bugfixes for incorrectly parsed FLV dimensions             //
 //    and incorrect parsing of onMetaTag                       //
-//    by Evgeny Moysevich <moysevichﾃ枠mail*com>                //
+//    by Evgeny Moysevich <moysevichØgmail*com>                //
 //                                                             //
 //  * version 0.5 (21 May 2009)                                //
 //  Fixed parsing of audio tags and added additional codec     //
 //    details. The duration is now read from onMetaTag (if     //
 //    exists), rather than parsing whole file                  //
-//    by Nigel Barnes <ngbarnesﾃ鷲otmail*com>                   //
+//    by Nigel Barnes <ngbarnesØhotmail*com>                   //
 //                                                             //
 //  * version 0.6 (24 May 2009)                                //
 //  Better parsing of files with h264 video                    //
-//    by Evgeny Moysevich <moysevichﾃ枠mail*com>                //
+//    by Evgeny Moysevich <moysevichØgmail*com>                //
 //                                                             //
 //  * version 0.6.1 (30 May 2011)                              //
 //    prevent infinite loops in expGolombUe()                  //
@@ -42,7 +42,7 @@
 //  * version 0.7.0 (16 Jul 2013)                              //
 //  handle GETID3_FLV_VIDEO_VP6FLV_ALPHA                       //
 //  improved AVCSequenceParameterSetReader::readData()         //
-//    by Xander Schouwerwou <schouwerwouﾃ枠mail*com>            //
+//    by Xander Schouwerwou <schouwerwouØgmail*com>            //
 //                                                             //
 /////////////////////////////////////////////////////////////////
 //                                                             //
@@ -149,7 +149,7 @@ class getid3_flv extends getid3_handler {
 						$FLVvideoHeader = $this->fread(11);
 
 						if ($info['flv']['video']['videoCodec'] == GETID3_FLV_VIDEO_H264) {
-							// this code block contributed by: moysevichﾃ枠mail*com
+							// this code block contributed by: moysevichØgmail*com
 
 							$AVCPacketType = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 0, 1));
 							if ($AVCPacketType == H264_AVC_SEQUENCE_HEADER) {
@@ -175,7 +175,7 @@ class getid3_flv extends getid3_handler {
 									}
 								}
 							}
-							// end: moysevichﾃ枠mail*com
+							// end: moysevichØgmail*com
 
 						} elseif ($info['flv']['video']['videoCodec'] == GETID3_FLV_VIDEO_H263) {
 
@@ -238,14 +238,14 @@ class getid3_flv extends getid3_handler {
 
 						} elseif ($info['flv']['video']['videoCodec'] ==  GETID3_FLV_VIDEO_VP6FLV_ALPHA) {
 
-							/* contributed by schouwerwouﾃ枠mail*com */
+							/* contributed by schouwerwouØgmail*com */
 							if (!isset($info['video']['resolution_x'])) { // only when meta data isn't set
 								$PictureSizeEnc['x'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 6, 2));
 								$PictureSizeEnc['y'] = getid3_lib::BigEndian2Int(substr($FLVvideoHeader, 7, 2));
 								$info['video']['resolution_x'] = ($PictureSizeEnc['x'] & 0xFF) << 3;
 								$info['video']['resolution_y'] = ($PictureSizeEnc['y'] & 0xFF) << 3;
 							}
-							/* end schouwerwouﾃ枠mail*com */
+							/* end schouwerwouØgmail*com */
 
 						}
 						if (!empty($info['video']['resolution_x']) && !empty($info['video']['resolution_y'])) {

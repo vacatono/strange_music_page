@@ -18,7 +18,7 @@ $generated_i18n_strings = array(
 	__( 'Archives', 'gutenberg' ),
 
 	// Reference: core-blocks/archives/index.js:16
-	__( 'Display a monthly archive of your site窶冱 Posts.', 'gutenberg' ),
+	__( 'Display a monthly archive of your site’s Posts.', 'gutenberg' ),
 
 	// Reference: core-blocks/audio/edit.js:105
 	__( 'Edit audio', 'gutenberg' ),
@@ -53,7 +53,7 @@ $generated_i18n_strings = array(
 	// Reference: core-blocks/gallery/gallery-image.js:129
 	// Reference: core-blocks/image/edit.js:478
 	// Reference: core-blocks/video/edit.js:163
-	__( 'Write caption窶ｦ', 'gutenberg' ),
+	__( 'Write caption…', 'gutenberg' ),
 
 	// Reference: core-blocks/audio/edit.js:83
 	// Reference: core-blocks/audio/index.js:16
@@ -108,7 +108,7 @@ $generated_i18n_strings = array(
 
 	// Reference: core-blocks/button/edit.js:86
 	// Reference: core-blocks/file/edit.js:212
-	__( 'Add text窶ｦ', 'gutenberg' ),
+	__( 'Add text…', 'gutenberg' ),
 
 	// Reference: core-blocks/button/index.js:65
 	__( 'Button', 'gutenberg' ),
@@ -147,10 +147,10 @@ $generated_i18n_strings = array(
 	__( '(Untitled)', 'gutenberg' ),
 
 	// Reference: core-blocks/categories/index.js:17
-	__( 'Display a list of all your site窶冱 categories.', 'gutenberg' ),
+	__( 'Display a list of all your site’s categories.', 'gutenberg' ),
 
 	// Reference: core-blocks/code/edit.js:19
-	__( 'Write code窶ｦ', 'gutenberg' ),
+	__( 'Write code…', 'gutenberg' ),
 
 	// Reference: core-blocks/code/edit.js:20
 	// Reference: core-blocks/code/index.js:15
@@ -179,7 +179,7 @@ $generated_i18n_strings = array(
 	__( 'beta', 'gutenberg' ),
 
 	// Reference: core-blocks/columns/index.js:69
-	__( 'Add a block that displays content in multiple columns, then add whatever content blocks you窶囘 like.', 'gutenberg' ),
+	__( 'Add a block that displays content in multiple columns, then add whatever content blocks you’d like.', 'gutenberg' ),
 
 	// Reference: core-blocks/cover-image/index.js:147
 	// Reference: core-blocks/image/edit.js:230
@@ -202,23 +202,23 @@ $generated_i18n_strings = array(
 	__( 'an image', 'gutenberg' ),
 
 	// Reference: core-blocks/cover-image/index.js:221
-	__( 'Write title窶ｦ', 'gutenberg' ),
+	__( 'Write title…', 'gutenberg' ),
 
 	// Reference: core-blocks/cover-image/index.js:66
-	__( 'Add a full-width image, and layer text over it 窶・great for headers.', 'gutenberg' ),
+	__( 'Add a full-width image, and layer text over it — great for headers.', 'gutenberg' ),
 
 	// Reference: core-blocks/embed/index.js:180
 	__( 'Edit URL', 'gutenberg' ),
 
 	// Reference: core-blocks/embed/index.js:192
-	__( 'Embedding窶ｦ', 'gutenberg' ),
+	__( 'Embedding…', 'gutenberg' ),
 
 	// Reference: core-blocks/embed/index.js:199
 	/* translators: %s: type of embed e.g: "YouTube", "Twitter", etc. "Embed" is used when no specific type exists */
 	__( '%s URL', 'gutenberg' ),
 
 	// Reference: core-blocks/embed/index.js:209
-	__( 'Enter URL to embed here窶ｦ', 'gutenberg' ),
+	__( 'Enter URL to embed here…', 'gutenberg' ),
 
 	// Reference: core-blocks/embed/index.js:216
 	__( 'Sorry, we could not embed that content.', 'gutenberg' ),
@@ -275,7 +275,7 @@ $generated_i18n_strings = array(
 	__( 'Edit file', 'gutenberg' ),
 
 	// Reference: core-blocks/file/edit.js:199
-	__( 'Write file name窶ｦ', 'gutenberg' ),
+	__( 'Write file name…', 'gutenberg' ),
 
 	// Reference: core-blocks/file/edit.js:228
 	// Reference: edit-post/hooks/more-menu/copy-content-menu-item/index.js:18
@@ -340,7 +340,7 @@ $generated_i18n_strings = array(
 	__( 'Classic', 'gutenberg' ),
 
 	// Reference: core-blocks/freeform/index.js:17
-	__( 'It窶冱 the classic WordPress editor and it窶冱 a block! Drop the editor right in.', 'gutenberg' ),
+	__( 'It’s the classic WordPress editor and it’s a block! Drop the editor right in.', 'gutenberg' ),
 
 	// Reference: core-blocks/gallery/edit.js:107
 	__( 'Thumbnails are cropped to align.', 'gutenberg' ),
@@ -392,7 +392,7 @@ $generated_i18n_strings = array(
 	__( 'Text Alignment', 'gutenberg' ),
 
 	// Reference: core-blocks/heading/edit.js:80
-	__( 'Write heading窶ｦ', 'gutenberg' ),
+	__( 'Write heading…', 'gutenberg' ),
 
 	// Reference: core-blocks/heading/index.js:61
 	__( 'Heading', 'gutenberg' ),
@@ -464,7 +464,7 @@ $generated_i18n_strings = array(
 	__( 'photo', 'gutenberg' ),
 
 	// Reference: core-blocks/image/index.js:96
-	__( 'They窶决e worth 1,000 words! Insert a single image.', 'gutenberg' ),
+	__( 'They’re worth 1,000 words! Insert a single image.', 'gutenberg' ),
 
 	// Reference: core-blocks/latest-comments/edit.js:104
 	__( 'Number of comments', 'gutenberg' ),
@@ -485,7 +485,7 @@ $generated_i18n_strings = array(
 	__( 'Latest Comments', 'gutenberg' ),
 
 	// Reference: core-blocks/latest-comments/index.js:17
-	__( 'Show a list of your site窶冱 most recent comments.', 'gutenberg' ),
+	__( 'Show a list of your site’s most recent comments.', 'gutenberg' ),
 
 	// Reference: core-blocks/latest-comments/index.js:23
 	__( 'recent comments', 'gutenberg' ),
@@ -528,7 +528,7 @@ $generated_i18n_strings = array(
 	__( 'Indent list item', 'gutenberg' ),
 
 	// Reference: core-blocks/list/index.js:340
-	__( 'Write list窶ｦ', 'gutenberg' ),
+	__( 'Write list…', 'gutenberg' ),
 
 	// Reference: core-blocks/list/index.js:64
 	__( 'List', 'gutenberg' ),
@@ -552,7 +552,7 @@ $generated_i18n_strings = array(
 	__( 'Hide the teaser before the "More" tag', 'gutenberg' ),
 
 	// Reference: core-blocks/more/index.js:23
-	__( 'Want to show only part of this post on your blog窶冱 home page? Insert a "More" block where you want the split.', 'gutenberg' ),
+	__( 'Want to show only part of this post on your blog’s home page? Insert a "More" block where you want the split.', 'gutenberg' ),
 
 	// Reference: core-blocks/nextpage/index.js:18
 	__( 'This block allows you to set break points on your post. Visitors of your blog are then presented with content split into multiple pages.', 'gutenberg' ),
@@ -597,7 +597,7 @@ $generated_i18n_strings = array(
 	__( 'Add text that respects your spacing and tabs, and also allows styling.', 'gutenberg' ),
 
 	// Reference: core-blocks/preformatted/index.js:79
-	__( 'Write preformatted text窶ｦ', 'gutenberg' ),
+	__( 'Write preformatted text…', 'gutenberg' ),
 
 	// Reference: core-blocks/pullquote/index.js:47
 	__( 'Pullquote', 'gutenberg' ),
@@ -608,12 +608,12 @@ $generated_i18n_strings = array(
 	// Reference: core-blocks/pullquote/index.js:75
 	// Reference: core-blocks/quote/index.js:210
 	/* translators: the text of the quotation */
-	__( 'Write quote窶ｦ', 'gutenberg' ),
+	__( 'Write quote…', 'gutenberg' ),
 
 	// Reference: core-blocks/pullquote/index.js:83
 	// Reference: core-blocks/quote/index.js:222
 	/* translators: the individual or entity quoted */
-	__( 'Write citation窶ｦ', 'gutenberg' ),
+	__( 'Write citation…', 'gutenberg' ),
 
 	// Reference: core-blocks/quote/index.js:55
 	// Reference: packages/editor/build-module/components/post-format/index.js:34
@@ -656,7 +656,7 @@ $generated_i18n_strings = array(
 	__( 'Shortcode', 'gutenberg' ),
 
 	// Reference: core-blocks/shortcode/index.js:79
-	__( 'Write shortcode here窶ｦ', 'gutenberg' ),
+	__( 'Write shortcode here…', 'gutenberg' ),
 
 	// Reference: core-blocks/spacer/index.js:23
 	__( 'Spacer', 'gutenberg' ),
@@ -674,10 +674,10 @@ $generated_i18n_strings = array(
 	__( 'Subheading', 'gutenberg' ),
 
 	// Reference: core-blocks/subhead/index.js:24
-	__( 'What窶冱 a subhead? Smaller than a headline, bigger than basic text.', 'gutenberg' ),
+	__( 'What’s a subhead? Smaller than a headline, bigger than basic text.', 'gutenberg' ),
 
 	// Reference: core-blocks/subhead/index.js:93
-	__( 'Write subheading窶ｦ', 'gutenberg' ),
+	__( 'Write subheading…', 'gutenberg' ),
 
 	// Reference: core-blocks/table/index.js:115
 	__( 'Table Settings', 'gutenberg' ),
@@ -731,7 +731,7 @@ $generated_i18n_strings = array(
 	__( 'poetry', 'gutenberg' ),
 
 	// Reference: core-blocks/verse/index.js:83
-	__( 'Write窶ｦ', 'gutenberg' ),
+	__( 'Write…', 'gutenberg' ),
 
 	// Reference: core-blocks/video/edit.js:106
 	// Reference: core-blocks/video/index.js:23
@@ -771,7 +771,7 @@ $generated_i18n_strings = array(
 	__( 'Settings', 'gutenberg' ),
 
 	// Reference: edit-post/components/header/index.js:64
-	__( 'You窶冤l find more settings for your page and blocks in the sidebar. Click 窶牢ettings窶・to open it.', 'gutenberg' ),
+	__( 'You’ll find more settings for your page and blocks in the sidebar. Click ‘Settings’ to open it.', 'gutenberg' ),
 
 	// Reference: edit-post/components/header/mode-switcher/index.js:21
 	__( 'Visual Editor', 'gutenberg' ),
@@ -1003,11 +1003,11 @@ $generated_i18n_strings = array(
 
 	// Reference: packages/components/src/query-controls/index.js:45
 	/* translators: label for ordering posts by title in ascending order */
-	__( 'A 竊・Z', 'gutenberg' ),
+	__( 'A → Z', 'gutenberg' ),
 
 	// Reference: packages/components/src/query-controls/index.js:50
 	/* translators: label for ordering posts by title in descending order */
-	__( 'Z 竊・A', 'gutenberg' ),
+	__( 'Z → A', 'gutenberg' ),
 
 	// Reference: packages/components/src/query-controls/index.js:69
 	// Reference: packages/editor/build-module/components/post-taxonomies/hierarchical-term-selector.js:192
@@ -1090,14 +1090,14 @@ $generated_i18n_strings = array(
 
 	// Reference: packages/editor/build-module/components/block-mover/mover-description.js:44
 	/* translators: %s: Type of block (i.e. Text, Image etc) */
-	__( 'Block %s is at the end of the content and can窶冲 be moved down', 'gutenberg' ),
+	__( 'Block %s is at the end of the content and can’t be moved down', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/block-mover/mover-description.js:49
 	__( 'Move %(type)s block from position %(position)d up to position %(newPosition)d', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/block-mover/mover-description.js:59
 	/* translators: %s: Type of block (i.e. Text, Image etc) */
-	__( 'Block %s is at the beginning of the content and can窶冲 be moved up', 'gutenberg' ),
+	__( 'Block %s is at the beginning of the content and can’t be moved up', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/block-mover/mover-description.js:79
 	__( 'Blocks cannot be moved up as they are already at the top', 'gutenberg' ),
@@ -1173,7 +1173,7 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Add block', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/default-block-appender/index.js:66
-	__( 'Welcome to the wonderful world of blocks! Click the 窶・窶・(窶廣dd block窶・ button to add a new block. There are blocks available for all kind of content: you can insert text, headings, images, lists, and lots more!', 'gutenberg' ),
+	__( 'Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kind of content: you can insert text, headings, images, lists, and lots more!', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/document-outline/index.js:27
 	__( '(Empty heading)', 'gutenberg' ),
@@ -1230,7 +1230,7 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Drag %s, upload a new one or select a file from your library.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/media-placeholder/index.js:143
-	__( 'Enter URL here窶ｦ', 'gutenberg' ),
+	__( 'Enter URL here…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/media-placeholder/index.js:149
 	__( 'Use URL', 'gutenberg' ),
@@ -1330,16 +1330,16 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Allow Pingbacks & Trackbacks', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-preview-button/index.js:122
-	__( 'Click 窶榔review窶・to load a preview of this page, so you can make sure you窶决e happy with your blocks.', 'gutenberg' ),
+	__( 'Click ‘Preview’ to load a preview of this page, so you can make sure you’re happy with your blocks.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-button/label.js:20
-	__( 'Publishing窶ｦ', 'gutenberg' ),
+	__( 'Publishing…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-button/label.js:22
-	__( 'Updating窶ｦ', 'gutenberg' ),
+	__( 'Updating…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-button/label.js:24
-	__( 'Scheduling窶ｦ', 'gutenberg' ),
+	__( 'Scheduling…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-button/label.js:28
 	__( 'Submit for Review', 'gutenberg' ),
@@ -1372,7 +1372,7 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'The post address will be:', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/postpublish.js:82
-	__( 'What窶冱 next?', 'gutenberg' ),
+	__( 'What’s next?', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/prepublish.js:29
 	__( 'Are you ready to publish?', 'gutenberg' ),
@@ -1384,7 +1384,7 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Double-check your settings, then use the button to publish your post.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/prepublish.js:29
-	__( 'When you窶决e ready, submit your work for review, and an Editor will be able to approve it for you.', 'gutenberg' ),
+	__( 'When you’re ready, submit your work for review, and an Editor will be able to approve it for you.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/prepublish.js:31
 	__( 'Visibility:', 'gutenberg' ),
@@ -1393,13 +1393,13 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Publish:', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/toggle.js:51
-	__( 'Schedule窶ｦ', 'gutenberg' ),
+	__( 'Schedule…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/toggle.js:51
-	__( 'Publish窶ｦ', 'gutenberg' ),
+	__( 'Publish…', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-publish-panel/toggle.js:53
-	__( 'Finished writing? That窶冱 great, let窶冱 get this published right now. Just click 窶榔ublish窶・and you窶决e good to go.', 'gutenberg' ),
+	__( 'Finished writing? That’s great, let’s get this published right now. Just click ‘Publish’ and you’re good to go.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/post-saved-state/index.js:107
 	__( 'Saved', 'gutenberg' ),
@@ -1538,7 +1538,7 @@ It will be permanently removed from all posts and pages that use it.', 'gutenber
 	__( 'Resetting the template may result in loss of content, do you want to continue?', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/template-validation-notice/index.js:31
-	__( 'The content of your post doesn窶冲 match the template assigned to your post type.', 'gutenberg' ),
+	__( 'The content of your post doesn’t match the template assigned to your post type.', 'gutenberg' ),
 
 	// Reference: packages/editor/build-module/components/template-validation-notice/index.js:34
 	__( 'Keep it as is', 'gutenberg' ),

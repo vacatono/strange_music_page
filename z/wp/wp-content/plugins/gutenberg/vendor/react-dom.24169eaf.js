@@ -11007,7 +11007,7 @@ function findNextPendingPriorityLevel(root) {
 //
 // Like fibers, update queues come in pairs: a current queue, which represents
 // the visible state of the screen, and a work-in-progress queue, which is
-// can be mutated and processed asynchronously before it is committed 窶・a form
+// can be mutated and processed asynchronously before it is committed — a form
 // of double buffering. If a work-in-progress render is discarded before
 // finishing, we create a new work-in-progress by cloning the current queue.
 //
@@ -11206,7 +11206,7 @@ function enqueueUpdate(fiber, update, expirationTime) {
     appendUpdateToQueue(queue1, update, expirationTime);
   } else {
     // There are two queues. We need to append the update to both queues,
-    // while accounting for the persistent structure of the list 窶・we don't
+    // while accounting for the persistent structure of the list — we don't
     // want the same update to be added multiple times.
     if (queue1.lastUpdate === null || queue2.lastUpdate === null) {
       // One of the queues is not empty. We must add the update to both queues.
@@ -11739,7 +11739,7 @@ function resumeActualRenderTimerIfPaused() {
 }
 
 /**
- * The "base" render time is the duration of the 窶彙egin窶・phase of work for a particular fiber.
+ * The "base" render time is the duration of the “begin” phase of work for a particular fiber.
  * This time is measured and stored on each fiber.
  * The time for all sibling fibers are accumulated and stored on their parent during the "complete" phase.
  * If a fiber bails out (sCU false) then its "base" timer is cancelled and the fiber is not updated.
@@ -12429,7 +12429,7 @@ function coerceRef(returnFiber, current, element) {
       if (returnFiber.mode & StrictMode) {
         var componentName = getComponentName(returnFiber) || 'Component';
         if (!didWarnAboutStringRefInStrictMode[componentName]) {
-          warning_1(false, 'A string ref, "%s",ﾂhas been found within a strict mode tree. ' + 'String refs are a source of potential bugs and should be avoided. ' + 'We recommend using createRef() instead.' + '\n%s' + '\n\nLearn more about using refs safely here:' + '\nhttps://fb.me/react-strict-mode-string-ref', mixedRef, getStackAddendumByWorkInProgressFiber(returnFiber));
+          warning_1(false, 'A string ref, "%s", has been found within a strict mode tree. ' + 'String refs are a source of potential bugs and should be avoided. ' + 'We recommend using createRef() instead.' + '\n%s' + '\n\nLearn more about using refs safely here:' + '\nhttps://fb.me/react-strict-mode-string-ref', mixedRef, getStackAddendumByWorkInProgressFiber(returnFiber));
           didWarnAboutStringRefInStrictMode[componentName] = true;
         }
       }
@@ -12821,7 +12821,7 @@ function ChildReconciler(shouldTrackSideEffects) {
             knownKeys.add(key);
             break;
           }
-          warning_1(false, 'Encountered two children with the same key, `%s`. ' + 'Keys should be unique so that components maintain their identity ' + 'across updates. Non-unique keys may cause children to be ' + 'duplicated and/or omitted 窶・the behavior is unsupported and ' + 'could change in a future version.%s', key, getCurrentFiberStackAddendum$7());
+          warning_1(false, 'Encountered two children with the same key, `%s`. ' + 'Keys should be unique so that components maintain their identity ' + 'across updates. Non-unique keys may cause children to be ' + 'duplicated and/or omitted — the behavior is unsupported and ' + 'could change in a future version.%s', key, getCurrentFiberStackAddendum$7());
           break;
         default:
           break;

@@ -6,6 +6,6 @@ $pdf->AddMBFont(BIG5,'BIG5');
 $pdf->Open();
 $pdf->AddPage();
 $pdf->SetFont(BIG5,'',20);
-$pdf->Write(10,'ï½²{ï½®ï¾‰ï½®î¶ï¾… 18 C ï¾€ç½©ï¾— 83 %');
+$pdf->Write(10,'²{®É®ð·Å 18 C Àã«× 83 %');
 $pdf->Output();
 ?>

@@ -24,7 +24,7 @@
 							<?php if( $this->get_current_protection() === true ) { ?>
 							<p class="valid"><span class="dashicons dashicons-lock"></span> <?php _e('Uploads directory is protected.', $this->plugin_name); ?></p>
 							<?php if( get_option( $this->plugin_name . '-protection') == 'remove' ) { ?>
-							<p class="valid note"><?php _e('Your uploads directory is <strong>already protected</strong> by an htaccess file or an Apache setting set for the whole website. You don\'t need extra protection.<br>The ﾂｫremove optionﾂｻ behind will have no effect on the current protection.', $this->plugin_name); ?></p>
+							<p class="valid note"><?php _e('Your uploads directory is <strong>already protected</strong> by an htaccess file or an Apache setting set for the whole website. You don\'t need extra protection.<br>The «remove option» behind will have no effect on the current protection.', $this->plugin_name); ?></p>
 							<?php } ?>
 							<?php } else { ?>
 							<p class="error"><span class="dashicons dashicons-shield"></span> <?php _e('Uploads directory is not protected!', $this->plugin_name); ?></p>

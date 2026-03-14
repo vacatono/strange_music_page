@@ -94,7 +94,7 @@ Moreover don't worry if your cache never is down to 0 files/ 0KB, as Autoptimize
 
 Cloudflare Rocket Loader is a pretty advanced but invasive way to make JavaScript non-render-blocking, which [Cloudflare still considers Beta](https://wordpress.org/support/topic/rocket-loader-breaking-onload-js-on-linked-css/#post-9263738). Sometimes Autoptimize & Rocket Loader work together, sometimes they don't. The best approach is to disable Rocket Loader, configure Autoptimize and re-enable Rocket Loader (if you think it can help) after that and test if everything still works.
 
-At the moment (June 2017) it seems RocketLoader might break AO's "inline & defer CSS", which is based on [Filamentgroup窶冱 loadCSS](https://github.com/filamentgroup/loadCSS), resulting in the deferred CSS not loading.
+At the moment (June 2017) it seems RocketLoader might break AO's "inline & defer CSS", which is based on [Filamentgroup’s loadCSS](https://github.com/filamentgroup/loadCSS), resulting in the deferred CSS not loading.
 
 = I tried Autoptimize but my Google Pagespeed Scored barely improved =
 
@@ -211,7 +211,7 @@ define('AUTOPTIMIZE_CACHEFILE_PREFIX','aggregated_');
 
 = Can the generated JS/ CSS be pre-gzipped? =
 
-Yes, but this is off by default. You can enable this by passing ﾂｴtrueﾂｴ to ﾂｴautoptimize_filter_cache_create_static_gzipﾂｴ. You'll obviously still have to configure your webserver to use these files instead of the non-gzipped ones to avoid the overhead of on-the-fly compression.
+Yes, but this is off by default. You can enable this by passing ´true´ to ´autoptimize_filter_cache_create_static_gzip´. You'll obviously still have to configure your webserver to use these files instead of the non-gzipped ones to avoid the overhead of on-the-fly compression.
 
 = What does "remove emoji's" do? =
 
@@ -251,7 +251,7 @@ Just [fork Autoptimize on Github](https://github.com/futtta/autoptimize) and cod
 
 = 2.3.4 =
 * bugfix: is_plugin_active causing errors in some cases as [reported by @iluminancia and @lozula](https://wordpress.org/support/topic/fatal-error-after-update-to-2-3-3/)
-* bugfix: added language domain to 4 __/_e functions, un grand merci ﾃ Guillaume Blet!
+* bugfix: added language domain to 4 __/_e functions, un grand merci à Guillaume Blet!
 
 = 2.3.3 =
 * improvement: updated to latest version of Filamentgroup's loadCSS
@@ -270,10 +270,10 @@ Just [fork Autoptimize on Github](https://github.com/futtta/autoptimize) and cod
 * fix for issue with update-code in some circumstances, thanks to [Rajendra Zore](https://rajendrazore.com/) to report & help fix!
 
 = 2.3.0 =
-* new: optimize Google fonts with 窶彡ombine & link窶・and 窶彡ombine and load async窶・(with webload.js), intelligently preconnecting to Google窶冱 domains to limit performance impact even further
+* new: optimize Google fonts with “combine & link” and “combine and load async” (with webload.js), intelligently preconnecting to Google’s domains to limit performance impact even further
 * new: Async JS, can be applied to local or 3rd party JS (if local it will be auto-excluded from autoptimization)
 * new: support to tell browsers to preconnect (= dns lookup + tcp/ip connection + ssl negotiation) to 3rd party domains (depends on browser support, works in Chrome & Firefox)
-* new: remove WordPress窶・Core窶冱 emoji CSS & JS
+* new: remove WordPress’ Core’s emoji CSS & JS
 * new: remove (version parameter from) Querystring
 * new: support to clear cache through WP CLI thanks to [junaidbhura](https://junaidbhura.com)
 * lots of [bugfixes and small improvements done by some seriously smart people via GitHub](https://github.com/futtta/autoptimize/commits/master) (thanks all!!), including [a fix for AO 2.2 which saw the HTML minifier go PacMan on spaces](https://github.com/futtta/autoptimize/commit/0f6ac683c35bc82d1ac2d496ae3b66bb53e49f88) in some circumstances.
@@ -284,7 +284,7 @@ Just [fork Autoptimize on Github](https://github.com/futtta/autoptimize) and cod
 * readme update
 
 = 2.2.1 =
-* fix for images being referenced in CSS not all being translated to correct path, leading to 404窶冱 as reported by Jeff Inho
+* fix for images being referenced in CSS not all being translated to correct path, leading to 404’s as reported by Jeff Inho
 * fix for "[] operator not supported for strings" error in PHP7.1 as reported by falk-wussow.de
 * fix for security hash busting AO's cache in some cases (esp. in 2.1.1)
 
@@ -292,7 +292,7 @@ Just [fork Autoptimize on Github](https://github.com/futtta/autoptimize) and cod
 * new: Autoptimize minifies first (caching the individual snippets) and aggregrates the minified snippets, resulting in huge performance improvements for uncached JS/ CSS.
 * new: option to enable/ disable AO for logged in users (on by default)
 * new: option to enable/ disable AO on WooCommerce, Easy Digital Downloads or WP eCommerce cart/ checkout page (on by default)
-* improvement: switched to [rel=preload + Filamentgroup窶冱 loadCSS for CSS deferring](http://blog.futtta.be/2017/02/24/autoptimize-css-defer-switching-to-loadcss-soon/)
+* improvement: switched to [rel=preload + Filamentgroup’s loadCSS for CSS deferring](http://blog.futtta.be/2017/02/24/autoptimize-css-defer-switching-to-loadcss-soon/)
 * improvement: switched to YUI CSS minifier PHP-port 2.8.4-p10 (so not to the 3.x branch yet)
 * improvements to the logic of which JS/ CSS can be optimized (getPath function) increasing reliability of the aggregation process
 * security: made placeholder replacement less naive to protect against XSS and LFI vulnerability as reported by Matthew Barry and fixed with great help from Matthew and Tomas Trkulja. Thanks guys!!
@@ -309,7 +309,7 @@ Just [fork Autoptimize on Github](https://github.com/futtta/autoptimize) and cod
 
 = 2.1.0 =
 * new: Autoptimize now appears in admin-toolbar with an easy view on cache size and the possibility to purge the cache (pass `false` to `autoptimize_filter_toolbar_show` filter to disable), a big thanks to [Pablo Custo](https://github.com/pablocusto) for his hard work on this nice feature!
-* new: An extra "More Optimization"-tab is shown (can be hidden with ﾂｴautoptimize_filter_show_partner_tabsﾂｴ-filter) with information about related optimization tools- and services.
+* new: An extra "More Optimization"-tab is shown (can be hidden with ´autoptimize_filter_show_partner_tabs´-filter) with information about related optimization tools- and services.
 * new: If cache size becomes too big, a mail will be sent to the site admin (pass `false` to `autoptimize_filter_cachecheck_sendmail` filter to disable or pass alternative email to the `autoptimize_filter_cachecheck_mailto` filter to change email-address)
 * new: power-users can enable Autoptimize to pre-gzip the autoptimized files by passing `true` to `autoptimize_filter_cache_create_static_gzip`, kudo's to (Draikin)[https://github.com/Draikin] for this!
 * improvement: admin GUI updated (again; thanks Pablo!) with some responsiveness added in the mix (not showing the right hand column on smaller screen-sizes)

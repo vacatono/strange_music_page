@@ -767,7 +767,7 @@ final class WP_Customize_Manager {
 	public function branching() {
 
 		/**
-		 * Filters whether or not changeset branching isﾂallowed.
+		 * Filters whether or not changeset branching is allowed.
 		 *
 		 * By default in core, when changeset branching is not allowed, changesets will operate
 		 * linearly in that only one saved changeset will exist at a time (with a 'draft' or

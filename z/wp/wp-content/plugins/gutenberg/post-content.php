@@ -3,7 +3,7 @@
 <!-- /wp:cover-image -->
 
 <!-- wp:paragraph -->
-<p><?php _e( 'The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>窶敗omewhat similar to LEGO bricks窶杯hat you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.', 'gutenberg' ); ?></p>
+<p><?php _e( 'The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting.', 'gutenberg' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -41,7 +41,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php _e( 'Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter窶杯he <code>(+)</code> button you&#8217;ll see around the editor窶背hich allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.', 'gutenberg' ); ?></p>
+<p><?php _e( 'Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing.', 'gutenberg' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -73,7 +73,7 @@
 
 <!-- wp:quote {"style":1} -->
 <blockquote class="wp-block-quote">
-	<p><?php _e( 'The editor will endeavour to create a new page and post building experience that makes writing rich posts effortless, and has 窶彙locks窶・to make it easy what today might take shortcodes, custom HTML, or 窶徇ystery meat窶・embed discovery.', 'gutenberg' ); ?></p>
+	<p><?php _e( 'The editor will endeavour to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.', 'gutenberg' ); ?></p>
 	<cite><?php _e( 'Matt Mullenweg, 2017', 'gutenberg' ); ?></cite>
 </blockquote>
 <!-- /wp:quote -->
@@ -168,5 +168,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p style="text-align:center"><img draggable="false" class="emoji" alt="窓" src="https://s.w.org/images/core/emoji/2.3/svg/1f44b.svg" /></p>
+<p style="text-align:center"><img draggable="false" class="emoji" alt="👋" src="https://s.w.org/images/core/emoji/2.3/svg/1f44b.svg" /></p>
 <!-- /wp:paragraph -->

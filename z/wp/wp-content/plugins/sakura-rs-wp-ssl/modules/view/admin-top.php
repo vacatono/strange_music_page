@@ -97,7 +97,7 @@ class Sakura_Admin extends Sakura_Components {
 	 */
 	private function _get_header() {
 		$html  = '';
-		$html .= '<h2>' . __( '縺輔￥繧峨・繝ｬ繝ｳ繧ｿ繝ｫ繧ｵ繝ｼ繝舌邁｡蜊牢SL蛹悶・繝ｩ繧ｰ繧､繝ｳ' , 'sakura-ssl' ) . '</h2>';
+		$html .= '<h2>' . __( 'さくらのレンタルサーバ　簡単SSL化プラグイン' , 'sakura-ssl' ) . '</h2>';
 		return $html;
 	}
 }

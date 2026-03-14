@@ -2886,7 +2886,7 @@ function wp_site_icon() {
  * in the background, to perform DNS lookups or to begin the connection
  * handshake (DNS, TCP, TLS) in the background.
  *
- * These performance improving indicators work by using `<link rel"窶ｦ">`.
+ * These performance improving indicators work by using `<link rel"…">`.
  *
  * @since 4.6.0
  */

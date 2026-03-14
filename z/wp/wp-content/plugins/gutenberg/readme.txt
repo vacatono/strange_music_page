@@ -16,7 +16,7 @@ Gutenberg is more than an editor. While the editor is the focus right now, the p
 
 = Editing focus =
 
-> The editor will create a new page- and post-building experience that makes writing rich posts effortless, and has 窶彙locks窶・to make it easy what today might take shortcodes, custom HTML, or 窶徇ystery meat窶・embed discovery. 窶・Matt Mullenweg
+> The editor will create a new page- and post-building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery. — Matt Mullenweg
 
 One thing that sets WordPress apart from other systems is that it allows you to create as rich a post layout as you can imagine -- but only if you know HTML and CSS and build your own custom theme. By thinking of the editor as a tool to let you write rich posts and create beautiful layouts, we can transform WordPress into something users _love_ WordPress, as opposed something they pick it because it's what everyone else uses.
 
@@ -34,13 +34,13 @@ Here's why we're looking at the whole editing screen, as opposed to just the con
 
 Blocks are the unifying evolution of what is now covered, in different ways, by shortcodes, embeds, widgets, post formats, custom post types, theme options, meta-boxes, and other formatting elements. They embrace the breadth of functionality WordPress is capable of, with the clarity of a consistent user experience.
 
-Imagine a custom 窶彳mployee窶・block that a client can drag to an About page to automatically display a picture, name, and bio. A whole universe of plugins that all extend WordPress in the same way. Simplified menus and widgets. Users who can instantly understand and use WordPress  -- and 90% of plugins. This will allow you to easily compose beautiful posts like <a href="http://moc.co/sandbox/example-post/">this example</a>.
+Imagine a custom “employee” block that a client can drag to an About page to automatically display a picture, name, and bio. A whole universe of plugins that all extend WordPress in the same way. Simplified menus and widgets. Users who can instantly understand and use WordPress  -- and 90% of plugins. This will allow you to easily compose beautiful posts like <a href="http://moc.co/sandbox/example-post/">this example</a>.
 
 Check out the <a href="https://wordpress.org/gutenberg/handbook/reference/faq/">FAQ</a> for answers to the most common questions about the project.
 
 = Compatibility =
 
-Posts are backwards compatible, and shortcodes will still work. We are continuously exploring how highly-tailored metaboxes can be accommodated, and are looking at solutions ranging from a plugin to disable Gutenberg to automatically detecting whether to load Gutenberg or not. While we want to make sure the new editing experience from writing to publishing is user-friendly, we窶决e committed to finding  a good solution for highly-tailored existing sites.
+Posts are backwards compatible, and shortcodes will still work. We are continuously exploring how highly-tailored metaboxes can be accommodated, and are looking at solutions ranging from a plugin to disable Gutenberg to automatically detecting whether to load Gutenberg or not. While we want to make sure the new editing experience from writing to publishing is user-friendly, we’re committed to finding  a good solution for highly-tailored existing sites.
 
 = The stages of Gutenberg =
 
@@ -62,7 +62,7 @@ We'd love to hear your bug reports, feature suggestions and any other feedback! 
 
 = How can I contribute? =
 
-We窶决e calling this editor project "Gutenberg" because it's a big undertaking. We are working on it every day in GitHub, and we'd love your help building it.You窶决e also welcome to give feedback, the easiest is to join us in <a href="https://make.wordpress.org/chat/">our Slack channel</a>, `#core-editor`.
+We’re calling this editor project "Gutenberg" because it's a big undertaking. We are working on it every day in GitHub, and we'd love your help building it.You’re also welcome to give feedback, the easiest is to join us in <a href="https://make.wordpress.org/chat/">our Slack channel</a>, `#core-editor`.
 
 See also <a href="https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>.
 
@@ -101,20 +101,20 @@ See also <a href="https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTIN
 * Constrain media blocks to content area width in front-end.
 * Reapply box-sizing to slider thumbs.
 * Avoid showing line separator in block settings menu when it's the last item.
-* Introduce additional keyboard shortcuts to navigate through the navigateRegionsﾂcomponent.
-* shift+alt+nﾂto go to the next region.
-* shift+alt+pﾂto go to the previous region.
+* Introduce additional keyboard shortcuts to navigate through the navigateRegions component.
+* shift+alt+n to go to the next region.
+* shift+alt+p to go to the previous region.
 * Replace all withAPIData usage and deprecate the higher-order component.
 * Add persistence via data plugin interface.
 * Introduce new redux-routine package for synchronous generator in data module.
 * Move embed API call out of block and into data module.
 * Remove no longer needed workaround targeted at resolving a TinyMCE error.
-* Abort selection range set on unset range target.ﾂResolves an issue when merging two empty paragraph blocks created while at the end of an inline boundary.
+* Abort selection range set on unset range target. Resolves an issue when merging two empty paragraph blocks created while at the end of an inline boundary.
 * Removing or merging RichText should only trigger if the selection is collapsed:
 * Fix issue with backspace not working as expected when deleting text content from the first block.
 * Fix case where paragraph content could move to previous paragraph when deleted.
 * Remove provisional block behaviour to improve reliability of various interactions.
-* Restore horizontal edge traversal implementation to address issue whereﾂpressing Backspace may not place the caret in the correct position if within or after a RichText field.
+* Restore horizontal edge traversal implementation to address issue where pressing Backspace may not place the caret in the correct position if within or after a RichText field.
 * Ensure Gutenberg is disabled when editing the assigned blog posts page.
 * Initialize the Autosaves controller even if revisions are disabled. Fixes several bugs around saving with revisions turned off.
 * Display warning when Cloudflare blocks REST API requests.
@@ -139,7 +139,7 @@ See also <a href="https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTIN
 * Resolve an issue where removing all text from a Button block by backspace would cause subsequent text changes to not be accurately reflected. Broader issue with TinyMCE inline elements as containers.
 * Avoid using remove() because it's unavailable in IE11.
 * Address further feedback on duplicated DotTips implementation.
-* Update re-resizable to version 4.7.1 窶・fix image & spacer blocks resizing on IE.
+* Update re-resizable to version 4.7.1 — fix image & spacer blocks resizing on IE.
 * Use a unique querystring package instead of three different ones.
 * Introduce filters to allow developers the ability to customize the Taxonomy Selector UI for custom taxonomies.
 * Introduce RichText component for mobile native and implement the Paragraph Block with it.

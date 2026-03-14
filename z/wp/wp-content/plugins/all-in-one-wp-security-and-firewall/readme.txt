@@ -510,8 +510,8 @@ was not working on some servers due to timestamp difference between PHP current_
 
 = 3.8.6 =
 - DB cleanup cron event bug fixed.
-- Added Swedish language translation. The translation was submitted by Tor-Bjﾃｶrn Fjellner.
-- Updated the Russian language translation file. Update submitted by Tor-Bjﾃｶrn Fjellner.
+- Added Swedish language translation. The translation was submitted by Tor-Björn Fjellner.
+- Updated the Russian language translation file. Update submitted by Tor-Björn Fjellner.
 - The events table will automatically be cleaned up so it only keeps the last 5000 entries. You can override it using a filter (if you wanted to).
 
 = 3.8.5 =

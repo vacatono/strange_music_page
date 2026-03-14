@@ -25,22 +25,22 @@ var Thead = _react2['default'].createClass({
 				_react2['default'].createElement(
 					'th',
 					null,
-					'縲驕ｩ逕ｨ邂・園'
+					'　適用箇所'
 				),
 				_react2['default'].createElement(
 					'th',
 					null,
-					'縲譖ｸ菴灘・鬘・
+					'　書体分類'
 				),
 				_react2['default'].createElement(
 					'th',
 					null,
-					'縲繝輔か繝ｳ繝医ヵ繧｡繝溘Μ繝ｼ蜷・
+					'　フォントファミリー名'
 				),
 				_react2['default'].createElement(
 					'th',
 					null,
-					'縲繝輔か繝ｳ繝亥錐'
+					'　フォント名'
 				)
 			)
 		);
@@ -79,7 +79,7 @@ var SelectFont = _react2['default'].createClass({
 				optionNodes.push(_react2['default'].createElement(
 					'option',
 					{ key: i, value: 'false' },
-					'譖ｸ菴灘・鬘槭・繝輔か繝ｳ繝医ヵ繧｡繝溘Μ繝ｼ蜷阪ｒ驕ｸ謚槭＠縺ｦ縺上□縺輔＞'
+					'書体分類・フォントファミリー名を選択してください'
 				));
 				var options = {
 					selected: selectedValue,
@@ -116,14 +116,14 @@ var SelectFont = _react2['default'].createClass({
 				optionNodes.push(_react2['default'].createElement(
 					'option',
 					{ key: i, value: 'false' },
-					'譖ｸ菴灘・鬘槭・繝輔か繝ｳ繝医ヵ繧｡繝溘Μ繝ｼ蜷阪ｒ驕ｸ謚槭＠縺ｦ縺上□縺輔＞'
+					'書体分類・フォントファミリー名を選択してください'
 				));
 			} else {
 				var font = this.props.data[key1][key2];
 				optionNodes.push(_react2['default'].createElement(
 					'option',
 					{ key: i, value: 'false' },
-					'險ｭ螳壹＠縺ｪ縺・
+					'設定しない'
 				));
 				Object.keys(font).forEach(function (key) {
 					i++;
@@ -187,7 +187,7 @@ var SelectFamily = _react2['default'].createClass({
 			optionNodes.push(_react2['default'].createElement(
 				'option',
 				{ key: i, value: 'false' },
-				'險ｭ螳壹↑縺・
+				'設定なし'
 			));
 			var options = {
 				selected: selectedValue,
@@ -221,13 +221,13 @@ var SelectFamily = _react2['default'].createClass({
 				optionNodes.push(_react2['default'].createElement(
 					'option',
 					{ key: i, value: 'false' },
-					'險ｭ螳壹↑縺・
+					'設定なし'
 				));
 			} else {
 				optionNodes.push(_react2['default'].createElement(
 					'option',
 					{ key: i, value: 'false' },
-					'繝輔か繝ｳ繝医ヵ繧｡繝溘Μ繝ｼ蜷阪ｒ驕ｸ謚槭＠縺ｦ縺上□縺輔＞'
+					'フォントファミリー名を選択してください'
 				));
 				if (!family[selectedValue]) {
 					var selectedValue = 'false';
@@ -303,7 +303,7 @@ var SelectType = _react2['default'].createClass({
 		optionNodes.push(_react2['default'].createElement(
 			'option',
 			{ key: i, value: 'false' },
-			'險ｭ螳壹↑縺・
+			'設定なし'
 		));
 		Object.keys(this.props.data).forEach(function (key) {
 			i++;
@@ -349,7 +349,7 @@ var Row = _react2['default'].createClass({
 			_react2['default'].createElement(
 				'th',
 				null,
-				'縲',
+				'　',
 				this.props.title
 			),
 			_react2['default'].createElement(
@@ -388,7 +388,7 @@ var Row = _react2['default'].createClass({
 			_react2['default'].createElement(
 				'th',
 				null,
-				'縲',
+				'　',
 				this.props.title
 			),
 			_react2['default'].createElement(
@@ -400,7 +400,7 @@ var Row = _react2['default'].createClass({
 					_react2['default'].createElement(
 						'label',
 						null,
-						'譖ｸ菴灘・鬘橸ｼ・
+						'書体分類：'
 					),
 					_react2['default'].createElement(SelectType, {
 						onChangeType: this.changeType,
@@ -413,7 +413,7 @@ var Row = _react2['default'].createClass({
 					_react2['default'].createElement(
 						'label',
 						null,
-						'繝輔か繝ｳ繝医ヵ繧｡繝溘Μ繝ｼ蜷搾ｼ・
+						'フォントファミリー名：'
 					),
 					_react2['default'].createElement(SelectFamily, {
 						onChangeFamily: this.changeFamily,
@@ -427,7 +427,7 @@ var Row = _react2['default'].createClass({
 					_react2['default'].createElement(
 						'label',
 						null,
-						'繝輔か繝ｳ繝亥錐・・
+						'フォント名：'
 					),
 					_react2['default'].createElement(SelectFont, {
 						data: this.props.data,
@@ -489,10 +489,10 @@ var Tbody = _react2['default'].createClass({
 		return _react2['default'].createElement(
 			'tbody',
 			null,
-			_react2['default'].createElement(Row, { title: '繧ｿ繧､繝医Ν', type: 'title', data: this.state.data, pageType: this.props.pageType }),
-			_react2['default'].createElement(Row, { title: '繝ｪ繝ｼ繝・, type: 'lead', data: this.state.data, pageType: this.props.pageType }),
-			_react2['default'].createElement(Row, { title: '譛ｬ譁・, type: 'text', data: this.state.data, pageType: this.props.pageType }),
-			_react2['default'].createElement(Row, { title: '螟ｪ蟄・, type: 'bold', data: this.state.data, pageType: this.props.pageType })
+			_react2['default'].createElement(Row, { title: 'タイトル', type: 'title', data: this.state.data, pageType: this.props.pageType }),
+			_react2['default'].createElement(Row, { title: 'リード', type: 'lead', data: this.state.data, pageType: this.props.pageType }),
+			_react2['default'].createElement(Row, { title: '本文', type: 'text', data: this.state.data, pageType: this.props.pageType }),
+			_react2['default'].createElement(Row, { title: '太字', type: 'bold', data: this.state.data, pageType: this.props.pageType })
 		);
 	}
 });
@@ -530,12 +530,13 @@ var _jquery2 = _interopRequireDefault(_jquery);
 
 (0, _jquery2['default'])(function ($) {
 
-  // 繝輔か繝ｳ繝医ユ繝ｼ繝櫁ｨｭ螳・  $('#fontThemeSelect').change(function () {
+  // フォントテーマ設定
+  $('#fontThemeSelect').change(function () {
     var selectTheme = $(this).val();
-    // 蛻晄悄髱櫁｡ｨ遉ｺ
+    // 初期非表示
     $('#customeFontThemeForm').hide();
     $('#fontThemeDeleteButton').hide();
-    // 譁ｰ縺励￥繝・・繝槭ｒ菴懈・縺吶ｋ縲り｡ｨ遉ｺ
+    // 新しくテーマを作成する。表示
     if (selectTheme === 'new') {
       $('input[name=ts_edit_mode]').val('new');
       $('#ts_custome_theme_id').val(unique_id);
@@ -545,7 +546,7 @@ var _jquery2 = _interopRequireDefault(_jquery);
         value: "change"
       }).appendTo("#custmeFontForm");
       $('#custmeFontForm').submit();
-      // 繧ｫ繧ｹ繧ｿ繝繝・・繝樣∈謚槭り｡ｨ遉ｺ
+      // カスタムテーマ選択。表示
     } else if (selectTheme !== 'false') {
         $('#custome_font_name').removeAttr('required');
         $('input[name=ts_edit_mode]').val('update');
@@ -571,17 +572,19 @@ var _jquery2 = _interopRequireDefault(_jquery);
       }
   });
 
-  // 繝輔か繝ｳ繝医ユ繝ｼ繝樊峩譁ｰ繝懊ち繝ｳ謚ｼ荳句・逅・  $('#fontThemeUpdateButton').click(function () {
-    var nameDuplicateMessage = "蜷御ｸ蜷阪・繧ｫ繧ｹ繧ｿ繝繝輔か繝ｳ繝医ユ繝ｼ繝槭・菴懈・縺ｧ縺阪∪縺帙ｓ";
-    var countOverMessage = "繧ｫ繧ｹ繧ｿ繝繝輔か繝ｳ繝医ユ繝ｼ繝槭・10蛟九ｒ雜・∴縺ｦ菴懈・縺ｧ縺阪∪縺帙ｓ";
+  // フォントテーマ更新ボタン押下処理
+  $('#fontThemeUpdateButton').click(function () {
+    var nameDuplicateMessage = "同一名のカスタムフォントテーマは作成できません";
+    var countOverMessage = "カスタムフォントテーマは10個を超えて作成できません";
 
     var warningFlg = 0;
 
-    // 繧ｫ繧ｹ繧ｿ繝繝・・繝樔ｻ･螟悶・驕ｸ謚・    if ($('#customeFontThemeForm').is(':hidden')) {
+    // カスタムテーマ以外の選択
+    if ($('#customeFontThemeForm').is(':hidden')) {
       return true;
     }
 
-    // 蜷御ｸ蜷阪メ繧ｧ繝・け
+    // 同一名チェック
     var all_font_theme = all_font_list;
     var custome_font_name = $('#custome_font_name').val();
     if (custome_font_name !== $('#current_custome_font_name').val()) {
@@ -592,21 +595,23 @@ var _jquery2 = _interopRequireDefault(_jquery);
         }
       });
     }
-    // 蛟区焚繝√ぉ繝・け
+    // 個数チェック
     var custome_fonts = option_font_list.theme;
     var custome_font_count = Object.keys(custome_fonts).length;
     if (custome_font_count >= 10 && !$('#current_custome_font_name').val()) {
       warningFlg = 2;
     }
 
-    // 繧ｨ繝ｩ繝ｼ蛻・ｊ蛻・￠
+    // エラー切り分け
     switch (warningFlg) {
       case 1:
-        // 蜷御ｸ蜷崎ｭｦ蜻・        alert(nameDuplicateMessage);
+        // 同一名警告
+        alert(nameDuplicateMessage);
         return false;
         break;
       case 2:
-        // ・托ｼ大倶ｻ･荳願ｭｦ蜻・        alert(countOverMessage);
+        // １１個以上警告
+        alert(countOverMessage);
         return false;
         break;
       default:
@@ -616,8 +621,9 @@ var _jquery2 = _interopRequireDefault(_jquery);
     }
   });
 
-  // 繝輔か繝ｳ繝医ユ繝ｼ繝槫炎髯､繝懊ち繝ｳ謚ｼ荳句・逅・  $('#fontThemeDeleteButton').click(function () {
-    var dialogMessage = $('#current_custome_font_name').val() + '繧貞炎髯､縺励∪縺吶ゅｈ繧阪＠縺・〒縺吶°・・;
+  // フォントテーマ削除ボタン押下処理
+  $('#fontThemeDeleteButton').click(function () {
+    var dialogMessage = $('#current_custome_font_name').val() + 'を削除します。よろしいですか？';
     var fontDeleteConfirmDialog = window.confirm(dialogMessage);
 
     if (fontDeleteConfirmDialog) {
@@ -628,14 +634,16 @@ var _jquery2 = _interopRequireDefault(_jquery);
     }
   });
 
-  // localStorage縺ｮactiveAdvanced繧貞叙蠕・  var activeAdvanced = localStorage.getItem('activeAdvanced');
+  // localStorageのactiveAdvancedを取得
+  var activeAdvanced = localStorage.getItem('activeAdvanced');
   if (activeAdvanced === 'true') {
     $('.ts-custome_form').css('display', 'block');
     $('.ts-custome_form').addClass('ts-active');
     $('.advancedTriangle').addClass('open');
   }
 
-  // 縲御ｸ顔ｴ夊・髄縺代・繧ｫ繧ｹ繧ｿ繝槭う繧ｺ縲阪け繝ｪ繝・け譎ゅう繝吶Φ繝・  $(".toggleAdvanced").on('click', function () {
+  // 「上級者向けのカスタマイズ」クリック時イベント
+  $(".toggleAdvanced").on('click', function () {
     $('.ts-custome_form').slideToggle('normal', function () {
       if ($('.ts-custome_form').hasClass('ts-active')) {
         $('.ts-custome_form').removeClass('ts-active');

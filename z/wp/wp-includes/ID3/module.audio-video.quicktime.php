@@ -47,7 +47,7 @@ class getid3_quicktime extends getid3_handler
 			$atomsize = getid3_lib::BigEndian2Int(substr($AtomHeader, 0, 4));
 			$atomname = substr($AtomHeader, 4, 4);
 
-			// 64-bit MOV patch by jlegateﾃ鰐tnc*com
+			// 64-bit MOV patch by jlegateØktnc*com
 			if ($atomsize == 1) {
 				$atomsize = getid3_lib::BigEndian2Int($this->fread(8));
 			}
@@ -586,7 +586,7 @@ class getid3_quicktime extends getid3_handler
 
 
 			case 'cmvd': // Compressed MooV Data atom
-				// Code by ubergeekﾃ・bergeek*tv based on information from
+				// Code by ubergeekØubergeek*tv based on information from
 				// http://developer.apple.com/quicktime/icefloe/dispatch012.html
 				$atom_structure['unCompressedSize'] = getid3_lib::BigEndian2Int(substr($atom_data, 0, 4));
 
@@ -1506,7 +1506,7 @@ if (!empty($atom_structure['sample_description_table'][$i]['width']) && !empty($
 						$info['quicktime']['comments']['gps_altitude'][] = floatval($altitude);
 					}
 				} else {
-					$this->warning('QuickTime atom "ﾂｩxyz" data does not match expected data pattern at offset '.$baseoffset.'. Please report as getID3() bug.');
+					$this->warning('QuickTime atom "©xyz" data does not match expected data pattern at offset '.$baseoffset.'. Please report as getID3() bug.');
 				}
 				break;
 
