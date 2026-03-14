@@ -5,7 +5,7 @@ venue: '吉祥寺Silver Elephant'
 source: 'wordpress'
 artists:
   - '那由他計画'
-  - '塚田円'
+  - 'Providence'
   - '月本美香'
   - '世良純子'
   - '多良洋祐'
@@ -28,7 +28,27 @@ artists:
 - 多良洋祐 (bass)
 - 和田俊寿 (guitar)
 - 野口雅彦 (drums)
-- 菅原貴子 (vocals/ゲスト)
-- 稲益宏美 (vocals/ゲスト)
+
+### Providence Tribute Project
+
+1. 遠見占者降臨奇譚
+2. HCHO40
+3. 籠絡の終章
+4. 伝説を語りて
+5. ガラテア
+
+- 塚田円 (keyboards)
+- 多良洋祐 (bass)
+- 和田俊寿 (guitar)
+- 月本美香 (vocals)
+- 世良純子 (vocals)
+- 野口雅彦 (drums)
+- 菅原貴子 (vocals/ゲスト on 1-3.)
+- 大竹ミキ (drums/ゲスト on 1-3.)
 - 今卓也 (violin/ゲスト)
-- 大竹ミキ (drums/ゲスト)
+
+### アンコール
+
+1. ハリガネムシ
+
+- 稲益宏美 (vocals/ゲスト)
