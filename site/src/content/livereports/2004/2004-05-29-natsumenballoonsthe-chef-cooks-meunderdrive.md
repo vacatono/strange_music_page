@@ -1,15 +1,12 @@
 ---
-title: "NATSUMEN,BALLOONS,the chef cooks me,underdrive @ 下北沢ERA"
+title: 'NATSUMEN,BALLOONS,the chef cooks me,underdrive @ 下北沢ERA'
 date: 2004-05-29
-venue: "下北沢ERA"
-source: "html"
+venue: '下北沢ERA'
+source: 'html'
 artists:
-  - "A.S.E"
-  - "アイン"
-  - "マシタ"
-  - "?"
-  - "?"
-  - "?"
+  - 'AxSxE'
+  - 'アイン'
+  - 'マシタ'
 ---
 
 ## underdrive
@@ -32,10 +29,9 @@ artists:
 
 ## メンバー
 
-- A.S.E (guitars)
+- AxSxE (guitars)
 - アイン (guitars)
 - マシタ (drums)
 - ? (bass)
 - ? (bass)
 - ? (electric piano)
-

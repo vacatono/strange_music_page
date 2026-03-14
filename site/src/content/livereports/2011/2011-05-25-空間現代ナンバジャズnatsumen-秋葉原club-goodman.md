@@ -8,8 +8,13 @@ artists:
   - '山本精一'
   - '山本達久'
   - '芳垣安洋'
-  - 'A.S.E'
+  - 'AxSxE'
   - '野村卓史'
+  - 'アイン'
+  - '山本昌史'
+  - '稲田貴貞'
+  - '加藤雄一郎'
+  - 'カッキー'
 ---
 
 #### 空間現代
@@ -47,7 +52,7 @@ artists:
 6. Natsu no Mujina
 7. Newsummerboy
 
-- A.S.E (guitars)
+- AxSxE (guitars)
 - アイン (guitars)
 - 山本昌史 (bass)
 - 山本達久 (drums)

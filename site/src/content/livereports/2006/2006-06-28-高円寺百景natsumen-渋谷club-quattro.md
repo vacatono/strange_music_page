@@ -9,6 +9,16 @@ artists:
   - '太田惠資'
   - '小森慶子'
   - '金澤美也子'
+  - '坂元健吾'
+  - '久保田安紀'
+  - 'アイン'
+  - 'AxSxE'
+  - 'マシタ'
+  - '山本昌史'
+  - '蔦谷好位置'
+  - '加藤雄一郎'
+  - '稲田貴貞'
+  - '柿沢健司'
 ---
 
 #### 高円寺百景
@@ -24,15 +34,10 @@ artists:
 とにかく期待を裏切らずとても良かったです。
 
 - 吉田達也 (drums,voice)
-
 - 坂元健吾 (bass,voice)
-
 - 金澤美也子 (keyboards,voice)
-
 - 小森慶子 (sax)
-
 - 久保田安紀 (voice)
-
 - 太田恵資 (violin)
 
 ( [http://www5e.biglobe.ne.jp/~ruins/](http://www5e.biglobe.ne.jp/~ruins/) )
@@ -48,19 +53,12 @@ NATSUMENを見るのもちょっと久々。
 演奏はしばらく見ない間になんだか随分安定したよーな。前はもっとグシャグシャした所が有ったように思うのだけど。
 
 - アイン (guitars)
-
-- A.S.E (guitars)
-
+- AxSxE (guitars)
 - マシタ (drums)
-
 - 山本昌史 (bass)
-
 - 蔦谷好位置 (keyboards)
-
 - 加藤雄一郎 (alto sax)
-
 - 稲田貴貞 (tenor sax)
-
 - 柿沢健司 (trumpet)
 
 ( [http://natsumen.net/](http://natsumen.net/) )
