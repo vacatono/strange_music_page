@@ -6,6 +6,9 @@ source: 'wordpress'
 artists:
   - '今堀恒雄'
   - '外山明'
+  - '内橋和久'
+  - '中原信雄'
+  - 'eEYO'
 ---
 
 #### unbeltipo
