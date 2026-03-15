@@ -40,4 +40,4 @@ artists:
 - 田辺清貴 (drums)
 - 川越好博 (keyboards)
 
-![](./images/20151024-01.jpg)
+![](./images/20151024-asturias.jpg)
