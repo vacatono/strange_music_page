@@ -86,3 +86,5 @@ coba84 (keyboards)
 ](http://music.geocities.jp/thewaves2005/)
 
 ![](http://vacatono.flop.jp/wp/wp-content/uploads/2012/01/DSCF3069-300x225.jpg '20120108 FLAT122')
+
+![](images/20120108-01.jpg)
