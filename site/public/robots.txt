@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vacatono.github.io/strange_music_page/sitemap-index.xml
