@@ -10,7 +10,6 @@ artists:
   - テイセナ
   - 田辺清貴
   - 川越好博
-setlist:
 ---
 
 #### 1st set:
