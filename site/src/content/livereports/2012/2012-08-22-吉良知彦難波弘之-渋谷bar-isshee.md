@@ -1,11 +1,12 @@
 ---
-title: "吉良知彦+難波弘之 @渋谷Bar Isshee"
+title: '吉良知彦+難波弘之 @渋谷Bar Isshee'
 date: 2012-08-22
-venue: "渋谷Bar Isshee"
-source: "wordpress"
+venue: '渋谷Bar Isshee'
+source: 'wordpress'
 artists:
-  - "zabadak"
-  - "難波弘之"
+  - 'zabadak'
+  - '難波弘之'
+  - 吉良知彦
 ---
 
 zabadakの吉良知彦さんのBar Issheeでの8daysライブの7日目。本日は「日本プログレ界の貴公子」難波弘之さんとのライブです。zabadakですけど、中学高校辺りに大層ハマってまして・・・んでも自分のサイト上でzabadak最後に観たのは 1993年の「のれん分け」のライブ以来？

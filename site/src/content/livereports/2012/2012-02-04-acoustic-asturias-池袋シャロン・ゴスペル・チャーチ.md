@@ -1,10 +1,15 @@
 ---
-title: "Acoustic Asturias @池袋シャロン・ゴスペル・チャーチ"
+title: 'Acoustic Asturias @池袋シャロン・ゴスペル・チャーチ'
 date: 2012-02-04
-venue: "池袋シャロン・ゴスペル・チャーチ"
-source: "wordpress"
+venue: '池袋シャロン・ゴスペル・チャーチ'
+source: 'wordpress'
 artists:
-  - "大山曜"
+  - Asturias
+  - 大山曜
+  - 筒井香織
+  - 川越好博
+  - テイセナ
+  - 星衛
 ---
 
 アコースティックアストゥーリアス（以下アコアス）のライブを見に池袋へ。前回に続いて教会の中、ギター以外全部生音のライブです。
@@ -19,51 +24,30 @@ artists:
 
 次回のアコアスは未定らしいですが、来週はユニベルゼロ来日の前座でエレアスのライブ。３月は吉祥寺スターパインズカフェでエレアスのワンマンが有ります。
 
-  
-1. WATARIDORI  
-    
-2. Global Network  
-    
-3. White Room  
-    
-4. 柔らかな回廊 (Corridoio molle)  
-    
-5. 凍てついた記憶  
-    
-6. ルカ組曲  
-      
-      
-    
-7. Marching Grass on The Hill  
-    
-8. Distance  
-    
+1. WATARIDORI
+2. Global Network
+3. White Room
+4. 柔らかな回廊 (Corridoio molle)
+5. 凍てついた記憶
+6. ルカ組曲
+7. Marching Grass on The Hill
+8. Distance
 9. 冬  
-     
-10. 邂逅  
-     
-11. Perpetual Motion  
-     
-12. 黄源の舞  
-     
-13. Rogus  
-       
-       
-     
-14. Cryptogam Illusion  
-     
-15. Legend  
-     
 
-  
--   大山曜 (gut guitar)  
-    
--   筒井香織 (clarinet, recorder)  
-    
--   川越好博 (piano)  
-    
--   テイセナ (violin)  
-      
-      
-    
--   星衛 (cello on 'Distance', '冬', 'Cryptogam Illusion')(篠笛 on '邂逅')
+10. 邂逅  
+
+11. Perpetual Motion  
+
+12. 黄源の舞  
+
+13. Rogus
+14. Cryptogam Illusion  
+
+15. Legend  
+
+
+- 大山曜 (gut guitar)
+- 筒井香織 (clarinet, recorder)
+- 川越好博 (piano)
+- テイセナ (violin)
+- 星衛 (cello on 'Distance', '冬', 'Cryptogam Illusion')(篠笛 on '邂逅')
