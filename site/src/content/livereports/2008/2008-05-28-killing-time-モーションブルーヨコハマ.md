@@ -1,14 +1,19 @@
 ---
-title: "KILLING TIME @モーションブルーヨコハマ"
+title: 'KILLING TIME @モーションブルーヨコハマ'
 date: 2008-05-28
-venue: "モーションブルーヨコハマ"
-source: "wordpress"
+venue: 'モーションブルーヨコハマ'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - 'KILLING TIME'
+  - 'whacho'
+  - '斎藤ネコ'
+  - '板倉文'
+  - '清水一登'
+  - 'MECKEN'
+  - '青山純'
+  - '横山雅史'
+  - '小林武文'
+  - '小川美潮'
 ---
 
 みなとみらい線馬車道から赤レンガ倉庫3階へ。うーん・・・セレブな感じのライブハウス。KILLING TIMEでもなきゃ来ることねーだろーなぁ、とか思いつつ。  

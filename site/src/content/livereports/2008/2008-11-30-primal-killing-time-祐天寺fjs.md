@@ -1,12 +1,14 @@
 ---
-title: "Primal Killing Time @祐天寺FJ's"
+title: "PRIMAL KILLING TIME @祐天寺FJ's"
 date: 2008-11-30
 venue: "祐天寺FJ's"
-source: "wordpress"
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "板倉文"
-  - "清水一登"
+  - 'KILLING TIME'
+  - 'Ma*To'
+  - 'whacho'
+  - '板倉文'
+  - '清水一登'
 ---
 
 そんなで今回は4人編成でのキリングタイム。
@@ -49,6 +51,6 @@ encore:
 　Ma\*To (keyboards,tabla)  
 　whacho (percussions)
 
-![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0826-small-150x112.jpg "dscf0826-small")![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0830-small-150x112.jpg "dscf0830-small")
+![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0826-small-150x112.jpg 'dscf0826-small')![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0830-small-150x112.jpg 'dscf0830-small')
 
-![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0833-small-150x112.jpg "dscf0833-small")![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0828-small-150x112.jpg "dscf0828-small")
+![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0833-small-150x112.jpg 'dscf0833-small')![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/12/dscf0828-small-150x112.jpg 'dscf0828-small')
