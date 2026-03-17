@@ -1,7 +1,7 @@
 ---
-title: 'CICALA-MVTA @六本木ヒルズ'
+title: 'CICALA-MVTA @六本木ヒルズアリーナ'
 date: 2005-08-15
-venue: '六本木ヒルズ'
+venue: '六本木ヒルズアリーナ'
 source: 'wordpress'
 artists:
   - '吉田達也'

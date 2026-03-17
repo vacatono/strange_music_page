@@ -1,7 +1,7 @@
 ---
-title: 'Faust @ 新宿LIQUIDROOM'
+title: 'Faust @ 新宿LIQUID ROOM'
 date: 2008-09-06
-venue: '新宿LIQUIDROOM'
+venue: '新宿LIQUID ROOM'
 source: 'mixi'
 artists:
   - '来日公演'

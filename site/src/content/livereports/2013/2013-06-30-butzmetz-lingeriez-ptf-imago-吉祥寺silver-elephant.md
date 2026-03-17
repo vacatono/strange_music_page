@@ -1,25 +1,41 @@
 ---
-title: "Butzmetz LingerieZ, ptf, Imago @吉祥寺Silver Elephant"
+title: 'Butzmetz LingerieZ, ptf, Imago @吉祥寺Silver Elephant'
 date: 2013-06-30
-venue: "吉祥寺Silver Elephant"
-source: "wordpress"
+venue: '吉祥寺Silver Elephant'
+source: 'wordpress'
 artists:
-  - "川崎タカオ"
+  - 'Butzmetz LingerieZ'
+  - 'ptf'
+  - 'Imago'
+  - '川崎隆男'
+  - '米山興'
+  - '塩入信之'
+  - '石田和也'
+  - '高本信宏'
+  - '田中健司'
+  - '高島圭介'
+  - '鬼頭武也'
+  - '伊藤寛之'
+  - '関勇亮'
+  - '鳥谷部良子'
+  - '堀子孝英'
+  - '上田哲也'
+  - '大菊勉'
 ---
 
-#### Butzmetz LingerieZ
+### Butzmetz LingerieZ
 
 1バンド目は仏滅ランジェリーズ。  
 ドラムの石田和也さんはFLAT122の初代ドラマーだそうで、私が初めてFLAT122を見た時のドラマーの方かと思ってたのですが、その時は2代目の小林さんだったようです。  
-基本的にはジャズロックで、前見た時も思ったのですが派手なのか地味なのかちょっと良く分からないような・・・今回はゲストでtrumpetの田中健司さんが参加。マイルスのカバーは格好良かったな。
+基本的にはジャズロックで、前見た時も思ったのですが派手なのか地味なのかちょっと良く分からないような・・・今回はゲストで trumpetの田中健司さんが参加。マイルスのカバーは格好良かったな。
 
-米山興 (guitars)  
-塩入信之 (bass)  
-石田和也 (drums)  
-高本信宏 (keyboards)  
-田中健司 (trumpet)
+- 米山興 (guitars)
+- 塩入信之 (bass)
+- 石田和也 (drums)
+- 高本信宏 (keyboards)
+- 田中健司 (trumpet)
 
-#### ptf
+### ptf
 
 先日リリースしていた1stアルバムを会場で入手しました。バイオリンフロントの若手のプログレバンドです。アルバムの時とベースの方が交代しています（前のプログレらしからぬ持ち方のベースの人面白かったので個人的にはちょっと残念）新曲は全部つなげて組曲にするそうで、全4パートの中から今回は#2/#3を演奏。#3の「Beyond the Ridge」は手数の多いハードな曲。  
 かなり若いバンドなのですが、なんの衒いもなくプログレらしい曲を演奏してくれます。よくKBBが引き合い出されますが曲調としてはOuter Limitsに近いような気が。  
@@ -32,14 +48,14 @@ artists:
 5\. ephemeral sign  
 6\. Enigmatic Ocean (encore)
 
-高島圭介 (violin)  
-鬼頭武也 (keyboards)  
-伊藤寛之 (bass)  
-関勇亮 (drums)
+- 高島圭介 (violin)
+- 鬼頭武也 (keyboards)
+- 伊藤寛之 (bass)
+- 関勇亮 (drums)
 
 http://ptfweb.com/
 
-#### IMAGO
+### IMAGO
 
 今回で4回目のライブ。前回の東京倶楽部本郷店でのライブが出色の内容だったのでとても楽しみにしてました。  
 大菊さんのドラム、前回はハコに合わせてシンプルに抑えめに叩いてるのかな？と思ってたのですが、この変拍子だらけの複雑な曲で上で楽器が鳴ってる所を邪魔しないように手数抑えめにポイントを抑えてリズムキープしてるのかなーと・・・この方のドラムだから上モノ（鍵盤、オーボエ、フルート）が気持よく聴こえるのだと思います。ちなみにベースの上田さんは前日の練習中のGとの戦いで足を負傷したらしく座っての演奏。  
@@ -54,10 +70,10 @@ http://ptfweb.com/
 5\. Spiral  
 6\. Neo Classic Dance (encore)
 
-川崎タカオ (piano)  
-鳥谷部良子 (flute)  
-堀子孝英 (oboe)  
-上田哲也 (bass)  
-大菊勉 (drums)
+- 川崎タカオ (piano)
+- 鳥谷部良子 (flute)
+- 堀子孝英 (oboe)
+- 上田哲也 (bass)
+- 大菊勉 (drums)
 
 http://imago.han-be.com/IMAGO/IMAGO.html

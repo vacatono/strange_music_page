@@ -1,7 +1,7 @@
 ---
-title: 'Gilgongo @吉祥寺 Foxhole'
+title: 'Gilgongo @ 吉祥寺Foxhole'
 date: 2014-03-14
-venue: '吉祥寺 Foxhole'
+venue: '吉祥寺Foxhole'
 source: 'wordpress'
 artists:
   - 'ナスノミツル'
