@@ -1,10 +1,13 @@
 ---
-title: "MUMU+Ossie @入谷なってるハウス"
+title: 'MUMU+Ossie @入谷なってるハウス'
 date: 2008-12-21
-venue: "入谷なってるハウス"
-source: "wordpress"
+venue: '入谷なってるハウス'
+source: 'wordpress'
 artists:
-  - "植村昌弘"
+  - '植村昌弘'
+  - '忍田耕一'
+  - '坂元一孝'
+  - '中根信博'
 ---
 
 えーとなんとなく来ちゃいました。植村昌弘さんのバンド。この日はトロンボーンの忍田耕一さんのゲストによる２管編成です。忍田さんは初めて見ますが新曲の「2008 #12」以外の全ての曲で参加、いやゲストといってもそう簡単なにゲストできるようなバンドでもない筈ですが、知らなきゃ４人編成のバンドって言っても通りそうな感じにハマってます。  
@@ -25,11 +28,12 @@ artists:
 2\. 2006 #2  
 3\. 2007 #2  
 4\. 2006 #12  
-6\. 2005 #1  
-　植村昌弘 (drums)  
-　中根信博 (trombone)  
-　坂元一孝 (keyboards)
+6\. 2005 #1
 
-　忍田耕一 (trombone)
+- 植村昌弘 (drums)
+- 中根信博 (trombone)
+- 坂元一孝 (keyboards)
+
+- 忍田耕一 (trombone)
 
 ( [http://skmt.cooktone.com/mumu.html](http://skmt.cooktone.com/mumu.html) )

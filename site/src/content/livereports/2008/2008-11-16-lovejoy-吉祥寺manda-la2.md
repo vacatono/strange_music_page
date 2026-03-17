@@ -1,14 +1,18 @@
 ---
-title: "Lovejoy @吉祥寺MANDA-LA2"
+title: 'Lovejoy @ 吉祥寺MANDA-LA2'
 date: 2008-11-16
-venue: "吉祥寺MANDA-LA2"
-source: "wordpress"
+venue: '吉祥寺MANDA-LA2'
+source: 'wordpress'
 artists:
-  - "植村昌弘"
-  - "近藤達郎"
+  - 'Lovejoy'
+  - 'bikke'
+  - '植村昌弘'
+  - '近藤達郎'
+  - '松永孝義'
+  - '服部夏樹'
 ---
 
-![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/11/lovejoyflyer08111-150x106.jpg "Lovejoy Flyer 2008/11")
+![](http://vacatono.sakura.ne.jp/wordpress/wp-content/uploads/2008/11/lovejoyflyer08111-150x106.jpg 'Lovejoy Flyer 2008/11')
 
 今日はコレを見に行くか、代官山のD-DAYと福原まりを見に行くか、江古田のFLAT122を見に行くか、出かける直前まで迷っていたのですが、物凄く久しく見ていないのでbikkeさんのLovejoyを見に行く事に。
 

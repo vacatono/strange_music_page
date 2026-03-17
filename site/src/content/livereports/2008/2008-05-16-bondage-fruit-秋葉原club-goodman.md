@@ -6,6 +6,9 @@ source: 'wordpress'
 artists:
   - '勝井祐二'
   - '鬼怒無月'
+  - '大坪寛彦'
+  - '高良久美子'
+  - '岡部洋一'
 ---
 
 暫く活動してなかったボンフル、随分久しぶりに見るなぁ・・・たぶんMats & Morgan来日の前座の時以来だから、5年ぶりくらいかな？  
@@ -31,8 +34,8 @@ artists:
 encore:  
 1\. 金属の胎児
 
-　鬼怒無月 (guitars)  
-　勝井祐二 (violin)  
-　大坪寛彦 (bass)  
-　高良久美子 (vibraphone,percussions)  
-　岡部洋一 (percussions)
+- 鬼怒無月 (guitars)
+- 勝井祐二 (violin)
+- 大坪寛彦 (bass)
+- 高良久美子 (vibraphone,percussions)
+- 岡部洋一 (percussions)

@@ -2,10 +2,13 @@
 title: "Acoustic Asturias @高円寺MISSION'S"
 date: 2008-11-09
 venue: "高円寺MISSION'S"
-source: "wordpress"
+source: 'wordpress'
 artists:
-  - "大山曜"
-  - "津田治彦"
+  - '大山曜'
+  - '津田治彦'
+  - '伊藤恭子'
+  - '川越好博'
+  - '筒井香織'
 ---
 
 ポセイドンフェス2週目、Asturiasの新譜発売（ライブはAcoustic Asturiasですけど）
