@@ -4,10 +4,13 @@ date: 2013-02-02
 venue: '吉祥寺Silver Elephant'
 source: 'wordpress'
 artists:
+  - 'Stella Lee Jones'
   - 'くどうげんた'
   - '佐々木絵実'
-  - '佐々木絵美'
   - '平田聡'
+  - '入山ひとみ'
+  - '瀬戸尚幸'
+  - '谷本朋翼'
 ---
 
 テイセナさんが脱退して新しく入山ひとみさんが加入してStella Lee Jonesの初ライブ。堂々のシルエレワンマン。  
@@ -21,27 +24,31 @@ artists:
 Stella Lee Jonesの次回ライブは未定ですが、Electric Asturiasで5/5にアメリカの[RoSfest](http://www.rosfest.com/)に出演されるとの事(The Flower KingsとかShadow GalleryとかPain of Salvationとか出る)その前の4/13に吉祥寺STAR PINE'S CAFEで[エレアスのライブ](http://www.geocities.jp/gonzo1go/Live_infomation130413.html)が有るとのこと。  
 あと、先日のNegasphereで凄い鍵盤を披露してた木田さんと工藤さんとのライブが4/1に西荻の奇聞屋にて。こっちも気になります。
 
-1\. Jigsaw Cats  
-2\. 8月の雨  
-3\. 鏡  
-4\. Salar de Uyuni  
-5\. Winter Song  
-6\. 夢の境界線
+#### 1st set:
 
-1\. Synapse  
-2\. Clouds  
-3\. 目眩  
-4\. Jean-pierre  
-5\. Stella Lee Jones  
-6\. Parallel Railways (アンコール)
+1. Jigsaw Cats
+2. 8月の雨
+3. 鏡
+4. Salar de Uyuni
+5. Winter Song
+6. 夢の境界線
 
-平田聡 (guitars)  
-佐藤真也 (keyboards)  
-佐々木絵実 (accordion)  
-入山ひとみ (violin)  
-瀬戸尚幸 (bass)  
-谷本朋翼 (drums)  
-くどうげんた (percussions)  
-本吉大我 (guitars on Synapse, Clouds, 目眩)
+#### 2nd set:
+
+1. Synapse
+2. Clouds
+3. 目眩
+4. Jean-pierre
+5. Stella Lee Jones
+6. Parallel Railways (アンコール)
+
+- 平田聡 (guitars)
+- 佐藤真也 (keyboards)
+- 佐々木絵実 (accordion)
+- 入山ひとみ (violin)
+- 瀬戸尚幸 (bass)
+- 谷本朋翼 (drums)
+- くどうげんた (percussions)
+- 本吉大我 (guitars on Synapse, Clouds, 目眩)
 
 [http://www.stellaleejones.com](http://www.stellaleejones.com/)

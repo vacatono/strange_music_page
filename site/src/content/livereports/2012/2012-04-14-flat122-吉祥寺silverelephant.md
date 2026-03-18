@@ -1,6 +1,6 @@
 ---
 title: 'FLAT122, Butzmetz LingerieZ, 平和堂 @吉祥寺Silver Elephant'
-date: 2012-04-15
+date: 2012-04-14
 venue: '吉祥寺Silver Elephant'
 source: 'twitter'
 artists:
