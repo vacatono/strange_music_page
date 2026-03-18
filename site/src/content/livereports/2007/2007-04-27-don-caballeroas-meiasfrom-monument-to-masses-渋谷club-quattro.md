@@ -5,6 +5,10 @@ venue: '渋谷CLUB QUATTRO'
 source: 'wordpress'
 artists:
   - '来日公演'
+  - As Meias
+  - Don Caballero
+  - From Monument to Masses
+  - 魚頭圭
 ---
 
 #### From Monument to Masses
@@ -24,11 +28,8 @@ CDに入ってる曲とあと新曲を何曲か。やっぱり魚頭さんのザ
 エモなのですけど変拍子アリアリで、上モノとリズムのアクセントが全然違ってたりと色々凝ってますた。
 
 - 高橋良和 (vocals,guitars)
-
 - 魚頭圭 (guitars)
-
 - 磯貝 (bass)
-
 - 塚本純 (drums)
 
 ( [http://www.catune.com/asmeias/](http://www.catune.com/asmeias/) )
@@ -50,9 +51,7 @@ Don Caballeroは現BattlesのIan Williamsが居たアメリカの変態変拍子
 ちなみにトリオ編成。あれ？こないだのCDでは4人だったよな、誰来なかったんだろ・・・？
 
 - Damon Che (drums)
-
 - Jason Jouver (bass)
-
 - ???? (guitars)
 
 ( [http://www.myspace.com/doncaballeropgh](http://www.myspace.com/doncaballeropgh) )

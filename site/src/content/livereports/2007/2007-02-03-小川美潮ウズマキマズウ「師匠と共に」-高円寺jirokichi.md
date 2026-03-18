@@ -1,12 +1,18 @@
 ---
-title: "小川美潮ウズマキマズウ「師匠と共に」 @高円寺JIROKICHI"
+title: '小川美潮ウズマキマズウ「師匠と共に」 @高円寺JIROKICHI'
 date: 2007-02-03
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "板倉文"
+  - 'whacho'
+  - '小川美潮'
+  - '板倉文'
+  - '仙波清彦'
+  - 'MAC清水'
+  - '小林武文'
+  - '大川俊司'
+  - 'BANANA-UG'
+  - 'Ma*To'
 ---
 
 （まだちょっと興奮してます）
@@ -23,25 +29,16 @@ artists:
 
 まぁもちろん他の方々の演奏も良かったんですけどね
 
-↓↓↓↓だってこんなメンツのライブ↓↓↓↓  
+↓↓↓↓だってこんなメンツのライブ↓↓↓↓
 
-  
--   小川美潮 (vocals)
-  
--   大川俊司 (bass)
-  
--   川島BANANA (piano,synthesizer)
-  
--   板倉文 (guitars)
-  
--   Whacho (percussions)
-  
--   Ma\*To (keyboards)
-  
--   仙波清彦 (drums)
-  
+- 小川美潮 (vocals)
+- 大川俊司 (bass)
+- 川島BANANA (piano,synthesizer)
+- 板倉文 (guitars)
+- Whacho (percussions)
+- Ma\*To (keyboards)
+- 仙波清彦 (drums)
 
-  
 良くないわけないし、俺が喜ばないワケが無くて。もうほんとに最高でした。
 
 そいえばMC中で「はにわの再発CDが中野のマニアックなCD屋で売上一番になって～」とか、メカノの事かな？
