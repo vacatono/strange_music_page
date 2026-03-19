@@ -5,6 +5,8 @@ venue: '代々木Zher the ZOO'
 source: 'wordpress'
 artists:
   - 'NATSUMEN'
+  - AxSxE
+  - アイン
 ---
 
 そんな訳で、レコ発って事でNATSUMEN初の？ワンマンライヴ。チケットは完売だそーで、行ってみたら長蛇の列が出来てます。その長蛇の列の後ろに並んだら横にコスプレメイド喫茶がありました、一瞬行きたくなりましたが、その長蛇の列から2人ほど入っていきました。
@@ -16,17 +18,11 @@ artists:
 えーと、アンコールも一曲。ディディッドゥ・ディディッドゥってヤツなんか聴いたこと有るような気もするんだけど。
 
 - Whole Lotta Summer
-
 - Septemujina
-
 - Pills to kill ma August
-
 - Surf The End
-
 - Newsummerboy
-
 - Sonata of The Summer
-
 - Akiraujina
 
 「Surf The End」では謎の女子高生フルート奏者も参加、あの轟音の中ではフルートのおと聴きとリにくかったけど、最後が一瞬FOCUSっぽかった。

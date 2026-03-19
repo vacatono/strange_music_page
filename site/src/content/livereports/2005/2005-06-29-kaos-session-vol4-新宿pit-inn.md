@@ -1,11 +1,17 @@
 ---
-title: "KAO’S SESSION vol.4 @新宿PIT-INN"
+title: 'KAO’S SESSION vol.4 @新宿PIT-INN'
 date: 2005-06-29
-venue: "新宿PIT-INN"
-source: "wordpress"
+venue: '新宿PIT-INN'
+source: 'wordpress'
 artists:
-  - "仙波清彦"
-  - "小川美潮"
+  - '仙波清彦'
+  - '小川美潮'
+  - '高橋香織'
+  - '吉森信'
+  - '一本茂樹'
+  - '三好功郎'
+  - '萱谷亮一'
+  - '村田陽一'
 ---
 
 ライブ、久々かも・・・
@@ -16,9 +22,8 @@ artists:
 
 美潮さんは二部で３曲。やっぱり「チュニジアの夜」が無茶苦茶イイです、どこ飛んでくのかわかんないよーなスリリングな感じがもー。
 
-なんかこのセッション、高橋さん曲も一本さん曲も吉森さん曲も、ビミョーにプログレ色が有ってかなり自分好みだったりします。  
+なんかこのセッション、高橋さん曲も一本さん曲も吉森さん曲も、ビミョーにプログレ色が有ってかなり自分好みだったりします。
 
-  
 1. 6 1/2
 2. 新大久保の夜
 3. 羊の見た夢
@@ -34,23 +39,12 @@ artists:
 13. Midnight Cock
 14. 梅肉エキス
 15. ??? （アンコール）
-  
 
-  
-
-  
--   高橋香織 (violin)
-  
--   仙波清彦 (drums,percussions)
-  
--   吉森信 (piano,organ,pianica)
-  
--   一本茂樹 (bass)
-  
--   三好功郎 (guitars)
-  
--   萱谷亮一 (percussions,vibraphone)
-  
--   小川美潮 (vocals on 10.11.14.)
-  
--   村田陽一 (trombone on 6.7.)
+- 高橋香織 (violin)
+- 仙波清彦 (drums,percussions)
+- 吉森信 (piano,organ,pianica)
+- 一本茂樹 (bass)
+- 三好功郎 (guitars)
+- 萱谷亮一 (percussions,vibraphone)
+- 小川美潮 (vocals on 10.11.14.)
+- 村田陽一 (trombone on 6.7.)

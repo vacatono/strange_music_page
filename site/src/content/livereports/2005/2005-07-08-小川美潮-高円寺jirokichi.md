@@ -1,10 +1,14 @@
 ---
-title: "小川美潮 @高円寺JIROKICHI"
+title: '小川美潮 @高円寺JIROKICHI'
 date: 2005-07-08
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "小川美潮"
+  - '小川美潮'
+  - '大川俊司'
+  - '勝俣伸吾'
+  - 'れいち'
+  - 'Ma*To'
 ---
 
 見てきました。
@@ -25,9 +29,8 @@ artists:
 
 アンコールは久々に聴く「どーなるセンター」即興ポップスとでも言うか、基本単位だけあってその場で思いついた歌詞を乗っけてくような歌。ビミョーに新ジャンルだよなぁとか。ポップスなのにこの自由度が（だってサビに行くとき「サビー！」って・・・）
 
-次のライブは、来週末の藤野の廃校で行われる「ひかり祭り」([http://www.bambient.com/hikari2005/](http://www.bambient.com/hikari2005/))に出演だそうです。  
+次のライブは、来週末の藤野の廃校で行われる「ひかり祭り」([http://www.bambient.com/hikari2005/](http://www.bambient.com/hikari2005/))に出演だそうです。
 
-  
 1. HASU KRIYA
 2. はじめて
 3. 走れ自転車
@@ -42,17 +45,9 @@ artists:
 12. 窓
 13. 私は宝
 14. どーなるセンター
-  
 
-  
-
-  
--   小川美潮 (vocals,bass)
-  
--   大川俊司 (bass,guitars)
-  
--   勝俣伸吾 (piano,keyboards)
-  
--   れいち (drums,chorus)
-  
--   Ma\*To (synthesizer)
+- 小川美潮 (vocals,bass)
+- 大川俊司 (bass,guitars)
+- 勝俣伸吾 (piano,keyboards)
+- れいち (drums,chorus)
+- Ma\*To (synthesizer)

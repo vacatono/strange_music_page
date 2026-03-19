@@ -5,6 +5,18 @@ venue: '秋葉原dress-Tokyo'
 source: 'wordpress'
 artists:
   - 'FLAT122'
+  - '絶対無'
+  - 'ZANZO'
+  - 'GNU'
+  - '大蔵雅彦'
+  - '塚本真一'
+  - '種石幸也'
+  - 'イトケン'
+  - '熊田央'
+  - '平田聡'
+  - '川崎隆男'
+  - '田辺清貴'
+  - '森川祐護'
 ---
 
 10月に秋葉原に出来た新しいライブハウス、行ってきました。ちょうどCLUB-GOODMANの川を挟んで反対側の場所に有るみたいです。人通りの寂しい中を歩いてくとボンヤリ現れます。
@@ -37,13 +49,9 @@ artists:
 結構昔に見たような気がするのですけど、あれーこんなバンドだったっけな？後期P.O.Nの曲の譜面を一部消しゴムで消したような、スカスカだけどガチガチなコンポジション。奇矯な建築物の骨組みみたいなイメージの音はかなり好みで、CD買っちゃいました。
 
 - 大蔵雅彦 (sax,bass clarinet,keybords)
-
 - 塚本真一 (keyboards)
-
 - 種石幸也 (bass)
-
 - イトケン (drums)
-
 - 熊田央 (drums)
 
 [![f:id:vacatonos:20051113211148j:image:w300](http://f.hatena.ne.jp/images/fotolife/v/vacatonos/20051113/20051113211148.jpg 'f:id:vacatonos:20051113211148j:image:w300')](http://f.hatena.ne.jp/vacatonos/20051113211148)
@@ -66,11 +74,8 @@ artists:
 8. Spiral
 
 - 平田聡 (guitars)
-
 - 川崎隆男 (keyboards)
-
 - 田辺清貴 (drums)
-
 - 森川祐護 (guitars on 1-5.)
 
 [![f:id:vacatonos:20051113215649j:image:w300](http://f.hatena.ne.jp/images/fotolife/v/vacatonos/20051113/20051113215649.jpg 'f:id:vacatonos:20051113215649j:image:w300')](http://f.hatena.ne.jp/vacatonos/20051113215649)

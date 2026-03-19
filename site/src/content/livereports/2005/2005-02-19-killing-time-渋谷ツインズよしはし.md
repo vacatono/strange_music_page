@@ -1,46 +1,37 @@
 ---
-title: "KILLING TIME @渋谷ツインズよしはし"
+title: 'KILLING TIME @渋谷ツインズよしはし'
 date: 2005-02-19
-venue: "渋谷ツインズよしはし"
-source: "wordpress"
+venue: '渋谷ツインズよしはし'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - KILLING TIME
+  - 板倉文
+  - 清水一登
+  - Ma*To
+  - 斎藤ネコ
+  - MECKEN
+  - whacho
 ---
 
 てな訳で、友達の結婚式ニ次会（のようなモノ）で恵比寿ZESTで酒飲んで散会。その時19:30くらいで「ひょっとしてKILLING TIME間に合うんじゃねーの？」と思い直して行ってきました。
 
-  
 着いたときには1st setは終わってたのですが、2nd setは見れました。
 
-結婚式+2次会で既に飲んでたのでウロ覚えですけど、2nd setはこんな感じだったかな？  
+結婚式+2次会で既に飲んでたのでウロ覚えですけど、2nd setはこんな感じだったかな？
 
-  
 1. (新曲)
 2. 8687
 3. VACATONO (奴隷の恩返し)
 4. SALON (Upon Hearing)
 5. PERU
 6. EBRIO (アンコール)
-  
 
-  
+- 板倉文 (guitars)
+- 清水一登 (piano)
+- Ma\*To (tabla,synthesizers)
+- 斎藤ネコ (violin)
+- MECKEN (bass)
 
-  
--   板倉文 (guitars)
-  
--   清水一登 (piano)
-  
--   Ma\*To (tabla,synthesizers)
-  
--   斎藤ネコ (violin)
-  
--   MECKEN (bass)
-  
-
-  
 今回はWhacho抜きで、その分Ma\*Toさんがシンセでパーカッションの音をドドツパと出しておりました。
 
 最初の曲は新曲みたい、何かミニマルなピアノフレーズに不思議な上モノの音。メロディアスなんだけどミニマル。少しECMみたいな雰囲気。
