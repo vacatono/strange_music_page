@@ -16,6 +16,26 @@ artists:
 
 （配信）
 
+#### 1st set:
+
+1. 夢の境界線
+2. Jean-Pierre
+3. Salar de Uyuni
+4. Parallel Railways
+5. ひまわり
+6. Synapse
+
+#### 2nd set
+
+1. The 15th warriors
+2. Light of strength (神獄塔メアリスケルター)
+3. Herculean (神獄塔メアリスケルター)
+4. Jigsaw Cats
+5. Water Line
+6. Kagerou
+7. Mirror
+8. Tokyo Fantasista (encore)
+
 - 平田聡 (guitars)
 - 佐藤真也 (piano)
 - 入山ひとみ (violin)
