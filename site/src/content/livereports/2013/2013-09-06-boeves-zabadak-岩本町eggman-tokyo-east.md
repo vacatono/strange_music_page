@@ -4,6 +4,8 @@ date: 2013-09-06
 venue: '岩本町Eggman Tokyo East'
 source: 'wordpress'
 artists:
+  - 'Boeves'
+  - 'ZABADAK'
   - '佐々木絵美'
   - '吉良知彦'
   - '向島ゆり子'
