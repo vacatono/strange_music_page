@@ -5,6 +5,12 @@ venue: "吉祥寺Star Pine's Cafe"
 source: 'keep'
 artists:
   - 'Electric Asturias'
+  - 大山曜
+  - 平田聡
+  - テイセナ
+  - 田辺清貴
+  - 中村エイジ
+  - ワタナベカズヒロ
 ---
 
 吉祥寺スターパインズカフェでelectric asturias観てきました。新譜の組曲が気合い入ってて良かった。

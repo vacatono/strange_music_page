@@ -4,6 +4,7 @@ date: 1998-04-29
 venue: '南青山MANDALA'
 source: 'wordpress'
 artists:
+  - 'SPANK HAPPY'
   - '今堀恒雄'
   - '大友良英'
   - '水谷浩章'

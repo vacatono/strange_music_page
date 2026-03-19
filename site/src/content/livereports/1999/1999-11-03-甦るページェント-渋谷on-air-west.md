@@ -1,9 +1,10 @@
 ---
 title: '"甦るページェント" @渋谷ON AIR WEST'
 date: 1999-11-03
-venue: ''
+venue: '渋谷ON AIR WEST'
 source: 'html'
 artists:
+  - 'ページェント'
   - '難波弘之'
   - '釜木茂一'
   - '山田和彦'

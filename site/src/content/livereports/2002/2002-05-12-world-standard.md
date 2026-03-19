@@ -3,6 +3,9 @@ title: 'WORLD STANDARD @ 渋谷TOWER RECORD'
 date: 2002-05-12
 venue: '渋谷TOWER RECORD'
 source: 'html'
+artists:
+  - 'WORLD STANDARD'
+  - '鈴木惣一郎'
 ---
 
 Jump for Joyのレコ発イベントってやつです。実はナマ鈴木惣一郎さんは初めてでした。

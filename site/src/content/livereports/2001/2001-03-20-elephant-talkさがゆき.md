@@ -1,17 +1,17 @@
 ---
-title: "elephant talk,さがゆき @ 西荻窪BINSPARK"
+title: 'elephant talk,さがゆき @ 西荻窪BINSPARK'
 date: 2001-03-20
-venue: "西荻窪BINSPARK"
-source: "html"
+venue: '西荻窪BINSPARK'
+source: 'html'
 artists:
-  - "すずきあおい"
-  - "名和達彦"
-  - "吉田隆一"
-  - "真下洋子"
-  - "立岩潤三"
-  - "伏見蛍"
-  - "奥脇浩一郎"
-  - "荻野和夫"
+  - 'すずきあおい'
+  - '名和達彦'
+  - '吉田隆一'
+  - '真下洋子'
+  - '立岩潤三'
+  - '伏見蛍'
+  - '奥脇浩一郎'
+  - '荻野和夫'
 ---
 
 えーとelepaht talkを見に、この日はなんだか大編成。
@@ -38,4 +38,3 @@ artists:
 - 伏見蛍 (guitars)
 - 奥脇浩一郎 (drums)
 - 荻野和夫 (synthesizers)
-

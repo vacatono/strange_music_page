@@ -4,6 +4,8 @@ date: 2004-12-18
 venue: '三軒茶屋Grapefruit Moon'
 source: 'wordpress'
 artists:
+  - 'music from the mars'
+  - 'pasadena'
   - '佳村萠'
   - '立岩潤三'
   - '坂本健吾'

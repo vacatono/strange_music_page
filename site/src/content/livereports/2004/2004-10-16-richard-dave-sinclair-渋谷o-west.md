@@ -1,12 +1,15 @@
 ---
-title: "Richard & Dave Sinclair @渋谷O-WEST"
+title: 'Richard & Dave Sinclair @渋谷O-WEST'
 date: 2004-10-16
-venue: "渋谷O-WEST"
-source: "wordpress"
+venue: '渋谷O-WEST'
+source: 'wordpress'
 artists:
-  - "来日公演"
-  - "清水一登"
-  - "鬼怒無月"
+  - '来日公演'
+  - 'Richard Sinclair'
+  - 'Dave Sinclair'
+  - '清水一登'
+  - '鬼怒無月'
+  - '芳垣安洋'
 ---
 
 そんなわけで元キャラバンのDave Sinclair + Richard Sinclairの来日公演です。
@@ -19,15 +22,10 @@ artists:
 
 芳垣安洋も鬼怒無月も基本的には原曲に忠実に、要所要所で「らしさ」を見せてました。Richardもまあその前回来たときよりはちゃんと演奏してました。Daveのオルガンのフレーズはやっぱり何か「カンタベリ」って音を強く感じます。
 
-アレだ詳しいライヴレポはきっと[POSEIDONさん](http://www.musicterm.jp/poseidon/)がやってくれるよ。それか[TAKE's PAGE](http://homepage3.nifty.com/TAKEDA/live2004-2/20041015.html)で（しかしいつも思うんだけど、なんでこんなに曲目把握できるんだろう？）  
+アレだ詳しいライヴレポはきっと[POSEIDONさん](http://www.musicterm.jp/poseidon/)がやってくれるよ。それか[TAKE's PAGE](http://homepage3.nifty.com/TAKEDA/live2004-2/20041015.html)で（しかしいつも思うんだけど、なんでこんなに曲目把握できるんだろう？）
 
-  
--   Richard Sinclair (vocals,bass)
-  
--   Dave Sinclair (keyboards)
-  
--   清水一登 (keyboards)
-  
--   鬼怒無月 (guitars)
-  
--   芳垣安洋 (drums)
+- Richard Sinclair (vocals,bass)
+- Dave Sinclair (keyboards)
+- 清水一登 (keyboards)
+- 鬼怒無月 (guitars)
+- 芳垣安洋 (drums)

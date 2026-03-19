@@ -1,10 +1,11 @@
 ---
-title: "Fernando Kabusacki @ディスクユニオン新宿JAZZ館"
+title: 'Fernando Kabusacki @ディスクユニオン新宿JAZZ館'
 date: 2004-11-27
-venue: "ディスクユニオン新宿JAZZ館"
-source: "wordpress"
+venue: 'ディスクユニオン新宿JAZZ館'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - Fernando Kabusacki
 ---
 
 最近ちょくちょくやってる新宿ディスクユニオンでの閉店後の無料ライヴ。（行くの今回初めてだけど）
@@ -25,4 +26,4 @@ CDプレイヤーとサンプラーの音源を少しだけ鳴らしながら、
 
 あーでもカブサッキの使ってたLINE6のループサンプラー欲しいなぁ。
 
-([http://www.korgonline.com/html/kid\_product/line6\_effect/dl4.html](http://www.korgonline.com/html/kid_product/line6_effect/dl4.html))
+([http://www.korgonline.com/html/kid_product/line6_effect/dl4.html](http://www.korgonline.com/html/kid_product/line6_effect/dl4.html))

@@ -4,6 +4,9 @@ date: 2000-08-20
 venue: '渋谷CLUB QUATTRO'
 source: 'html'
 artists:
+  - 'SAKANA'
+  - 'SPANK HAPPY'
+  - 'NOVO TONO'
   - 'ポコペン'
   - '西脇一弘'
   - '勝井祐ニ'

@@ -1,16 +1,16 @@
 ---
 title: "Lars Hollmer's SOLA @ 表参道FAB"
 date: 2003-03-22
-venue: "表参道FAB"
-source: "html"
+venue: '表参道FAB'
+source: 'html'
 artists:
-  - "Lars Hollmer"
-  - "向島ゆり子"
-  - "吉田達也"
-  - "清水一登"
-  - "大熊ワタル"
-  - "伏見蛍"
-  - "坂本弘道"
+  - 'Lars Hollmer'
+  - '向島ゆり子'
+  - '吉田達也'
+  - '清水一登'
+  - '大熊ワタル'
+  - '伏見蛍'
+  - '坂本弘道'
 ---
 
 えーと、去年はSamla Mammas Mannaで、一昨年はLars Hollmer's SOLAで、3年前の日本座村と、もはや毎年恒例になりつつ有りますが、Lars Hollmerの来日。
@@ -34,4 +34,3 @@ artists:
 - 大熊ワタル (clarinet)
 - 伏見蛍 (guitars)
 - 坂本弘道 (cello)
-

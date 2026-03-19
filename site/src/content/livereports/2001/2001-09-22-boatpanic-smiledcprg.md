@@ -20,7 +20,7 @@ artists:
   - '坂井キヨオシ'
   - '吉田肇'
   - '石橋英子'
-  - 'Json Shalton'
+  - 'Jason Shalton'
 setlist:
   - 'CATCH 22'
   - 'PLAYMATE AT HANOI'

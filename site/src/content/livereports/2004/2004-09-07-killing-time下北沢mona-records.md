@@ -4,10 +4,13 @@ date: 2004-09-07
 venue: '下北沢mona records'
 source: 'wordpress'
 artists:
-  - 'whacho'
-  - '斎藤ネコ'
+  - KILLING TIME
   - '板倉文'
   - '清水一登'
+  - '斎藤ネコ'
+  - 'Mecken'
+  - 'Ma*To'
+  - 'Whacho'
 ---
 
 1999/4/7以来の東京でのライヴです。（こないだの山中湖は行けなかったので）
@@ -40,15 +43,10 @@ artists:
 10. 老人達の夢（かたたたき）
 
 - 板倉文 (guitars)
-
 - 清水一登 (keyboards,bass clarinet,xylophone)
-
 - 斎藤ネコ (violin)
-
 - Mecken (bass)
-
 - Ma\*To (tabla)
-
 - Whacho (percussions)
 
 こんなに緩くていい加減で、それでも楽しいライヴはなかなか無いなと思います。

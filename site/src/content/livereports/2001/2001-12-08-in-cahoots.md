@@ -1,15 +1,17 @@
 ---
-title: "IN CAHOOTS @ お台場TRIBUTE TO LOVE GENERATION"
+title: 'IN CAHOOTS @ お台場TRIBUTE TO LOVE GENERATION'
 date: 2001-12-08
-venue: "お台場TRIBUTE TO LOVE GENERATION"
-source: "html"
+venue: 'お台場TRIBUTE TO LOVE GENERATION'
+source: 'html'
 artists:
-  - "Phil Miller"
-  - "Fred Baker"
-  - "Elton Dean"
-  - "Peter Lemer"
-  - "Pip Pyle"
-  - "Jim Dvorak"
+  - 来日公演
+  - 'IN CAHOOTS'
+  - 'Phil Miller'
+  - 'Fred Baker'
+  - 'Elton Dean'
+  - 'Peter Lemer'
+  - 'Pip Pyle'
+  - 'Jim Dvorak'
 ---
 
 Phil Miller率いるIN CAHOOTS。来日メンバーは
@@ -30,4 +32,3 @@ Peter Lemerの向いあたりの席に座ってたんですけど、ヤツは裸
 - Peter Lemer (keyboards)
 - Pip Pyle (drums)
 - Jim Dvorak (trumpet)
-

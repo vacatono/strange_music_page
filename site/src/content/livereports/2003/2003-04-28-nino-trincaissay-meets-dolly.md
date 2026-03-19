@@ -1,31 +1,40 @@
 ---
-title: "nino trinca,ISSAY meets DOLLY @ 初台DOORS"
+title: 'nino trinca,ISSAY meets DOLLY @ 初台DOORS'
 date: 2003-04-28
-venue: "初台DOORS"
-source: "html"
+venue: '初台DOORS'
+source: 'html'
 artists:
-  - "角森隆浩"
-  - "鹿島達也"
-  - "清水ひろたか"
-  - "HONZI"
-  - "Chaco"
-  - "YASSY"
-  - "Alan Patton"
-  - "上田禎"
-  - "ISSAY"
-  - "福原まり"
-  - "美尾洋乃"
-  - "HAL"
-  - "矢壁篤信"
+  - '角森隆浩'
+  - '鹿島達也'
+  - '清水弘貴'
+  - 'HONZI'
+  - 'Chaco'
+  - 'YASSY'
+  - 'Alan Patton'
+  - '上田禎'
+  - 'ISSAY'
+  - '福原まり'
+  - '美尾洋乃'
+  - 'HAL'
+  - '矢壁篤信'
 ---
 
-## nino tronica
+### nino tronica
 
 えーとなんだか快適な感じのヨーロッパっぽいバックの音楽。結構好きです、ボーカルのキャラ作りだけ除けば。
 
 Chacoってシンセサイザーズじゃなかったっけな？まぁ何か突出した所の有るバンドじゃないような気もしましたけど、アコーディオンの人なんか結構面白かった。
 
-## ISSAY meets DOLLY
+- 角森隆浩 (vocals)
+- 鹿島達也 (bass)
+- 清水弘貴 (guitar)
+- HONZI (violin,vocals)
+- Chaco (drums,vocals)
+- YASSY (trombone)
+- Alan Patton (accordion)
+- 上田禎 (piano)
+
+### ISSAY meets DOLLY
 
 このバンドは元DER ZIBETのISSAYと福原まりさんの新ユニット、今回のライヴではバイオリンに美尾洋乃。ベースにDER ZIBETのHAL。ドラムは元PINK,UPLMの矢壁篤信でした。
 
@@ -41,17 +50,8 @@ Chacoってシンセサイザーズじゃなかったっけな？まぁ何か突
 
 ## メンバー
 
-- 角森隆浩 (vocals)
-- 鹿島達也 (bass)
-- 清水ひろたか (guitar)
-- HONZI (violin,vocals)
-- Chaco (drums,vocals)
-- YASSY (trombone)
-- Alan Patton (accordion)
-- 上田禎 (piano)
 - ISSAY (vocals)
 - 福原まり (piano)
 - 美尾洋乃 (violin)
 - HAL (bass)
 - 矢壁篤信 (drums)
-

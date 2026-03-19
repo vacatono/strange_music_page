@@ -1,10 +1,14 @@
 ---
-title: "Bonnie Pink @六本木ヒルズアリーナ"
+title: 'Bonnie Pink @六本木ヒルズアリーナ'
 date: 2004-04-07
-venue: "六本木ヒルズアリーナ"
-source: "wordpress"
+venue: '六本木ヒルズアリーナ'
+source: 'wordpress'
 artists:
-  - "清水一登"
+  - 'Bonnie Pink'
+  - '清水一登'
+  - '會田茂一'
+  - '高桑圭'
+  - 'ASA-CHANG'
 ---
 
 行ってきました六本木ヒルズアリーナ。話題の回転扉にはやっぱり停止中で、お花が添えられてました。
@@ -15,15 +19,10 @@ artists:
 
 自分の居た場所も後ろの人ごみの中だったんですけど（そもそもライヴする場所ではないし）ちょっと音響悪かったかなーとか思いました。
 
-（[http://www.bonniepink.jp/](http://www.bonniepink.jp/)）  
+（[http://www.bonniepink.jp/](http://www.bonniepink.jp/)）
 
-  
--   Bonnie Pink (vocals,guitars)
-  
--   會田茂一 (guitars)
-  
--   高桑圭 (bass)
-  
--   清水一登 (keyboards)
-  
--   ASA-CHANG (percussions)
+- Bonnie Pink (vocals,guitars)
+- 會田茂一 (guitars)
+- 高桑圭 (bass)
+- 清水一登 (keyboards)
+- ASA-CHANG (percussions)

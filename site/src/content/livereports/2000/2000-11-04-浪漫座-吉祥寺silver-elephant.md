@@ -4,6 +4,7 @@ date: 2000-11-04
 venue: '吉祥寺Silver Elephant'
 source: 'wordpress'
 artists:
+  - '浪漫座'
   - '中嶋一晃'
   - '潤美玲'
   - '北白川妙朗'

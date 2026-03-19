@@ -1,35 +1,35 @@
 ---
-title: "DATE COURSE PENTAGON ROYAL GARDEN @ 新宿LIQUID ROOM"
+title: 'DATE COURSE PENTAGON ROYAL GARDEN @ 新宿LIQUID ROOM'
 date: 2003-10-08
-venue: "新宿LIQUID ROOM"
-source: "html"
+venue: '新宿LIQUID ROOM'
+source: 'html'
 artists:
-  - "菊地成孔"
-  - "坪口昌恭"
-  - "芳垣安洋"
-  - "藤井信夫"
-  - "Jason Shalton"
-  - "高井康生"
-  - "栗原正己"
-  - "津上研太"
-  - "後関好宏"
-  - "大儀見元"
-  - "吉見征樹"
-  - "関島岳郎"
-  - "青木タイセイ"
-  - "佐々木史郎"
+  - '菊地成孔'
+  - '坪口昌恭'
+  - '芳垣安洋'
+  - '藤井信夫'
+  - 'Jason Shalton'
+  - '高井康生'
+  - '栗原正己'
+  - '津上研太'
+  - '後関好宏'
+  - '大儀見元'
+  - '吉見征樹'
+  - '関島岳郎'
+  - '青木タイセイ'
+  - '佐々木史郎'
 setlist:
-  - "Catch 22"
-  - "構造-1"
-  - "Hey Joe"
-  - "Playmate at Hanoi"
-  - "構造-2"
-  - "Stain Alive"
-  - "構造-3"
-  - "Circle/Line～最後の平和を我らに"
-  - "構造-5"
-  - "構造-4 (アンコール)"
-  - "Mirror Balls (アンコール2)"
+  - 'Catch 22'
+  - '構造-1'
+  - 'Hey Joe'
+  - 'Playmate at Hanoi'
+  - '構造-2'
+  - 'Stain Alive'
+  - '構造-3'
+  - 'Circle/Line～最後の平和を我らに'
+  - '構造-5'
+  - '構造-4 (アンコール)'
+  - 'Mirror Balls (アンコール2)'
 ---
 
 えーとDCPRGを見るのは実は久しぶり。大友良英抜けてからぜーんぜん見てなかった、したがって新曲群も（CDは買ったけど）まだ生で見たことは無かったのです。そんな訳で、新曲期待で行ってきました。
@@ -68,18 +68,3 @@ setlist:
 - 関島岳郎 (tuba)
 - 青木タイセイ (trombone)
 - 佐々木史郎 (trumpet)
-
-## セットリスト
-
-1. Catch 22
-2. 構造-1
-3. Hey Joe
-4. Playmate at Hanoi
-5. 構造-2
-6. Stain Alive
-7. 構造-3
-8. Circle/Line～最後の平和を我らに
-9. 構造-5
-10. 構造-4 (アンコール)
-11. Mirror Balls (アンコール2)
-

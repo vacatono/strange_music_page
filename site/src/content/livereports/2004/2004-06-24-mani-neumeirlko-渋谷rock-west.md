@@ -1,10 +1,12 @@
 ---
-title: "Mani Neumeir+L?K?O @渋谷ROCK WEST"
+title: 'Mani Neumeir+L?K?O @渋谷ROCK WEST'
 date: 2004-06-24
-venue: "渋谷ROCK WEST"
-source: "wordpress"
+venue: '渋谷ROCK WEST'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - Mani Neumeir
+  - L?K?O
 ---
 
 写真、ロクなのが無くってゴメンナサイ。

@@ -1,34 +1,33 @@
 ---
-title: "MAGMA @渋谷ON AIR WEST"
+title: 'MAGMA @渋谷ON AIR WEST'
 date: 2001-05-30
-venue: "渋谷ON AIR WEST"
-source: "wordpress"
+venue: '渋谷ON AIR WEST'
+source: 'wordpress'
 artists:
-  - "来日公演"
+  - '来日公演'
+  - MAGMA
+  - Christian Vander
+  - Stella Vander
+  - Antoine Paganotti
+  - Jean-Christophe Gamet
+  - James McGaw
+  - Philippe Bussonnet
+  - Isabelle Feuillebios
+  - Emmanuel Borghi
 ---
 
 #前回来た時に行かなかったのをちょっと後悔したマグマです、マグマ。  
-公式ホームページによると来日のメンバーは![マグママーク、描いてみた](http://vacatono.flop.jp/img/magmaa.jpg)  
+公式ホームページによると来日のメンバーは![マグママーク、描いてみた](http://vacatono.flop.jp/img/magmaa.jpg)
 
-  
--   Christian Vander (drums,vocals)
-  
--   Stella Vander (vocals,keyboards)
-  
--   Antoine Paganotti (vocals)
-  
--   Jean-Christophe Gamet (vocals)
-  
--   James McGaw (guitars)
-  
--   Philippe Bussonnet (bass)
-  
--   Isabelle Feuillebios (vocals,percussions)
-  
--   Emmanuel Borghi (keyboards)
-  
+- Christian Vander (drums,vocals)
+- Stella Vander (vocals,keyboards)
+- Antoine Paganotti (vocals)
+- Jean-Christophe Gamet (vocals)
+- James McGaw (guitars)
+- Philippe Bussonnet (bass)
+- Isabelle Feuillebios (vocals,percussions)
+- Emmanuel Borghi (keyboards)
 
-  
 というメンツ....らしいです。(私はCristianとStellaしかわからなかった)  
 当日券で入ったんでかーなり後ろの方で聴いたんで、ほとんどメンバー見えませんでした。  
 ライヴはとにかくスゴイ迫力。ちょっと冗長かなーとか思うパートも有ったりもしたんですけど、徐々に徐々にテンション上げていく感じで。 ベースが顔をプルプル震わせながら弾いてたりとか。あとCristian Vanderを背伸びして覗いて見たら**歯食いしばってドラム叩いてました**、すげー。  

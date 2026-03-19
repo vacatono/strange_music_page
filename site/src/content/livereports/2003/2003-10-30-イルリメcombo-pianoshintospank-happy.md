@@ -1,8 +1,15 @@
 ---
-title: "イルリメ,COMBO PIANO,SHINTO,SPANK HAPPY @ NHK-FMライブビート公開録音"
+title: 'イルリメ,COMBO PIANO,SHINTO,SPANK HAPPY @ NHK-FMライブビート公開録音'
 date: 2003-10-30
-venue: "NHK-FMライブビート公開録音"
-source: "html"
+venue: 'NHK-FMライブビート公開録音'
+source: 'html'
+artists:
+  - 'イルリメ'
+  - 'COMBO PIANO'
+  - 'SHINTO'
+  - 'SPANK HAPPY'
+  - 菊地成孔
+  - 岩澤瞳
 ---
 
 あーもー書かなかったら大分忘れてるけど思い出して書こう。
@@ -32,4 +39,3 @@ source: "html"
 曲は今年末発売の2ndの曲らしく、1曲目とかはノンスタンダード時代の細野晴臣みたいな感じかな？基本線は変わらずトラックのクオリティーは相変わらず（ていうかほとんど当てふりだったからCDのままかも）、自分にはなんだか菊地成孔の書くポップス曲のエロい部分が若干薄くなったよーに思いました。
 
 ま、その、イイかどうかはアルバム出るまで保留しようかなと。
-

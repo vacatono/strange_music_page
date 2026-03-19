@@ -4,6 +4,7 @@ date: 2002-03-24
 venue: '南青山MANDALA'
 source: 'html'
 artists:
+  - '来日公演'
   - 'Richard Sinclair'
   - '清水一登'
   - '鬼怒無月'

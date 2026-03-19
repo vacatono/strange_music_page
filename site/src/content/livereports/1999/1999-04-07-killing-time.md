@@ -4,6 +4,7 @@ date: 1999-04-07
 venue: '南青山MANDALA'
 source: 'html'
 artists:
+  - 'KILLING TIME'
   - '板倉文'
   - '清水一登'
   - 'Ma*To'

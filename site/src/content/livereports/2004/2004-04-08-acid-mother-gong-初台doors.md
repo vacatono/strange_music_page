@@ -1,11 +1,18 @@
 ---
-title: "Acid Mother Gong @ 初台DOORS"
+title: 'Acid Mother Gong @ 初台DOORS'
 date: 2004-04-08
-venue: "初台DOORS"
-source: "wordpress"
+venue: '初台DOORS'
+source: 'wordpress'
 artists:
-  - "吉田達也"
-  - "来日公演"
+  - 'Acid Mother Gong'
+  - 'David Allen'
+  - 'Gilli Smyth'
+  - '川端一'
+  - '東洋之'
+  - 'Cotton Casino'
+  - 'Josh Pollack'
+  - '津山篤'
+  - '吉田達也'
 ---
 
 「東京ではライヴしない」Acid Mother Templeですけど、今回はDavid Allen + Gilli Smythなどを加えてAcid Mother Gongの来日っつー事で。初台ドアーズにて。
@@ -24,21 +31,13 @@ David AllenとDidier Malherbeの来日が遅れて関西のライヴでは間に
 
 あ、なんかセーラー服着た客が居た。コスプレじゃ無いっぽい・・・
 
-([http://www.acidmothers.com/](http://www.acidmothers.com/))  
+([http://www.acidmothers.com/](http://www.acidmothers.com/))
 
-  
--   David Allen (voices,effector)
-  
--   Gilli Smyth (voices)
-  
--   川端一 (guitars)
-  
--   東洋之 (synthesizer,thermin)
-  
--   Cotton Casino (synthesizer,voice)
-  
--   Josh Pollack (guitars,megaphonics)
-  
--   津山篤 (bass,voice)
-  
--   吉田達也 (drums)
+- David Allen (voices,effector)
+- Gilli Smyth (voices)
+- 川端一 (guitars)
+- 東洋之 (synthesizer,thermin)
+- Cotton Casino (synthesizer,voice)
+- Josh Pollack (guitars,megaphonics)
+- 津山篤 (bass,voice)
+- 吉田達也 (drums)

@@ -1,7 +1,7 @@
 ---
 title: "美潮 & うずまきまずう @吉祥寺STAR PINE'S CAFE"
 date: 2000-01-28
-venue: ''
+venue: "吉祥寺STAR PINE'S CAFE"
 source: 'html'
 artists:
   - '小川美潮'

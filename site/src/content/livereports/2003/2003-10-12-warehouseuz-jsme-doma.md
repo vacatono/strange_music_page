@@ -4,6 +4,8 @@ date: 2003-10-12
 venue: '吉祥寺MANDA-LA2'
 source: 'html'
 artists:
+  - 'Warehouse'
+  - 'Uz Jsme Doma'
   - '鬼怒無月'
   - '高良久美子'
   - '大坪寛彦'
@@ -16,9 +18,17 @@ artists:
 
 チェコのUz Jsme Doma（「ウシュ・スマイ・ドマ」と読むらしいです）の来日公演。何だかよく分からないけど行ってきました。
 
+### Warehouse
+
 んで、対バンが鬼怒無月さんのWarehouse。久々に見ましたけど、とても緻密な感じになってました。パッと聴いた印象だとカフェとかでかかってそうな柔らかな感じの音なんだけど、よく聴くととても複雑。ビブラフォンの複雑なループに、R.Frippみたいなギターが入ったりとかしてて。
 
 何でも2ndの録音が済んで、できれば年内にリリースするとか言う話。曲のタイトルは決まったけど、アルバムタイトルが決まってないって話で、「何にしようか？」ってのに鬼怒さんが「たこ焼き」「たこ焼きとふんどし」とか・・・確実に売上枚数が減ります。
+
+- 鬼怒無月 (guitars,hi-hat)
+- 高良久美子 (vibraphone,percussions)
+- 大坪寛彦 (bass)
+
+### Uz Jsme Doma
 
 それで片付け終わったら、Uz Jsme Domaのメンバー登場・・・ヘンな衣装（後で気付いたけど、ドリフの合唱のコントにそっくりな衣装）
 
@@ -30,11 +40,6 @@ artists:
 
 あ、ちなみに演奏中は画家が後ろで空飛ぶニンジンの絵を描いてる。デタラメの一歩向こうの世界を垣間見たよーな気がしました。素晴らしい馬鹿バンド、面白かった。（しかしよく横浜ジャズプロムナードに出たよな）
 
-## メンバー
-
-- 鬼怒無月 (guitars,hi-hat)
-- 高良久美子 (vibraphone,percussions)
-- 大坪寛彦 (bass)
 - Radek Podvesky (guitars,vocals)
 - Petr Bohm (drums,vocals)
 - Miroslav Wanek (guitars,keyboard,vocal)

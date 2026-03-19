@@ -1,16 +1,17 @@
 ---
-title: "fishermen tit tot @ 南青山MANDALA"
+title: 'fishermen tit tot @ 南青山MANDALA'
 date: 1999-06-02
-venue: "南青山MANDALA"
-source: "html"
+venue: '南青山MANDALA'
+source: 'html'
 artists:
-  - "福原まり"
-  - "矢口博康"
-  - "Dennis Gunn"
-  - "松本治"
-  - "中原信雄"
-  - "れいち"
-  - "鈴木慶一"
+  - 'fishermen tit tot'
+  - '福原まり'
+  - '矢口博康'
+  - 'Dennis Gunn'
+  - '松本治'
+  - '中原信雄'
+  - 'れいち'
+  - '鈴木慶一'
 ---
 
 この日のゲストはムーンライダーズの鈴木慶一さん。
@@ -32,4 +33,3 @@ artists:
 - 中原信雄 (bass,mandolin)
 - れいち (drums,vocals)
 - 鈴木慶一 (vocals)
-

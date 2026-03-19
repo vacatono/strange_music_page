@@ -3,27 +3,33 @@ title: 'bellytree the distortion,electric eel shock,SKYFISHER,etc @ 秋葉原CLU
 date: 2001-02-17
 venue: '秋葉原CLUB GOODMAN'
 source: 'html'
+artists:
+  - 'ホセ'
+  - 'bellytree the distortion'
+  - 'supreme line'
+  - 'electric eel shock'
+  - 'SKYFISHER'
 ---
 
 秋葉原CLUB GOODMANへ、この日はチケット\980、5バンド。
 
-01 - ホセ
+### ホセ
 
 濃ゆい系ののロックでした、途中から入ったんであんまり覚えてないけど。何故か全員上半身裸。
 
-02 - bellytree the distortion
+### bellytree the distortion
 
 友達のバンド。もう何度も見てるんですけど、この日は珍しくちょっとグシャッてなった感じの感触の音で良かったよーに思います。しかしベースの一番太い弦切るか？切ろうと思って切れるモノじゃないよーな。
 
-03 - supreme line
+### supreme line
 
 えーとguitar+turntable+drums+bass&vocal+tabla(congaだったみたい)という編成のバンド。テクノ/トランスなバンド...最近結構多いみたいですけど。ちょっとばかし単調にも聞こえましたけど、きっとクラブ向きの音と思います。
 
-04 - electric eel shock
+### electric eel shock
 
 3ピースバンド。サバスの"iron man"で登場してました、この日一番の大馬鹿バンド。ドラムの方はインフルエンザらしく、頭と下半身を冷やす為にズボンを脱いで額にヒエピタを張って頑張ってました。インフルエンザウィルスはどんどん脳に回ってきたらしく一部分以外全裸で演奏(風邪には気をつけましょう)、これ以上は書けないす。演奏はパワフル+壊れ、曲間は大笑い。
 
-05 - SKYFISHER
+### SKYFISHER
 
 凶悪なキメばかりで構成された曲のオンパレード、ほんとに凄かったです。「なんでアレが合うの？」っていうような曲ばかり。1-3枚目の頃のP-MODELの曲をツギハギして無理矢理曲にしたよーな感じでした。P-MODELの"DOCTOR STOP"とかもやってました、いやすげー。
 

@@ -1,21 +1,12 @@
 ---
-title: "Abu Dhabi ver.00 (オパビニア,ヒデノブイトウ) @ 渋谷7th floor"
+title: 'Abu Dhabi ver.00 (オパビニア,ヒデノブイトウ) @ 渋谷7th floor'
 date: 2003-07-03
-venue: "渋谷7th floor"
-source: "html"
+venue: '渋谷7th floor'
+source: 'html'
 artists:
-  - "清水一登"
-  - "鬼怒無月"
-  - "芳垣安洋"
-setlist:
-  - "情熱の通り雨"
-  - "johnson blues"
-  - "最低人"
-  - "ふぐ汁"
-  - "ヒョーロク玉"
-  - "インプロ"
-  - "コンプトリ"
-  - "タスマニア"
+  - '清水一登'
+  - '鬼怒無月'
+  - '芳垣安洋'
 ---
 
 渋谷のON AIRのエレベータを上って行くと、そこはNESTでした。
@@ -38,14 +29,6 @@ CD聴いた感じでは、とてもポップな感じでしたけどライヴで
 
 セットリストはこんな感じ・・・だと思う（間違ってたらゴメン）。店の時間の都合で残念ながらアンコールは無し。
 
-## メンバー
-
-- 清水一登 (keyboards,piano)
-- 鬼怒無月 (guitars)
-- 芳垣安洋 (drums,percussions)
-
-## セットリスト
-
 1. 情熱の通り雨
 2. johnson blues
 3. 最低人
@@ -55,3 +38,6 @@ CD聴いた感じでは、とてもポップな感じでしたけどライヴで
 7. コンプトリ
 8. タスマニア
 
+- 清水一登 (keyboards,piano)
+- 鬼怒無月 (guitars)
+- 芳垣安洋 (drums,percussions)

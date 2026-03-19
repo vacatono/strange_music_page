@@ -4,6 +4,7 @@ date: 2000-10-04
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'html'
 artists:
+  - 'ELEPHANT TALK'
   - 'すずきあおい'
   - '名和達彦'
   - '立岩潤三'

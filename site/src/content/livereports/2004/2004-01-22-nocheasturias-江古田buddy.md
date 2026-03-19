@@ -1,10 +1,14 @@
 ---
-title: "Noche,ASTURIAS @ 江古田BUDDY"
+title: 'Noche,Asturias @ 江古田BUDDY'
 date: 2004-01-22
-venue: "江古田BUDDY"
-source: "wordpress"
+venue: '江古田BUDDY'
+source: 'wordpress'
 artists:
-  - "大山曜"
+  - Asturias
+  - '大山曜'
+  - '川越好博'
+  - '北辻みさ'
+  - '筒井香織'
 ---
 
 ライヴとしてはなんと15年ぶり！というASTURIASを見に行きました。
@@ -23,9 +27,8 @@ artists:
 
 んで、一回限りの復活では無いので次回のライヴが決まってます。5月と6月にまた有るようです。とりあえずはオフィシャルの方をチェックしてみましょう。
 
-([http://www.geocities.jp/gonzo1go/home.html](http://www.geocities.jp/gonzo1go/home.html))  
+([http://www.geocities.jp/gonzo1go/home.html](http://www.geocities.jp/gonzo1go/home.html))
 
-  
 1. Distance
 2. Adolescencia
 3. Cryptogam Illusion
@@ -36,15 +39,8 @@ artists:
 8. Nostalghia
 9. 流氷
 10. 精神宮殿
-  
 
-  
-
-  
--   大山曜 (guitar)
-  
--   川越好博 (piano)
-  
--   北辻みさ (violin)
-  
--   筒井香織 (clarinet,recorder)
+- 大山曜 (guitar)
+- 川越好博 (piano)
+- 北辻みさ (violin)
+- 筒井香織 (clarinet,recorder)

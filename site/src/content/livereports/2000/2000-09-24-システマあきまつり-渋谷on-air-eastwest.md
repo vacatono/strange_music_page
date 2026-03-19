@@ -4,6 +4,10 @@ date: 2000-09-24
 venue: '渋谷ON AIR EAST/WEST'
 source: 'wordpress'
 artists:
+  - 'AREPOS'
+  - 'fishermen tit tot'
+  - 'unbeltipo'
+  - 'SPANK HAPPY'
   - '今堀恒雄'
   - '外山明'
   - '沖山優司'

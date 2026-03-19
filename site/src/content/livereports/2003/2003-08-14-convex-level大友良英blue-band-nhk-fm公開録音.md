@@ -38,13 +38,8 @@ Robin disc(福岡知彦さんのレーベル)からEPが何枚か出てるくら
 6. the sea
 
 - 大友良英 (guitars)
-
 - えとうなおこ (keyboards)
-
 - 芳垣安洋 (drums,percussions)
-
 - 西村雄介 (bass)
-
 - 栗原正己 (recorder)
-
 - 魚喃キリコ (percussion)

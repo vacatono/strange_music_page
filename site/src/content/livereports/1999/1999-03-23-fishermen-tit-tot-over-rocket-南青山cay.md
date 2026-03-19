@@ -4,6 +4,7 @@ date: 1999-03-23
 venue: '南青山CAY'
 source: 'wordpress'
 artists:
+  - 'fishermen tit tot'
   - '福原まり'
   - '中原信雄'
   - '矢口博康'

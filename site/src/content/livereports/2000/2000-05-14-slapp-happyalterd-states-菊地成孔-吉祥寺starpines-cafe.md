@@ -1,9 +1,10 @@
 ---
 title: "SLAPP HAPPY,ALTERD STATES + 菊地成孔 @吉祥寺STAR PINE'S CAFE"
 date: 2000-05-14
-venue: ''
+venue: "吉祥寺STAR PINE'S CAFE"
 source: 'html'
 artists:
+  - 来日公演
   - 'ナスノミツル'
   - '芳垣安洋'
   - '内橋和久'

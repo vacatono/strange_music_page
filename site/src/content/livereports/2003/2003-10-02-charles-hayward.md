@@ -1,10 +1,11 @@
 ---
-title: "Charles Hayward @ 表参道FAB"
+title: 'Charles Hayward @ 表参道FAB'
 date: 2003-10-02
-venue: "表参道FAB"
-source: "html"
+venue: '表参道FAB'
+source: 'html'
 artists:
-  - "Charles Hayward"
+  - '来日公演'
+  - 'Charles Hayward'
 ---
 
 ちょっと行くかどうか金銭面で悩んでたんですけど、結局行ってきました。元this heatなんて今更言う必要ないかな？Charles Hayward3回目の来日です。
@@ -15,7 +16,4 @@ artists:
 
 なんつーか、ほんと来て良かったよなと思います。あの圧倒的なインパクトは自分じゃどーしても文字にできないんですけど、改めて生でライヴを見ることの大切さを知ったような気がします。
 
-## メンバー
-
 - Charles Hayward (drums,voice,tapes)
-
