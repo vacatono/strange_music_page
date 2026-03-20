@@ -1,8 +1,15 @@
 ---
-title: "ヤン富田 @六本木SUPER DELUXE"
+title: 'ヤン富田 @六本木SUPER DELUXE'
 date: 2006-05-26
-venue: "六本木SUPER DELUXE"
-source: "wordpress"
+venue: '六本木SUPER DELUXE'
+source: 'wordpress'
+artists:
+  - ヤン富田
+  - 大野由美子
+  - スージー・キム
+  - いとうせいこう
+  - 高木完
+  - DUB MASTER X
 ---
 
 ヤン富田の「Music Meme 2」のリリースパーティ。なんか滅多に人前に出る事の無いこの人（ムネカタさんの日記によると13年振りとか）を見に行ってきました。
@@ -17,17 +24,11 @@ source: "wordpress"
 
 アンコールではスチールドラムの演奏。コレも凄く良かった、コレ聴けただけでも来れて良かったかなと思いました。
 
-この日、とりあえずヤン富田を見る目が変わりました。ん。  
+この日、とりあえずヤン富田を見る目が変わりました。ん。
 
-  
--   ヤン富田 (electronics,acoustic guitar,steel drum)
-  
--   大野由美子 (vocals)
-  
--   スージー・キム (vocals)
-  
--   いとうせいこう (rap)
-  
--   高木完 (rap)
-  
--   DUB MASTER X (mix)
+- ヤン富田 (electronics,acoustic guitar,steel drum)
+- 大野由美子 (vocals)
+- スージー・キム (vocals)
+- いとうせいこう (rap)
+- 高木完 (rap)
+- DUB MASTER X (mix)

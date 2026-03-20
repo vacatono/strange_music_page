@@ -4,6 +4,7 @@ date: 2006-09-05
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'wordpress'
 artists:
+  - パスカルズ
   - '坂本弘道'
   - '美尾洋乃'
   - '石川浩司'

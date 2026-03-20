@@ -1,22 +1,19 @@
 ---
-title: "ubiquitous (金子飛鳥+鬼怒無月+八尋知洋) @新宿PIT-INN"
+title: 'ubiquitous (金子飛鳥+鬼怒無月+八尋知洋) @新宿PIT-INN'
 date: 2006-05-24
-venue: "新宿PIT-INN"
-source: "wordpress"
+venue: '新宿PIT-INN'
+source: 'wordpress'
 artists:
-  - "鬼怒無月"
+  - ubiquitous
+  - '鬼怒無月'
+  - '金子飛鳥'
+  - '八尋知洋'
 ---
 
--   金子飛鳥 (violin)
-  
--   鬼怒無月 (guitars)
-  
--   八尋知洋 (percussions)
-  
+- 金子飛鳥 (violin)
+- 鬼怒無月 (guitars)
+- 八尋知洋 (percussions)
 
-  
-
-  
 超、久々に金子飛鳥を見てきましたー。
 
 あーやっぱり上手いなぁぁと思うものの、前半のセットはちょっとパンチが足らず眠気が・・・・

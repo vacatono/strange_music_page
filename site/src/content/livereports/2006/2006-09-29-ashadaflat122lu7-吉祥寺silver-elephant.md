@@ -4,6 +4,9 @@ date: 2006-09-29
 venue: '吉祥寺Silver Elephant'
 source: 'wordpress'
 artists:
+  - Ashada
+  - Flat122
+  - Lu7
   - '川崎隆男'
   - '平田聡'
   - '田辺清貴'

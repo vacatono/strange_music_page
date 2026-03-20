@@ -5,6 +5,7 @@ venue: '渋谷CLUB QUATTRO'
 source: 'wordpress'
 artists:
   - 'NATSUMEN'
+  - 高円寺百景
   - '吉田達也'
   - '太田惠資'
   - '小森慶子'

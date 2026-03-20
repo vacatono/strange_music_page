@@ -4,6 +4,9 @@ date: 2006-05-10
 venue: "吉祥寺STAR PINE'S CAFE"
 source: 'wordpress'
 artists:
+  - unbeltipo
+  - Altered States
+  - 是巨人
   - 'ナスノミツル'
   - '今堀恒雄'
   - '吉田達也'

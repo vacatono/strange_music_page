@@ -3,6 +3,19 @@ title: '川喜多美子(D-DAY),ジャック達 @代々木Zher the ZOO'
 date: 2006-05-13
 venue: '代々木Zher the ZOO'
 source: 'wordpress'
+artists:
+  - 川喜多美子
+  - ジャック達
+  - ハッカイ
+  - 光永厳
+  - はっちゃき
+  - ライオンメリイ
+  - 一色進
+  - 夏秋文尚
+  - 福島幹夫
+  - キハラ宙
+  - 松尾清憲
+  - 鈴木さえ子
 ---
 
 仕事で遅くなったので、捏造と贋作は見れませんでした。ザ・残念。
@@ -10,13 +23,9 @@ source: 'wordpress'
 #### 川喜多美子(D-DAY)
 
 - 川喜多美子 (vocals)
-
 - ハッカイ (guitars)
-
 - 光永厳 (bass)
-
 - はっちゃき (drums)
-
 - ライオンメリイ (keyboards)
 
 ってか何この80年代。
@@ -36,11 +45,8 @@ D-DAYの再発 ( [http://bridge-inc.net/store/?p=productsMore&iProduct=2696](htt
 #### ジャック達
 
 - 一色進 (vocals,guitars)
-
 - 夏秋文尚 (drums)
-
 - 福島幹夫 (bass)
-
 - キハラ宙 (guitars)
 
 夏秋さんのスコーンと抜けたドラムが大変気持ちよかったです。一色さんのしょーもないMCがおかしかった、久保田信吾が客席からツッコミ入れまくり。ツッコミ担当でステージに出ててもイイのに。ギターの人初めて見たけど格好良かったなぁ。

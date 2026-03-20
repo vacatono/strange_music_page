@@ -4,9 +4,17 @@ date: 2006-03-24
 venue: '池袋LIVE INN ROSA'
 source: 'wordpress'
 artists:
-  - '佳村萠'
-  - '植村昌弘'
-  - '鬼怒無月'
+  - ihar connect
+  - sim
+  - ERA
+  - ヒゴヒロシ
+  - ブラボー小松
+  - 佳村萠
+  - 植村昌弘
+  - 大島輝之
+  - 大谷能生
+  - 鬼怒無月
+  - 壺井彰久
 ---
 
 そんなわけで、佳村萠さんを見に池袋ROSAへ。池袋って町が何だか好きじゃなくて、このライブハウスも初めてでした。  
@@ -17,11 +25,8 @@ artists:
 インプロ一発のバンド、っていうかブラボー小松が格好良すぎる。ボアダムズをもーちょいフロア寄りにしたよーな音かな、野外フェスとかで聴きたいかも。んでもイイなぁ。
 
 - ヒゴヒロシ (bass)
-
 - ブラボー小松 (guitars)
-
 - ボーイ (drums)
-
 - タテヤマ (synthesizers)
 
 ( [http://meki-higon.daa.jp/ijar/](http://meki-higon.daa.jp/ijar/) )
@@ -32,11 +37,8 @@ artists:
 最後の曲はRobert WyattのSea Song・・・わわわわ、やっぱしイイ曲やなぁ。
 
 - 佳村萠 (voice)
-
 - 植村昌弘 (drums)
-
 - 大島輝之 (guitars,computer)
-
 - 大谷能生 (synthesizers)
 
 ( [http://silver.ap.teacup.com/-sim-/](http://silver.ap.teacup.com/-sim-/) )
@@ -47,7 +49,6 @@ artists:
 んでも実は壺井さんのプログレ然としたバイオリンの音があんまり好きじゃないんだよなぁぁ・・・とか何とか。
 
 - 鬼怒無月 (guitars)
-
 - 壺井彰久 (violin)
 
 ちなみに集客的にはちょっと淋しいイベントでした。もーちょっと入っても良さそうなものだけど。

@@ -1,12 +1,13 @@
 ---
-title: "石橋英子+Jason Shalton+ナスノミツル+外山明 @三軒茶屋Grapefruit Moon"
+title: '石橋英子+Jason Shalton+ナスノミツル+外山明 @三軒茶屋Grapefruit Moon'
 date: 2006-05-01
-venue: "三軒茶屋Grapefruit Moon"
-source: "wordpress"
+venue: '三軒茶屋Grapefruit Moon'
+source: 'wordpress'
 artists:
-  - "ナスノミツル"
-  - "外山明"
-  - "石橋英子"
+  - 'ナスノミツル'
+  - '外山明'
+  - '石橋英子'
+  - 'Jason Shalton'
 ---
 
 PANICSMILE、MONG-HANGの石橋英子さんを含んだセッション。

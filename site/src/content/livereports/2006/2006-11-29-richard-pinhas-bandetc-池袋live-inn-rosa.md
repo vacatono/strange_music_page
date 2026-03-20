@@ -5,6 +5,13 @@ venue: '池袋LIVE INN ROSA'
 source: 'wordpress'
 artists:
   - '来日公演'
+  - Richard Pinhas Band
+  - Pochakaite Malko
+  - Cherno
+  - Optorum
+  - Ahru
+  - Jerome Schmidt
+  - Antoine Paganotti
 ---
 
 今回のRichard Pinhas Band (ex-HELDON)の来日の中で一番安くてお徳感漂うライブに行ってきましたよ。色々見れるしね。
@@ -50,7 +57,5 @@ artists:
 で思わず来日記念の表と裏でCD/DVDになってるヤツ買ってきて、今PCで聴こうと思ったら2枚分くっついてて厚くてドライブに入りませんでした。トレイタイプじゃなきゃダメなのね。
 
 - Richard Pinhas (guitars,electronics)
-
 - Jerome Schmidt (computer)
-
 - Antoine Paganotti (drums)

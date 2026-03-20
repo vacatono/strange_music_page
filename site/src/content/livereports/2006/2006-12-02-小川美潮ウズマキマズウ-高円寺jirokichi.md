@@ -1,12 +1,17 @@
 ---
-title: "小川美潮ウズマキマズウ @高円寺JIROKICHI"
+title: '小川美潮ウズマキマズウ @高円寺JIROKICHI'
 date: 2006-12-02
-venue: "高円寺JIROKICHI"
-source: "wordpress"
+venue: '高円寺JIROKICHI'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "板倉文"
+  - 小川美潮
+  - 板倉文
+  - whacho
+  - 大川俊司
+  - Ma*To
+  - 川島BANANA
+  - MAC清水
+  - 青山純
 ---
 
 てなわけで久々小川美潮さんのライブを見に高円寺へ行ってきました。
@@ -21,21 +26,17 @@ artists:
 
 あと、遂によーやくCDの録音をはじめたとか。やっぱり形にして残して頂けるのが嬉しいなーとか思いつつ、完成を待ちます。
 
-1st set:  
+#### 1st set:
 
-  
 1. HASU KRIYA
 2. デンキ
 3. 檸檬の月
 4. ???
 5. 良心力学
 6. 4 to 3
-  
 
-  
-2nd set:  
+#### 2nd set:
 
-  
 1. 天国と地獄
 2. はじめて
 3. 恋
@@ -43,29 +44,16 @@ artists:
 5. ???
 6. 人と星の間
 7. 窓
-  
 
-  
-encore:  
+#### encore:
 
-  
 1. おかしな午後
 2. やっとだね
-  
 
-  
-
-  
--   小川美潮 (vocals)
-  
--   大川俊司 (bass,guitars)
-  
--   Ma\*To (keyboards)
-  
--   川島BANANA (piano,synthesizers)
-  
--   WHACHO (percussions)
-  
--   MAC清水 (conga,percussions)
-  
--   青山純 (drums)
+- 小川美潮 (vocals)
+- 大川俊司 (bass,guitars)
+- Ma\*To (keyboards)
+- 川島BANANA (piano,synthesizers)
+- whacho (percussions)
+- MAC清水 (conga,percussions)
+- 青山純 (drums)
