@@ -4,6 +4,7 @@ date: 2007-11-28
 venue: '高円寺JIROKICHI'
 source: 'wordpress'
 artists:
+  - KILLING TIME
   - 'whacho'
   - '斎藤ネコ'
   - '板倉文'
@@ -29,25 +30,28 @@ artists:
 ・年末(12/28)にもう一本ライブが有ります。ゲストいっぱい。  
 ・今日来れなかった方も是非見にくるとイイと思います。
 
-\-1st set  
-1\. PERU  
-2\. 8687  
-3\. Following Evening  
-4\. Sebo Murchose  
-5\. SANFONA (Egberto Gismonti)  
-6\. VACATONO (奴隷の恩返し)  
-7\. SALON
+#### 1st set
 
-\-2nd set  
-1\. undiu (Joao Gilberto)  
-2\. WISH  
-3\. EBRIO  
-4\. Limbo Dance  
-5\. blivits  
-6\. BOB
+1. PERU
+2. 8687
+3. Following Evening
+4. Sebo Murchose
+5. SANFONA (Egberto Gismonti)
+6. VACATONO (奴隷の恩返し)
+7. SALON
 
-\-encore  
-1\. 日没
+#### 2nd set
+
+1. undiu (Joao Gilberto)
+2. WISH
+3. EBRIO
+4. Limbo Dance
+5. blivits
+6. BOB
+
+#### encore
+
+1. 日没
 
 - 板倉文 (guitars)
 - 清水一登 (piano,keyboards,bass clarinet)

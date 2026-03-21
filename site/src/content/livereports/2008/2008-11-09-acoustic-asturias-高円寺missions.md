@@ -27,32 +27,35 @@ artists:
 そいで新譜の「IN SEARCH OF THE SOUL TREES」買ってきました。ちょっとコレについては改めて書くかもしれませんが、ちょっと物凄いかもしんない。  
 ちょっと前に出た「Fate/Zero image soundtrack」に大山さんの「The Lancer」って曲が有って何か吹っ切れたよーな格好よいプログレ曲で。その流れを受けつつ今までのAsturiasの集大成的なアルバムになってます。プログレ者は迷わず買うとイイと思うよ。
 
-1st set:  
-1\. Bird Eyes View  
-2\. WATARIDORI  
-3\. ベタスプレンデス(?)  
-4\. Adolescencia  
-5\. paradise -雲上の楽園  
-6\. woods -迷いの森  
-7\. Waterfall
+#### 1st set:
 
-2nd set:  
-1\. Distance  
-2\. Luminous Flower  
-3\. 草原のルカ  
-4\. 早春  
-5\. Perpetual Motion  
-6\. 黄源の舞  
-7\. Marching Grass On The Hill  
-8\. 邂逅
+1. Bird Eyes View
+2. WATARIDORI
+3. ベタスプレンデス(?)
+4. Adolescencia
+5. paradise -雲上の楽園
+6. woods -迷いの森
+7. Waterfall
 
-encore:  
-1\. dawn -夜明け  
-2\. 神の摂理に挑む者達
+#### 2nd set:
 
-　大山曜 (acoustic guitar)  
-　筒井香織 (clarinet,recorder)  
-　川越好博 (piano)  
-　伊藤恭子 (violin)
+1. Distance
+2. Luminous Flower
+3. 草原のルカ
+4. 早春
+5. Perpetual Motion
+6. 黄源の舞
+7. Marching Grass On The Hill
+8. 邂逅
+
+#### encore:
+
+1. dawn -夜明け
+2. 神の摂理に挑む者達
+
+- 大山曜 (acoustic guitar)
+- 筒井香織 (clarinet,recorder)
+- 川越好博 (piano)
+- 伊藤恭子 (violin)
 
 [http://www.geocities.jp/gonzo1go/home.html](http://www.geocities.jp/gonzo1go/home.html)

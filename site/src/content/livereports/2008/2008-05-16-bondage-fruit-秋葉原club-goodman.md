@@ -4,6 +4,7 @@ date: 2008-05-16
 venue: '秋葉原CLUB GOODMAN'
 source: 'wordpress'
 artists:
+  - 'Bondage Fruit'
   - '勝井祐二'
   - '鬼怒無月'
   - '大坪寛彦'
@@ -18,21 +19,24 @@ artists:
 
 アンコールは1st収録の「金属の胎児」でMCで「年寄りの冷や水的な・・・」って鬼怒さんは言ってましたけど、やっぱ格好イイなぁとか思いました。
 
-1st set:  
-1\. Storm Bird Strom Dreamer  
-2\. ???(何だっけな)  
-3\. ???(たしか新曲)  
-4\. Locomotive  
-5\. Three Voice
+#### 1st set
 
-2nd set:  
-1\. (新曲)  
-2\. Cottleston Pie  
-3\. 影絵が消える  
-4\. Sono-Bank
+1. Storm Bird Strom Dreamer
+2. ???(何だっけな)
+3. ???(たしか新曲)
+4. Locomotive
+5. Three Voice
 
-encore:  
-1\. 金属の胎児
+#### 2nd set
+
+1. (新曲)
+2. Cottleston Pie
+3. 影絵が消える
+4. Sono-Bank
+
+#### encore
+
+1. 金属の胎児
 
 - 鬼怒無月 (guitars)
 - 勝井祐二 (violin)

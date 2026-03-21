@@ -5,6 +5,11 @@ venue: '三軒茶屋Grapefruit Moon'
 source: 'wordpress'
 artists:
   - 'HUNUNHUM'
+  - 君島結
+  - 藤井光
+  - 根本潤
+  - 根本歩
+  - 魚頭圭
 ---
 
 明日から仕事っすね。てなわけで、今日はライブ見に行ってきました。
@@ -16,13 +21,9 @@ artists:
 たぶん正式メンバーはドラム兼鍵盤と鍵盤の２人だと思います。ライブ見るのは２回目ですけど、ちょっと無茶するドラムに鍵盤×３で割とポップなメロディーを演奏してました。面白かったけど音源まだみたい。
 
 - ??? (drums,keyboards)
-
 - ??? (keyboards)
-
 - ??? (percussions)
-
 - ??? (keyboards)
-
 - 根本潤 (sax)
 
 ( [http://www.mouseonthekeys.com/](http://www.mouseonthekeys.com/) )
@@ -34,7 +35,6 @@ artists:
 フロア向けの音でした。
 
 - Daisuke Yamaguchi
-
 - Muneo Ishimoto
 
 ( [http://www.koisikawa.com/](http://www.koisikawa.com/) )

@@ -1,14 +1,18 @@
 ---
-title: "KILLING TIME @渋谷JZ Brat"
+title: 'KILLING TIME @渋谷JZ Brat'
 date: 2008-09-16
-venue: "渋谷JZ Brat"
-source: "wordpress"
+venue: '渋谷JZ Brat'
+source: 'wordpress'
 artists:
-  - "whacho"
-  - "小川美潮"
-  - "斎藤ネコ"
-  - "板倉文"
-  - "清水一登"
+  - KILLING TIME
+  - 板倉文
+  - 斎藤ネコ
+  - 清水一登
+  - MECKEN
+  - 青山純
+  - Ma*To
+  - whacho
+  - 小川美潮
 ---
 
 じいちゃんの葬儀と初七日法要と精進落としを済ませて、新幹線で一ノ関→東京→渋谷。 まぁ当然1st setは終わってましたが。  
@@ -20,34 +24,37 @@ artists:
 
 えーと次回は10/24の高円寺JIROKICHI、ゲストに高橋香織さんでっす。
 
-1st set:  
-1\. PERU  
-2\. 8687  
-3\. Following Evening  
-4\. Fall (新曲)  
-5\. SANFONA  
-6\. Porka for Zippy  
-7\. 奴隷の恩返し  
-8\. SALON
+#### 1st set
 
-2nd set:  
-1\. MIFUNE  
-2\. ヒョーロク玉  
-3\. Limbo's Dance  
-4\. Wish  
-5\. Ebrio  
-6\. BLIVITS  
-7\. BOB
+1. PERU
+2. 8687
+3. Following Evening
+4. Fall (新曲)
+5. SANFONA
+6. Porka for Zippy
+7. 奴隷の恩返し
+8. SALON
 
-encore:  
-1\. Onnari〜pon pon tu pon pon  
-2\. 日没
+#### 2nd set
 
-　板倉文 (guitars)  
-　清水一登 (piano,keyboards,xylophone)  
-　Ma\*To (tabla,keyboards)  
-　斎藤ネコ (violin)  
-　whacho (percussions)  
-　MECKEN (bass)  
-　青山純 (drums)  
-　小川美潮 (vocals on 'Onnari')
+1. MIFUNE
+2. ヒョーロク玉
+3. Limbo's Dance
+4. Wish
+5. Ebrio
+6. BLIVITS
+7. BOB
+
+#### encore
+
+1. Onnari〜pon pon tu pon pon
+2. 日没
+
+- 板倉文 (guitars)
+- 清水一登 (piano,keyboards,xylophone)
+- Ma\*To (tabla,keyboards)
+- 斎藤ネコ (violin)
+- whacho (percussions)
+- MECKEN (bass)
+- 青山純 (drums)
+- 小川美潮 (vocals on 'Onnari')

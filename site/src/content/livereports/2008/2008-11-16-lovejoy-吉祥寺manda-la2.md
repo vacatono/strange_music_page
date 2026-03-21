@@ -23,35 +23,38 @@ bikkeの歌も近藤さんの鍵盤も植村さんのドラムも松永さんの
 セットリストはちょっと思い出せないのですけど「ゼロ」「そこに行くのだ」とか胸のすくよーな気分になりました。（訂正：「ゼロ」じゃなくて「そこに行くのだ」の勘違い・・・恥ずかしいなぁ）  
 新譜（一般発売は12/7みたい）の最後に入ってる「さよなら！」も可愛くて楽しい曲、新譜にも収録されてる「オレンジ」（作業の手が止まるくらい好きな曲）とかも凄く良かったです。
 
-1st set:   
-1\. プロペラ   
-2\. MANNA   
-3\. 世界でいちばん好きな顔   
-4\. しあわせは自分で決める   
-5\. いつもすてき   
-6\. カナン   
-7\. 春   
-8\. 夕雲 
+#### 1st set:
 
-2nd set:   
-1\. 富士   
-2\. 君の名を呼ぶとき   
-3\. オレンジ   
-4\. 日々の彼方   
-5\. Once more please!   
-6\. さよなら！   
-7\. そこに行くのだ   
-8\. sign 
+1. プロペラ
+2. MANNA
+3. 世界でいちばん好きな顔
+4. しあわせは自分で決める
+5. いつもすてき
+6. カナン
+7. 春
+8. 夕雲
 
-encore:   
-1\. 野の人の野のうた   
-2\. at home 
+#### 2nd set:
 
-　bikke (vocals,guitars)  
-　近藤達郎 (piano,keyboards,accordion,chorus)  
-　松永孝義 (bass)  
-　服部夏樹 (guitars,steel guitar)  
-　植村昌弘 (drums)
+1. 富士
+2. 君の名を呼ぶとき
+3. オレンジ
+4. 日々の彼方
+5. Once more please!
+6. さよなら！
+7. そこに行くのだ
+8. sign
+
+#### encore:
+
+1. 野の人の野のうた
+2. at home
+
+- bikke (vocals,guitars)
+- 近藤達郎 (piano,keyboards,accordion,chorus)
+- 松永孝義 (bass)
+- 服部夏樹 (guitars,steel guitar)
+- 植村昌弘 (drums)
 
 ( [http://www.netlaputa.ne.jp/~kndt/LovejoyJ.html](http://www.netlaputa.ne.jp/~kndt/LovejoyJ.html) )  
 ( [http://ljbk.exblog.jp/ )](http://ljbk.exblog.jp/)

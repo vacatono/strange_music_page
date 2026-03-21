@@ -1,11 +1,12 @@
 ---
-title: "加藤英樹 Green Zone @新宿PIT-INN"
+title: '加藤英樹 Green Zone @新宿PIT-INN'
 date: 2008-11-29
-venue: "新宿PIT-INN"
-source: "wordpress"
+venue: '新宿PIT-INN'
+source: 'wordpress'
 artists:
-  - "大友良英"
-  - "植村昌弘"
+  - '大友良英'
+  - '植村昌弘'
+  - '加藤英樹'
 ---
 
 現在NY在住の加藤英樹さんによる「Green Zone」の2nd「Bayt」のレコ発です。えーと初期GROUND-ZEROのトリオって事になります。
@@ -18,6 +19,6 @@ artists:
 
 聴いてて思ったのは「この3人だからこの音になるんだろーなぁ」とかそんな感じ。これが例えばドラム芳垣さんとかだったら全然違う音楽に聴こえるんじゃないかと思います。この3人の為に書かれた曲のよーな気もしますし。
 
-　加藤英樹 (bass)  
-　大友良英 (guitars)  
-　植村昌弘 (drums)
+- 加藤英樹 (bass)
+- 大友良英 (guitars)
+- 植村昌弘 (drums)
