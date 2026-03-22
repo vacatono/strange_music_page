@@ -4,6 +4,7 @@ date: 2009-02-06
 venue: '新宿Pit Inn'
 source: 'mixi'
 artists:
+  - 'Bondage Fruit'
   - '鬼怒無月'
   - '勝井祐二'
   - '高良久美子'

@@ -1,36 +1,37 @@
 ---
-title: "RUINS Alone,MUMU @吉祥寺MANDA-LA2"
+title: 'RUINS Alone,MUMU @吉祥寺MANDA-LA2'
 date: 2009-01-27
-venue: "吉祥寺MANDA-LA2"
-source: "wordpress"
+venue: '吉祥寺MANDA-LA2'
+source: 'wordpress'
 artists:
-  - "吉田達也"
-  - "植村昌弘"
+  - 'RUINS'
+  - 'MUMU'
+  - '吉田達也'
+  - '植村昌弘'
+  - '中根信博'
+  - '坂元一孝'
 ---
 
 #### RUINS Alone
 
-  
 メドレーのように切れ目無く30分以上やってたかな？  
 「RUINS Aloneを目当てに」ライブ見に行くことはあまり無いのですが、RUINSの頃に比べるとテクニカルな感じの曲調が多いなぁとか。
 
 #### MUMU
 
-  
 去年は結構見たような気がする植村昌弘さんのバンド。  
 新曲は「2009 #1」じゃなくて「2009 #2」で、「2009 #1」は来月だそーです。
 
-1\. 2008 #10  
-2\. 2009 #2  
-3\. 2008 #11  
-4\. 2008 #12  
-5\. 2008 #8
+1. 2008 #10
+2. 2009 #2
+3. 2008 #11
+4. 2008 #12
+5. 2008 #8
 
 ( [http://skmt.cooktone.com/mumu.html](http://skmt.cooktone.com/mumu.html) )
 
 #### MUINS(MUMU+吉田達也)
 
-  
 「そのまんまやないけ！」と突っ込みの入りそうなこのユニット名は植村昌弘さんの命名。  
 このセットはMUMUの曲とRUINSの曲をアンコールでちょっとやるだけかなぁ？と思ってたのですが・・・いやー嬉しく予想外でした。
 
@@ -44,13 +45,13 @@ artists:
 
 んでもこの内容やるんだったらもーちょい宣伝してくれればもっと客入ると思うんだけどなぁ。兎に角個人的には12年ぶりに「Horizons」「Sempremorr」を聴けて大満足でした。
 
-1\. Horizons  
-2\. Tregastel  
-3\. 2006 #1  
-4\. Nessang  
-5\. Sempremorr
+1. Horizons
+2. Tregastel
+3. 2006 #1
+4. Nessang
+5. Sempremorr
 
-　吉田達也 (keyboards,vocals,drums)  
-　植村昌弘 (drums,chorus)  
-　中根信博 (trombone)  
-　坂元一孝 (keyboards)
+- 吉田達也 (keyboards,vocals,drums)
+- 植村昌弘 (drums,chorus)
+- 中根信博 (trombone)
+- 坂元一孝 (keyboards)

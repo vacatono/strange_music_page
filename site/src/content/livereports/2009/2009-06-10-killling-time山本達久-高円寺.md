@@ -9,7 +9,7 @@ artists:
   - '斎藤ネコ'
   - '板倉文'
   - '清水一登'
-  - 'mecken'
+  - 'MECKEN'
   - 'Ma*To'
 ---
 
@@ -46,15 +46,9 @@ encore: 
 1. 日没
 
 - 板倉文 (guitars)
-
 - 清水一登 (piano,keyboards)
-
 - Ma\*To (tabla,keybaords)
-
 - whacho (percussions)
-
 - 斎藤ネコ (violin)
-
-- mecken (bass)
-
+- MECKEN (bass)
 - 山本達久 (drums)

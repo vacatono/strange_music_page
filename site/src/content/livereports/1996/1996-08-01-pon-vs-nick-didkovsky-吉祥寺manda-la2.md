@@ -15,13 +15,6 @@ artists:
 
 #えーとDoctor NerveのギタリストN.Didkovskyさんの来日公演、P.O.N.との共演です。
 
-- Nick Didkovsky (guitars)
-- 植村昌弘 (drums)
-- 坪口昌恭 (keyboards)
-- 広瀬淳二 (sax)
-- 高良久美子 (vibraphone)
-- 清水正樹 (bass)
-
 #### 1st set: PON
 
 1. GU #3
@@ -31,7 +24,15 @@ artists:
 5. '94.5.19 #1
 6. GU #6
 
+- 植村昌弘 (drums)
+- 坪口昌恭 (keyboards)
+- 広瀬淳二 (sax)
+- 高良久美子 (vibraphone)
+- 清水正樹 (bass)
+
 #### 2nd set: N.Didkovsky solo
+
+- Nick Didkovsky (guitars)
 
 #### 3rd set: PON + N.Didkovsky
 

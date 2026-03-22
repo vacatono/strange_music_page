@@ -5,6 +5,7 @@ venue: "川崎CLUB CITTA'"
 source: 'wordpress'
 artists:
   - '来日公演'
+  - Curved Air
 ---
 
 そんな訳でたぶん最初で最後のCurved Airの来日公演を見に川崎CLUB CITTAへ。  
@@ -15,10 +16,10 @@ Sonja Kristinaはロックっぽい曲の方が格好イイなぁー。んでも
 
 そいえば、何で入口近くでSoft MachineのCD売ってたんだろう？
 
-　Sonja Krsitina (vocals,acoustic guitar)  
-　Darryl Way (violin,keyboards)  
-　Florian Pilkington-Miksa (drums)  
-　Chris Harris (bass)  
-　Andy Christie (guitars)
+- Sonja Krsitina (vocals,acoustic guitar)
+- Darryl Way (violin,keyboards)
+- Florian Pilkington-Miksa (drums)
+- Chris Harris (bass)
+- Andy Christie (guitars)
 
 チッタのプログレ来日は終わるのが早いので、この後Fred Frithを見に飯田橋へ。

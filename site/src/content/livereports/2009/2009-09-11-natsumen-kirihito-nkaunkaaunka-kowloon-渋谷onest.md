@@ -15,4 +15,6 @@ artists:
 ---
 
 NATSUMENは復活後（山本達久加入後）初めて見ました。いやー相変わらず格好良い、思わずグッときちゃいました。
-　nka unka aunka ってのは解散しちゃったMONG-HANGのメンバーのバンド、相変わらずで面白かったです。（追記：<a href="http://www.youtube.com/watch?gl=JP&hl=ja&v=1v5Sd2L4pTM" target="_blank">YouTubeに映像あった</a>）
+nka unka aunka ってのは解散しちゃったMONG-HANGのメンバーのバンド、相変わらずで面白かったです。
+
+（追記：<a href="http://www.youtube.com/watch?gl=JP&hl=ja&v=1v5Sd2L4pTM" target="_blank">YouTubeに映像あった</a>）

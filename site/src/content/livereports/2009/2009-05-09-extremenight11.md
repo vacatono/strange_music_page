@@ -21,27 +21,33 @@ artists:
 
 Extreme Nightの、もう11回目か、まぁ今回も凄かったよ！！！
 
-[ 1組目 ]
-　金澤美也子 (piano,voice)
-　太田惠資 (violin,voice)
-　TOKIE (bass)
-　山本達久 (drums)
+#### 1組目
+
+- 金澤美也子 (piano,voice)
+- 太田惠資 (violin,voice)
+- TOKIE (bass)
+- 山本達久 (drums)
+
 えーと、この組み合わせは「誰も自重しない」状態でした。
 基本線TOKIEさんのロック色強いベースを主軸に、ピアノとバイオリン、それに変なボイスがバシバシと。
 
-[ 2組目 ]
-　村上巨樹 (guitars)
-　かわいしのぶ (bass)
-　吉田達也 (drums)
+#### 2組目
+
+- 村上巨樹 (guitars)
+- かわいしのぶ (bass)
+- 吉田達也 (drums)
+
 このセットが音的には一番面白かったかなー。抑制効いてる部分と突っ込む部分のバランスが良くて。
 ラストの吉田さんの「じゃぁ全員ボイスで」って無茶振りも可笑しかったです。
 
-[ 3組目 ]
-　KONTA (soprano sax,voice)
-　中島オバヲ (percussions)
-　清水一登 (piano,voice)
-　tatsu (bass)
-　佐藤正治 (drums)
-　さがゆき (voice)
+#### 3組目
+
+- KONTA (soprano sax,voice)
+- 中島オバヲ (percussions)
+- 清水一登 (piano,voice)
+- tatsu (bass)
+- 佐藤正治 (drums)
+- さがゆき (voice)
+
 コレは何つーか色々と反則。清水一登さんがドラムセットに座った時点で「負けた」って思った。
 後半KONTAさんが煽ったと思ったら飛び入りゲストで佐藤正治さんとさがゆきさんが参加、もー気持ちの良いカオスっぷりでした
