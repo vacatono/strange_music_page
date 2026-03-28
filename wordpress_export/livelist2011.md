@@ -6,7 +6,7 @@
 2011/01/15 nombres @関内Stormy Monday
 2011/01/27 KILLING TIME @高円寺JIROKICHI
 
-2011/02/03 アニス&ラカンカ, 佳村萌+秋山徹次+宇波拓 @千駄ヶ谷Loop-Line
+2011/02/03 アニス&ラカンカ, 佳村萠+秋山徹次+宇波拓 @千駄ヶ谷Loop-Line
 2011/02/16 Sleep Walkers @吉祥寺MANDA-LA2
 
 2011/03/02 奥の細道vol.2 (石割桜,te_ri,喜多直毅+金澤美也子,奥州波動0302) @秋葉原CLUB GOODMAN

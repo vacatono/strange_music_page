@@ -48,7 +48,7 @@
 2009/05/26 Christian Vander Solo @岩本町TUC 
 2009/05/27 MAGMA @渋谷O-EAST 
 2009/05/28 MAGMA @渋谷O-EAST 
-2009/05/31 山田民族,杉本拓+佳村萌,sno @千駄ヶ谷loop-line 
+2009/05/31 山田民族,杉本拓+佳村萠,sno @千駄ヶ谷loop-line 
 2009/06/09 KILLING TIME+山本達久 @高円寺JIROKICHI 
 2009/06/15 内橋和久+吉田達也+清水一登+巻上公一 @高円寺Show Boat 
 2009/06/17 Lars Hollmer(1948-2008)を偲んで @秋葉原CLUB-GOODMAN 

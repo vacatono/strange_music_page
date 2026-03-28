@@ -3,7 +3,7 @@
 2003/01/22 ほとらぴからっ @下北沢440
 2003/01/31 Arepos @吉祥寺MANDALA-2
 
-2003/02/09 佳村萌+鬼怒無月+勝井祐二 @下北沢LADY JANE
+2003/02/09 佳村萠+鬼怒無月+勝井祐二 @下北沢LADY JANE
 2003/02/13 Vincent Atmicus @NHK-FMライブビート公開録音
 2003/02/20 ROVO + 広瀬淳二 @NHK-FMライブビート公開録音
 2003/02/22 Bondage Fruit,Mats & Morgan @吉祥寺STAR PINE'S CAFE
@@ -31,7 +31,7 @@
 2003/07/02 清水一登+鬼怒無月+太田惠資 @大泉学園 in F
 2003/07/03 Abu Dhabi ver/00 (オパビニア,ヒデノブイトウ) @渋谷7th floor
 2003/07/17 oscillator,led,asln,msn @渋谷NEST
-2003/07/19 佳村萌+鬼怒無月+勝井祐二+sachi-A @下北沢440
+2003/07/19 佳村萠+鬼怒無月+勝井祐二+sachi-A @下北沢440
 2003/07/27 FUJI ROCK FESTIVAL '03 @苗場スキー場
 2003/07/30 MUMU,る\*しろう,as @吉祥寺MANDALA-2
 

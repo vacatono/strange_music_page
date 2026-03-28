@@ -74,7 +74,7 @@
 2007/10/20 Banco Del Mutuo Soccorso @川崎Club Citta'
 2007/10/22 ニッポニアエレクトロニカ,ASTRO-B,applehead @秋葉原dress Tokyo
 2007/10/24 小川美潮スプラウトウラプス @西荻窪Terra
-2007/10/25 宇波拓,杉本拓,佳村萌 @千駄ヶ谷Loop-line
+2007/10/25 宇波拓,杉本拓,佳村萠 @千駄ヶ谷Loop-line
 2007/10/30 KILLING TIME @目黒Blues Alley Japan 
 
 2007/11/17 福原まり @吉祥寺MANDA-LA2
