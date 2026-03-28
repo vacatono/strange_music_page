@@ -51,7 +51,7 @@ artists:
 
 - 板倉文 (guitars)
 - 清水一登 (piano,keyboards,bass clarinet)
-- Whacho (percussions)
+- whacho (percussions)
 - Ma\*To (tabla,keyboards)
 - Mecken (bass)
 - 小林武文 (drums)

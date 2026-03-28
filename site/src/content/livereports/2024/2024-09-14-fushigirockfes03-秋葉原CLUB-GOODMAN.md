@@ -22,7 +22,7 @@ artists:
   - '瀬戸尚之'
   - '吉田一夫'
   - '大沼あい'
-  - '石垣翔太'
+  - '石垣翔大'
   - 'ムJAPAN'
   - '西平匠杜'
   - 'ヴァイオラ伊藤'
@@ -71,7 +71,7 @@ artists:
 
 ### 曇ヶ原
 
-- 石垣翔太 (vocals, guitars)
+- 石垣翔大 (vocals, guitars)
 - ムJAPAN (drums)
 - 西平匠杜 (bass)
 - ヴァイオラ伊藤 (guitars)

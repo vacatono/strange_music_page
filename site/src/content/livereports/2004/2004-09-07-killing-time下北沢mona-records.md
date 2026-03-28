@@ -10,7 +10,7 @@ artists:
   - '斎藤ネコ'
   - 'Mecken'
   - 'Ma*To'
-  - 'Whacho'
+  - 'whacho'
 ---
 
 1999/4/7以来の東京でのライヴです。（こないだの山中湖は行けなかったので）
@@ -47,7 +47,7 @@ artists:
 - 斎藤ネコ (violin)
 - Mecken (bass)
 - Ma\*To (tabla)
-- Whacho (percussions)
+- whacho (percussions)
 
 こんなに緩くていい加減で、それでも楽しいライヴはなかなか無いなと思います。
 

@@ -41,4 +41,4 @@ artists:
 - 大川俊司 (bass,guitars)
 - 勝俣伸吾 (piano)
 - 板倉文 (guitars)
-- Whacho (percussions)
+- whacho (percussions)

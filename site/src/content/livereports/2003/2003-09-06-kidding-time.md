@@ -5,7 +5,7 @@ venue: '新木場AGEHA'
 source: 'html'
 artists:
   - 'Ma*To'
-  - 'Whacho'
+  - 'whacho'
   - '青山純'
   - 'RA'
   - '小滝満'
@@ -30,7 +30,7 @@ artists:
 ## メンバー
 
 - Ma\*To (keyboards)
-- Whacho (percussions)
+- whacho (percussions)
 - 青山純 (drums)
 - RA (guitars)
 - 小滝満 (keyboards)

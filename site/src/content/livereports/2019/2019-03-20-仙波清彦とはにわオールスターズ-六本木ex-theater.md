@@ -18,7 +18,7 @@ artists:
   - '高橋香織'
   - '斎藤ネコ'
   - '太田惠資'
-  - 'Whacho'
+  - 'whacho'
   - '岡部洋一'
   - '八尋知洋'
   - 'ASA-CHANG'
@@ -119,7 +119,7 @@ artists:
 - 高橋香織 (violin)
 - 斎藤ネコ (violin)
 - 太田惠資 (violin)
-- Whacho (percussion)
+- whacho (percussion)
 - 岡部洋一 (percussion)
 - 八尋知洋 (percussion)
 - ASA-CHANG (percussion)

@@ -35,7 +35,7 @@ artists:
 - 大川俊司 (bass)
 - 川島BANANA (piano,synthesizer)
 - 板倉文 (guitars)
-- Whacho (percussions)
+- whacho (percussions)
 - Ma\*To (keyboards)
 - 仙波清彦 (drums)
 

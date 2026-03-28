@@ -34,4 +34,4 @@ artists:
 - 斎藤ネコ (violin)
 - MECKEN (bass)
 - MAC清水 (percussions)
-- Whacho (電話の声)
+- whacho (電話の声)

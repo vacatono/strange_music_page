@@ -9,7 +9,7 @@ artists:
   - 'Ma*To'
   - '斎藤ネコ'
   - 'Mecken'
-  - 'Whacho'
+  - 'whacho'
   - '小川美潮'
   - '直枝政広'
   - '太田譲'
@@ -54,7 +54,7 @@ setlist:
 - Ma\*To (tabla,synthesizer)
 - 斎藤ネコ (violin)
 - Mecken (bass)
-- Whacho (percussions)
+- whacho (percussions)
 - 小川美潮 (vocals on 4.5.6.)
 
 ### CARNATION
