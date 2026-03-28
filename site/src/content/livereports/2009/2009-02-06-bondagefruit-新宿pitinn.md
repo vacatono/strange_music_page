@@ -1,7 +1,7 @@
 ---
-title: 'Bondage Fruit @ 新宿Pit Inn'
+title: 'Bondage Fruit @ 新宿PIT-INN'
 date: 2009-02-06
-venue: '新宿Pit Inn'
+venue: '新宿PIT-INN'
 source: 'mixi'
 artists:
   - 'Bondage Fruit'

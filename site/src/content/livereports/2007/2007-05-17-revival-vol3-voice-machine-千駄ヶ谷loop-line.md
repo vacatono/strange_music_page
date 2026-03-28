@@ -1,7 +1,7 @@
 ---
 title: 'revival vol.3 -voice + machine- @千駄ヶ谷Loop-line'
 date: 2007-05-17
-venue: '千駄ヶ谷Loop-line'
+venue: '千駄ヶ谷Loop-Line'
 source: 'wordpress'
 artists:
   - '佳村萠'

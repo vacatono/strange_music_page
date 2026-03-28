@@ -1,7 +1,7 @@
 ---
-title: 'Farmers Market @ 新宿PIT INN'
+title: 'Farmers Market @ 新宿PIT-INN'
 date: 2008-05-25
-venue: '新宿PIT INN'
+venue: '新宿PIT-INN'
 source: 'wordpress'
 artists:
   - '来日公演'
