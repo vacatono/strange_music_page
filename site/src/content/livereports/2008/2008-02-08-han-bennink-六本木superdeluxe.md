@@ -1,6 +1,6 @@
 ---
 title: 'Han Bennink, HUNUNHUM, lite, Mike Watt+ Kramer + Samm Bennett @六本木Super Deluxe'
-date: 2008-02-09
+date: 2008-02-08
 venue: '六本木Super Deluxe'
 source: 'mixi'
 artists:
