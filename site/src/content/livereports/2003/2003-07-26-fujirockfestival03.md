@@ -107,9 +107,9 @@ artists:
 
 18:00
 
-オレンジコートではSUN RA ARKESTRAとかやってたんですが、ちょっと息抜きにウロウロしてたらAVALONの方から面白そうな音が聴こえてきて。行ってみたら渋さの室舘アヤさんがvibraphoneを演奏してて・・・IMOってこのバンドの事だったんですね。
+オレンジコートではSUN RA ARKESTRAとかやってたんですが、ちょっと息抜きにウロウロしてたらAVALONの方から面白そうな音が聴こえてきて。行ってみたら渋さの室舘彩さんがvibraphoneを演奏してて・・・IMOってこのバンドの事だったんですね。
 
-- 室舘アヤ (vibraphone,flute,toys)
+- 室舘彩 (vibraphone,flute,toys)
 - 泉邦宏 (sax)
 - おのあき (bass)
 - 関根真理 (percussions)

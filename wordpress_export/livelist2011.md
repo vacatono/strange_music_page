@@ -31,7 +31,7 @@
 
 2011/08/06 東京ザッパラス, wine's, Free Rock Project @吉祥寺Silver Elephant
 2011/08/11 先カンブリアクラリネット四重奏団 @西荻窪音や金時
-2011/08/13 金澤美也子+太田恵資 @入谷なってるハウス
+2011/08/13 金澤美也子+太田惠資 @入谷なってるハウス
 2011/08/26 LAGITAGIDA, にせんねんもんだい, hununhum, GAGAKIRISE @渋谷O-NEST
 
 2011/09/03 Round House, Electric Asturias @赤坂GRAFFITTI

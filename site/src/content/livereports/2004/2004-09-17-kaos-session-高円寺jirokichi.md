@@ -7,7 +7,7 @@ artists:
   - '仙波清彦'
   - '小川美潮'
   - '板倉文'
-  - '高橋佳織'
+  - '高橋香織'
   - '一本茂樹'
   - '吉森信'
 ---
@@ -29,7 +29,7 @@ artists:
 13. Feelings
 14. ウェイトレス
 
-- 高橋佳織 (violin)
+- 高橋香織 (violin)
 - 仙波清彦 (drums)
 - 一本茂樹 (bass)
 - 吉森信 (piano,hammond,accordion,pianica)

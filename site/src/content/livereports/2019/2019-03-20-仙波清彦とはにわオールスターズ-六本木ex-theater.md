@@ -17,7 +17,7 @@ artists:
   - '小川美潮'
   - '高橋香織'
   - '斎藤ネコ'
-  - '太田恵資'
+  - '太田惠資'
   - 'Whacho'
   - '岡部洋一'
   - '八尋知洋'
@@ -118,7 +118,7 @@ artists:
 - 小川美潮 (vocals)
 - 高橋香織 (violin)
 - 斎藤ネコ (violin)
-- 太田恵資 (violin)
+- 太田惠資 (violin)
 - Whacho (percussion)
 - 岡部洋一 (percussion)
 - 八尋知洋 (percussion)

@@ -4,12 +4,11 @@ date: 2017-08-19
 venue: '吉祥寺CLUB SEATA'
 source: 'wordpress'
 artists:
-  - '源平討魔伝激奏禄'
   - '中潟憲雄'
   - '桜井良行'
   - '三苫裕文'
   - '川上達朗'
-  - '菅野史郎'
+  - '菅野詩郎'
   - '松原まり'
 ---
 
@@ -30,7 +29,7 @@ artists:
 - 桜井良行 (bass)
 - 三苫裕文 (guitars)
 - 川上達朗 (drums)
-- 菅野史郎 (drums)
+- 菅野詩郎 (drums)
 
 - 松原まり (violin)
 - 梅田NORI (vocals)

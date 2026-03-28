@@ -7,7 +7,7 @@ artists:
   - 小川美潮
   - 板倉文
   - 大川俊司
-  - 川島BANANA裕二
+  - BANANA-UG
   - Ma*To
   - 青山純
   - MAC清水

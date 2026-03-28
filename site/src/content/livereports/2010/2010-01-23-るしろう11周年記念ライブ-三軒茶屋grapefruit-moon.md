@@ -1,14 +1,15 @@
 ---
-title: 'る*しろう11周年記念ライブ @三軒茶屋Grapefruit moon'
+title: 'る＊しろう11周年記念ライブ @三軒茶屋Grapefruit moon'
 date: 2010-01-23
 venue: '三軒茶屋Grapefruit moon'
 source: 'wordpress'
 artists:
+  - 'る＊しろう'
   - '清水一登'
   - '金澤美也子'
   - '井筒好治'
   - '菅沼道昭'
-  - 'taiqui'
+  - 'Taiqui'
   - '鈴木和美'
   - '福島幹夫'
   - '小埜涼子'
@@ -49,7 +50,7 @@ artists:
 - 金澤美也子 (piano,voice)
 - 井筒好治 (guitars,voice)
 - 菅沼道昭 (drums,voice)
-- taiqui (drums)
+- Taiqui (drums)
 - 鈴木和美 (flute)
 - 福島幹夫 (sax)
 - 小埜涼子 (sax)

@@ -12,10 +12,10 @@ artists:
   - '岡部洋一'
   - '芳垣安英'
   - '高良久美子'
-  - '大野由実子'
+  - '大野由美子'
 ---
 
-ROVOにBondage Fruitの高良久美子(vibraphone,percussions)とBuffalo Daughterの大野由実子(steel pan,moog,bass)を加えたセッション
+ROVOにBondage Fruitの高良久美子(vibraphone,percussions)とBuffalo Daughterの大野由美子(steel pan,moog,bass)を加えたセッション
 「ROVOの曲」って言われても信じちゃうよーな演奏でしたけど、全部即興みたい。
 
 - 山本精一 (guitars)
@@ -25,4 +25,4 @@ ROVOにBondage Fruitの高良久美子(vibraphone,percussions)とBuffalo Daughte
 - 岡部洋一 (drums)
 - 芳垣安英 (drums)
 - 高良久美子 (vibraphone,percussions)
-- 大野由実子 (steel pan,moog,bass)
+- 大野由美子 (steel pan,moog,bass)

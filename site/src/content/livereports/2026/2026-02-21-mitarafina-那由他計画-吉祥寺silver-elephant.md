@@ -10,7 +10,7 @@ artists:
   - 'Raphy'
   - '田中隆司'
   - '宇治金時'
-  - '菅野詩朗'
+  - '菅野詩郎'
   - '塚田円'
   - '月本美香'
   - '重本遼大郎'
@@ -35,7 +35,7 @@ artists:
 - Raphy (guitars)
 - 田中隆司 (keyboards)
 - 宇治金時 (double neck bass)
-- 菅野詩朗 (drums)
+- 菅野詩郎 (drums)
 
 ### 那由他計画
 

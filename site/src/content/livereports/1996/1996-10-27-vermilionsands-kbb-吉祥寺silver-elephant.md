@@ -11,7 +11,7 @@ artists:
   - 工藤源大
   - 広瀬泰行
   - 壷井彰久
-  - 菅野詩朗
+  - 菅野詩郎
   - DANI
   - 高橋利光
 ---
@@ -27,6 +27,6 @@ artists:
 ### KBB
 
 - 壷井彰久 (violin)
-- 菅野詩朗 (drums)
+- 菅野詩郎 (drums)
 - DANI (bass)
 - 高橋利光 (keyboards)

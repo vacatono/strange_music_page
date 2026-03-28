@@ -7,7 +7,7 @@ artists:
   - '板倉文'
   - '清水一登'
   - 'Ma*To'
-  - '斉藤ネコ'
+  - '斎藤ネコ'
   - 'Mecken'
   - 'Whacho'
   - '小川美潮'
@@ -52,7 +52,7 @@ setlist:
 - 板倉文 (guitars)
 - 清水一登 (piano,xylophone)
 - Ma\*To (tabla,synthesizer)
-- 斉藤ネコ (violin)
+- 斎藤ネコ (violin)
 - Mecken (bass)
 - Whacho (percussions)
 - 小川美潮 (vocals on 4.5.6.)

@@ -6,7 +6,7 @@ source: 'wordpress'
 artists:
   - '来日公演'
   - 'Benoit Moerlen'
-  - '菅野詩朗'
+  - '菅野詩郎'
   - '中嶋洋隆'
   - '林隆史'
   - '河崎今日子'
@@ -43,11 +43,7 @@ Benoit Moerlenは、割と小柄で細身な方なのですがマレットを持
 2\. Tequilla
 
 - Benoit Moerlen (marimba, midi-vibe)
-
-- 菅野詩朗 (drums)
-
+- 菅野詩郎 (drums)
 - 中嶋洋隆 (bass)
-
 - 林隆史 (guitars)
-
 - 河崎今日子 (violin)

@@ -15,7 +15,7 @@
 2003/03/21 feep,GPNZ @西荻窪BINSPARK
 2003/03/22 Lars Hollmer's SOLA @表参道FAB
 
-2003/04/11 清水一登+梅津和時+太田資恵 @大泉学園in F
+2003/04/11 清水一登+梅津和時+太田惠資 @大泉学園in F
 2003/04/25 ヒカシュー @吉祥寺STAR PINE'S CAFE
 2003/04/28 nino trinca,ISSAY meets DOLLY @初台DOORS
 
@@ -28,7 +28,7 @@
 2003/06/13 UNBEVA! vol/9 (清水一登) @新宿ロフトプラスワン
 2003/06/14 らくだカルテット @新宿PIT-INN
 
-2003/07/02 清水一登+鬼怒無月+太田恵資 @大泉学園 in F
+2003/07/02 清水一登+鬼怒無月+太田惠資 @大泉学園 in F
 2003/07/03 Abu Dhabi ver/00 (オパビニア,ヒデノブイトウ) @渋谷7th floor
 2003/07/17 oscillator,led,asln,msn @渋谷NEST
 2003/07/19 佳村萌+鬼怒無月+勝井祐二+sachi-A @下北沢440

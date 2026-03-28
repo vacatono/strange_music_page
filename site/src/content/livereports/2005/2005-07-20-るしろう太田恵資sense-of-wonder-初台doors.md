@@ -1,5 +1,5 @@
 ---
-title: 'る*しろう,太田恵資,SENSE OF WONDER @初台DOORS'
+title: 'る*しろう,太田惠資,SENSE OF WONDER @初台DOORS'
 date: 2005-07-20
 venue: '初台DOORS'
 source: 'wordpress'
@@ -29,7 +29,7 @@ artists:
 
 1. ソレイユ
 2. (おんばしら・・・だっけな？)
-3. 鳥 (w/太田恵資)
+3. 鳥 (w/太田惠資)
 4. ヲーリーすーる
 5. マジックカーペットライド
 6. 鳩
@@ -38,7 +38,7 @@ artists:
 - 井筒好治 (guitars,voice)
 - 菅沼道昭 (drums,voice)
 
-### 太田恵資
+### 太田惠資
 
 合間に太田さんソロ。ループサンプラー使って自分の音をベースに組み立てていく感じの演奏。前に見たFernando Kabusackiのソロみたい。
 
@@ -60,7 +60,7 @@ artists:
 - 夏への扉
 - 渇きの海
 - 夢中楼閣
-- Hoedown (w/太田恵資)
+- Hoedown (w/太田惠資)
 - Nutrocker (w/金澤美也子)
 
 <p></p>

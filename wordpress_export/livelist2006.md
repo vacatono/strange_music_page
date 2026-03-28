@@ -4,7 +4,7 @@
 20060114 円盤ジャンボリー @渋谷O-NEST
 20060121 YOZIGENN,nhhmbase,よ\*トリオ,PANICSMILE,Bossston Cruising Mania @三軒茶屋Grapefruit Moon 
 
-20060219 金澤美也子+太田恵資 @大泉学園 in F
+20060219 金澤美也子+太田惠資 @大泉学園 in F
 20060222 佳村萠+坂本弘道 @大泉学園 in F
 20060225 石橋英子,PANICSMILE,MONG HANG @新高円寺CLUB LINER 
 
@@ -13,7 +13,7 @@
 20060316 unbeltipo duo,eEYO idiot @吉祥寺MANDA-LA2
 20060318 Flat122 @高円寺ペンギンハウス
 20060324 ijar connect,sim+佳村萠,ERA @池袋LIVE-INN ROSA
-20060330 小川美潮+清水一登+太田恵資 @大泉学園 in F 
+20060330 小川美潮+清水一登+太田惠資 @大泉学園 in F 
 
 20060401 Asturias,Round House @初台DOORS
 20060407 神谷きよみ @池ノ上ボブテイル

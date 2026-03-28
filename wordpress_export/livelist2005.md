@@ -36,7 +36,7 @@
 20050708 小川美潮 @高円寺JIROKICHI
 20050709 トウヤマタケオ楽団,SAKEROCK,カセットコンロス,ヨロ昆布 @渋谷CLUB QUATTRO
 20050717 Altered States,NATSUMEN @渋谷O-NEST
-20050720 る＊しろう,太田恵資,SENSE OF WONDER @初台DOORS
+20050720 る＊しろう,太田惠資,SENSE OF WONDER @初台DOORS
 20050729 「モ　ュレ　シ　ン」 @六本木P-HOUSE 
 
 20050804 シャクシャイン @新宿PIT-INN
