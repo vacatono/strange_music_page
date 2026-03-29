@@ -10,6 +10,7 @@ artists:
   - 松永孝義
   - 小峰公子
 ---
+
 - 杉林恭雄 (guitars,vocals)
 - 楠均 (drums)
 - 松永孝義 (bass)
