@@ -1,13 +1,13 @@
 ---
-title: "奥の細道 vol.3 @ 秋葉原CLUB GOODMAN"
+title: '奥の細道 vol.3 @ 秋葉原CLUB GOODMAN'
 date: 2011-09-20
 venue: 秋葉原CLUB GOODMAN
 source: wordpress
 artists:
-  - "石割桜
+  - 石割桜
   - te_ri
-  - "喜多直毅
-  - "吉田達也"
+  - 喜多直毅
+  - 吉田達也
   - ナスノミツル
   - 村上巨樹
   - 坂口光央
