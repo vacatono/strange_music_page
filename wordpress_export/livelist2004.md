@@ -23,7 +23,7 @@
 2004/04/29 あぶらだこ,ECD @NHKライブビート公開収録
 2004/04/30 る\*しろう,ピラルク,大文字 @三軒茶屋Grapefruit Moon
 
-2004/05/04 Abu Dhabi ver/03 @六本木SUPER DELUXE
+2004/05/04 Abu Dhabi ver/03 @六本木Super Deluxe
 2004/05/29 NATSUMEN @下北沢ERA
 
 2004/06/12 FLAT122 @高円寺ペンギンハウス

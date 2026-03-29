@@ -3,16 +3,16 @@
 2012/01/08 ptf, The Peach Sunfish, FLAT122 @吉祥寺Silver Elephant
 2012/01/27 ペットボトル人間 @稲毛Candy
 2012/02/04 Acoustic Asturias @池袋シャロン・ゴスペル・チャーチ
-2012/02/11 是巨人+壷井彰久, Univers Zero @吉祥寺Star Pine's Cafe
-2012/02/11 Univers Zero @吉祥寺Star Pine's Cafe
-2012/02/11 Electric Asturias, Univers Zero @吉祥寺Star Pine's Cafe
+2012/02/11 是巨人+壷井彰久, Univers Zero @吉祥寺STAR PINE'S CAFE
+2012/02/11 Univers Zero @吉祥寺STAR PINE'S CAFE
+2012/02/11 Electric Asturias, Univers Zero @吉祥寺STAR PINE'S CAFE
 2012/02/18 金澤美也子+熊坂るつこ @入谷なってるハウス
 2012/02/19 加藤崇之+清水一登+植村昌弘 @渋谷Bar Isshee
 2012/02/20 NH-Trio, Tail'z, KTG @三軒茶屋Grapefruit Moon
 2012/02/25 Kelly Churko, Todd Nicolson, 山本達久 @稲毛Candy
 2012/03/03 黒沢ダイスケProgressive Band, Enciphers&Deciphers, Stella Lee Jones @吉祥寺Silver Elephant
 2012/03/18 KTG, baraka @吉祥寺Silver Elephant
-2012/03/31 Electric Asturias @吉祥寺Star Pine's Cafe
+2012/03/31 Electric Asturias @吉祥寺STAR PINE'S CAFE
 2012/04/14 FLAT122 @吉祥寺Silver Elephant
 2012/04/28 金澤美也子+かわいしのぶ+植村昌弘 @渋谷Bar Isshee
 2012/05/10 加藤崇之+清水一登+植村昌弘 @渋谷Bar Isshee

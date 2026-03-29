@@ -1,7 +1,7 @@
 ---
-title: 'Red Krayola,Thermo,テニスコーツ @ 横浜Thumb’s Up'
+title: 'Red Krayola,Thermo,テニスコーツ @ 横浜THUMBS UP'
 date: 2005-03-11
-venue: '横浜Thumb’s Up'
+venue: '横浜THUMBS UP'
 source: 'wordpress'
 artists:
   - 来日公演

@@ -1,7 +1,7 @@
 ---
-title: 'The Peach Sunfish,Stella Lee Jones,Ruins Alone @高円寺MISSIONS'
+title: "The Peach Sunfish,Stella Lee Jones,Ruins Alone @高円寺MISSION'S"
 date: 2009-12-25
-venue: '高円寺MISSIONS'
+venue: "高円寺MISSION'S"
 source: 'wordpress'
 artists:
   - Stella Lee Jones

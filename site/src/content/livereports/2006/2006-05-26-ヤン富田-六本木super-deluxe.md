@@ -1,7 +1,7 @@
 ---
-title: 'ヤン富田 @六本木SUPER DELUXE'
+title: 'ヤン富田 @六本木Super Deluxe'
 date: 2006-05-26
-venue: '六本木SUPER DELUXE'
+venue: '六本木Super Deluxe'
 source: 'wordpress'
 artists:
   - ヤン富田

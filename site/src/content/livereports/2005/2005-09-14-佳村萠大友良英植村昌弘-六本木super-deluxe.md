@@ -1,7 +1,7 @@
 ---
-title: '佳村萠+大友良英+植村昌弘 @六本木SUPER DELUXE'
+title: '佳村萠+大友良英+植村昌弘 @六本木Super Deluxe'
 date: 2005-09-14
-venue: '六本木SUPER DELUXE'
+venue: '六本木Super Deluxe'
 source: 'wordpress'
 artists:
   - '佳村萠'

@@ -1,7 +1,7 @@
 ---
-title: "Quartet Asturias, Electric Asturias @吉祥寺Star Pine's Cafe"
+title: "Quartet Asturias, Electric Asturias @吉祥寺STAR PINE'S CAFE"
 date: 2021-02-13
-venue: "吉祥寺Star Pine's Cafe"
+venue: "吉祥寺STAR PINE'S CAFE"
 source: 'keep'
 artists:
   - 'Asturias'

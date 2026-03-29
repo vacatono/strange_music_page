@@ -1,7 +1,7 @@
 ---
-title: 'KON-RIN-ZAI #6 @ 高円寺ShowBoat'
+title: 'KON-RIN-ZAI #6 @ 高円寺Show Boat'
 date: 2009-03-27
-venue: '高円寺ShowBoat'
+venue: '高円寺Show Boat'
 source: 'mixi'
 artists:
   - 吉田達也

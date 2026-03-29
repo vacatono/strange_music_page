@@ -25,7 +25,7 @@
 20060513 捏造と贋作,川喜多美子,ジャック達 @代々木Zher The Zoo
 20060520 大友良英 @下北沢LADY JANE
 20060524 ubiquitous @新宿PIT-INN
-20060526 ヤン富田 @六本木SUPER DELUXE 
+20060526 ヤン富田 @六本木Super Deluxe 
 
 20060611 first day action,andersons,MSN nano version,箱庭の室内楽 @三軒茶屋Grapefruit Moon
 20060624 月比古 @蔵前KURAWOOD
@@ -51,7 +51,7 @@
 20061002 石橋英子+ナスノミツル+吉田達也,片山省吾,RUINS Alone,music from the mars @青山月見ル君想フ
 20061006 解明の出来ない音楽会 @初台DOORS
 20061008 Era,Asturias @池袋LIVE-INN ROSA
-20061010 Salle Gaveau,Tristan Holsinger @六本木SUPER DELUXE
+20061010 Salle Gaveau,Tristan Holsinger @六本木Super Deluxe
 20061013 大友良英サウンドトラックス @吉祥寺MANDA-LA2
 20061021 rawlife @新木場
 20061026 佳村萠+杉本拓,ホース @明大前KID AILACK HALL 

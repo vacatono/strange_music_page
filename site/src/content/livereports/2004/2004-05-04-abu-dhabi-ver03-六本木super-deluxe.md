@@ -1,7 +1,7 @@
 ---
-title: 'Abu Dhabi ver.03 @六本木SUPER DELUXE'
+title: 'Abu Dhabi ver.03 @六本木Super Deluxe'
 date: 2004-05-04
-venue: '六本木SUPER DELUXE'
+venue: '六本木Super Deluxe'
 source: 'wordpress'
 artists:
   - Altered States

@@ -3,8 +3,8 @@
 1993/03/01 zabadak @中野サンプラザ
 1993/09/25 zabadak @日比谷野外音楽堂
 
-1994/04/08 Gerard,VIENNA,Sense of Wonder @渋谷ON-AIR WEST
-1994/04/25 SCHEHERAZADE @渋谷ON-AIR WEST
+1994/04/08 Gerard,VIENNA,Sense of Wonder @渋谷ON AIR WEST
+1994/04/25 SCHEHERAZADE @渋谷ON AIR WEST
 1994/05/02 Providence @吉祥寺Silver Elephant
 
 1995/05/04 Providence @吉祥寺Silver Elephant

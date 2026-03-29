@@ -52,7 +52,7 @@
 20050903 tristeza @渋谷O-NEST
 20050904 西新宿でプログレ @スナックニッポニア
 20050910 unbeltipo solo,eEYO idiot @吉祥寺MANDALA-2
-20050913 佳村萠+大友良英+植村昌弘 @六本木SUPER DELUXE
+20050913 佳村萠+大友良英+植村昌弘 @六本木Super Deluxe
 20050916 MAGMA @渋谷O-NEST
 20050918 めいなCo.+Uzhaan+佳村萠 @音や金時
 20050924 Pochakaite Malko,る\*しろう,machine and the synergetic nuts @初台DOORS 

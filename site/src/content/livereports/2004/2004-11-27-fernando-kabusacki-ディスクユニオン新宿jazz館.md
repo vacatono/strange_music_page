@@ -1,7 +1,7 @@
 ---
-title: 'Fernando Kabusacki @ディスクユニオン新宿JAZZ館'
+title: 'Fernando Kabusacki @ disk union新宿JAZZ館'
 date: 2004-11-27
-venue: 'ディスクユニオン新宿JAZZ館'
+venue: 'disk union新宿JAZZ館'
 source: 'wordpress'
 artists:
   - '来日公演'

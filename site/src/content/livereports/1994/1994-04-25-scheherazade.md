@@ -1,7 +1,7 @@
 ---
-title: 'SCHEHERAZADE @ 渋谷ON-AIR WEST'
+title: 'SCHEHERAZADE @ 渋谷ON AIR WEST'
 date: 1994-04-25
-venue: '渋谷ON-AIR WEST'
+venue: '渋谷ON AIR WEST'
 source: 'html'
 artists:
   - '平山照継'

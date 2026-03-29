@@ -1,7 +1,7 @@
 ---
-title: "Electric Asturias, KBB @ 吉祥寺Star Pine's Cafe"
+title: "Electric Asturias, KBB @ 吉祥寺STAR PINE'S CAFE"
 date: 2010-03-27
-venue: "吉祥寺Star Pine's Cafe"
+venue: "吉祥寺STAR PINE'S CAFE"
 source: 'twitter'
 artists:
   - 'Electric Asturias'

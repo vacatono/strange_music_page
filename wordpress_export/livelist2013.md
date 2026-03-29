@@ -19,7 +19,7 @@
 2013/03/31 プログレイースター (Yumi Hara Cawkwell+MEW+浅野敦) @神田ISOLDE
 2013/04/01 世代格差セッション(くどうげんた+梶山シュウ+木田美由紀) @西荻窪奇聞屋
 2013/04/11 ロマンスグレーサウンドスケープ+清水一登 @吉祥寺foxhole
-2013/04/13 Electric Asturias @吉祥寺Star Pine's Cafe
+2013/04/13 Electric Asturias @吉祥寺STAR PINE'S CAFE
 2013/04/25 MUMU, Gilgongo @荻窪ルースターノースサイド
 2013/04/26 Maxophone, Museo Rosenbach @川崎Club Citta'
 2013/04/27 Happy Family, multiple, Zletovsko @吉祥寺Silver Elephant
@@ -45,7 +45,7 @@
 2013/11/08 鬼怒無月 @稲毛Candy
 2013/11/20 Gilgongo, MUMU @荻窪ルースターノースサイド
 2013/11/23 Stella Lee Jones @吉祥寺Silver Elephant
-2013/12/01 Electric Asturias @吉祥寺Star Pine's Cafe
+2013/12/01 Electric Asturias @吉祥寺STAR PINE'S CAFE
 2013/12/21 変拍子で踊ろうvol.12 @秋葉原CLUB GOODMAN
 2013/12/27 る＊しろう,MUMU @吉祥寺MANDA-LA2
 2013/12/29 IMAGO @東京倶楽部 本郷店

@@ -1,7 +1,7 @@
 ---
-title: "Jap's Progressive Rock 1970-1990 @ 渋谷ON-AIR WEST"
+title: "Jap's Progressive Rock 1970-1990 @ 渋谷ON AIR WEST"
 date: 1994-04-08
-venue: '渋谷ON-AIR WEST'
+venue: '渋谷ON AIR WEST'
 source: 'html'
 artists:
   - '永川敏郎'

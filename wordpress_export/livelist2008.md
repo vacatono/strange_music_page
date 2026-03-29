@@ -14,8 +14,8 @@
 2008/01/22 MUMU,る*しろう @吉祥寺MANDA-LA2
 2008/01/25 KILLING TIME @神楽坂シアターイワト
 2008/02/01 Mike Keneally @原宿アストロホール
-2008/02/08 Han Bennink,HUNUNHUM,Lite,Mike Watt @六本木SUPER DELUXE
-2008/02/09 Han Bennink @六本木SUPER DELUXE
+2008/02/08 Han Bennink,HUNUNHUM,Lite,Mike Watt @六本木Super Deluxe
+2008/02/09 Han Bennink @六本木Super Deluxe
 2008/02/10 内核の波,る*しろう,是巨人 @渋谷LUSH
 2008/02/16 神谷きよみ,ROMA 1/4 @池ノ上ボブテイル
 2008/02/17 MUMU,即興巨人 @吉祥寺MANDA-LA2
@@ -47,7 +47,7 @@
 2008/07/12 d.v.d,Giraphant @初台DOORS
 2008/07/15 KILLING TIME @高円寺JIROKICHI
 2008/08/04 清水一登クラリネットカルテット @西荻窪音や金時
-2008/08/08 山本精一+吉田達也+石橋英子+ナスノミツル @高円寺SHOW BOAT
+2008/08/08 山本精一+吉田達也+石橋英子+ナスノミツル @高円寺Show Boat
 2008/08/23 スプラゥトゥラプス @国立地球屋
 2008/09/03 Faust @恵比寿LiquidRoom
 2008/09/04 福原まり @吉祥寺MANDA-LA2
@@ -57,7 +57,7 @@
 2008/09/20 大友良英セッション @新宿PIT-INN
 2008/09/21 ウヅマキマヅウ @高円寺JIROKICHI
 2008/09/23 Optimist,キリヤマ隊長 @新橋ZZ
-2008/09/30 パスカルズ,斉藤哲也Group @吉祥寺Star Pine's Cafe
+2008/09/30 パスカルズ,斉藤哲也Group @吉祥寺STAR PINE'S CAFE
 2008/10/06 広瀬淳二+大友良英+芳垣安洋 @入谷なってるハウス
 2008/10/17 梅津和時+津山篤+金澤美也子 @渋谷Bar Isshe
 2008/10/08 acoustic asturias @高円寺MISSION'S
@@ -72,7 +72,7 @@
 2008/11/28 Kon-Rin-Zai #5 @高円寺Show Boat
 2008/11/29 加藤英樹 Green Zone @新宿PIT-INN
 2008/11/30 PRIMAL KILLING TIME @祐天寺FJ's
-2008/12/09 篠田昌巳生誕50周年 @吉祥寺Star Pine's Cafe
+2008/12/09 篠田昌巳生誕50周年 @吉祥寺STAR PINE'S CAFE
 2008/12/14 Uz Jsme Doma,Bondage Fruit @秋葉原Club Goodman
 2008/12/15 fresh,ハルキゲニア,Pavel Fajt @秋葉原Club Goodman
 2008/12/19 猿リンガム @大泉学園 in F
