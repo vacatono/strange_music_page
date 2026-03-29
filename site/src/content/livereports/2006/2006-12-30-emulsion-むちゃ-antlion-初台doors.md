@@ -7,4 +7,7 @@ artists:
   - emulsion
   - むぢゃ
   - ANT LION
+  - 金澤美也子
+  - 鈴木一奈美
+  - DiE
 ---
