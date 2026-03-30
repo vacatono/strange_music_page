@@ -4,19 +4,42 @@ date: 2014-03-29
 venue: "川崎CLUB CITTA'"
 source: 'wordpress'
 artists:
-  - 'そうる透'
-  - '上野洋子'
-  - '五十嵐久勝'
+  - Moon Dancer
+  - Stella Lee Jones
+  - Yuka & Chronoship
+  - 新月
+  - NOVELA
+  - '厚見玲衣'
+  - '沢村拓'
+  - '下田展久'
+  - '土屋敏寛'
+  - '平田聡'
+  - '入山ひとみ'
+  - '佐野俊介'
+  - '谷本朋翼'
+  - 'くどうげんた'
   - '佐々木絵実'
   - '佐藤真也'
-  - '厚見玲衣'
-  - '平田聡'
-  - '永川敏郎'
   - '津田治彦'
-  - '船越由佳'
   - '花本彰'
-  - '谷本朋翼'
+  - '上野洋子'
+  - '鈴木静生'
+  - '高橋直哉'
+  - '安谷屋真之'
+  - '磯江俊道'
+  - 'A.m.u.'
+  - '船越由佳'
+  - '田口俊'
+  - '宮澤崇'
+  - '田中一光'
   - '難波弘之'
+  - 'そうる透'
+  - '松本慎二'
+  - '五十嵐久勝'
+  - '永川敏郎'
+  - '日下部正則'
+  - '山口昌人'
+  - '寺沢功一'
 ---
 
 ![IMG_0008](http://vacatono.flop.jp/wp/wp-content/uploads/2014/03/IMG_0008-300x222.jpg)
@@ -31,18 +54,18 @@ artists:
 
 ムーンダンサーは5/18に高円寺HIGHで対バンにタキオン(ベースしか変わらないけど)でライブ、4/4にはムーンダンサーとタキオンのアルバムが再発（最初は[BRIDGE](http://bridge.shop-pro.jp/?pid=68347856)のみ、後で一般流通とか）その後ライブ音源などのリリースの予定が有るとか、SIREN!のライブとか出るかのかなぁ。
 
-1\. Yellow Dog  
-2\. Fly Up!  
-3\. ダディ・マイケルの犯罪  
-4\. 鏡の中の少女  
-5\. 哀しみのキャンドル  
-6\. 薔薇心中  
-7\. アラベスク
+1. Yellow Dog
+2. Fly Up!
+3. ダディ・マイケルの犯罪
+4. 鏡の中の少女
+5. 哀しみのキャンドル
+6. 薔薇心中
+7. アラベスク
 
-厚見玲衣 (keyboards, vocals)  
-沢村拓 (guitars, vocals)  
-下田展久 (bass, vocals)  
-土屋敏寛 (drums)
+- 厚見玲衣 (keyboards, vocals)
+- 沢村拓 (guitars, vocals)
+- 下田展久 (bass, vocals)
+- 土屋敏寛 (drums)
 
 #### Stella Lee Jones
 
@@ -52,37 +75,37 @@ Synapseの中でピアノ(佐藤さん)～ギター(平田さん)～バイオリ
 いつも観てる時は何とも思わないのですが、この王道プログレバンドばかりのフェスの中ではやっぱり異色に聴こえます。他のバンド観に来た方にも強い印象を残せたのではないかなーと思います。個人的にもやはりベストでした。  
 ちなみに5/10に吉祥寺Silver Elephantでワンマンライブが有ります。今回の影響で動員が増えてることを祈ります。
 
-1\. Clouds  
-2\. Salar de Uyuni  
-3\. Parallel Railways  
-4\. Synapse  
-5\. 15th Warriors
+1. Clouds
+2. Salar de Uyuni
+3. Parallel Railways
+4. Synapse
+5. 15th Warriors
 
-平田聡 (guitars)  
-佐藤真也 (piano, keyboards)  
-佐々木絵実 (accordion)  
-入山ひとみ (violin)  
-佐野俊介 (bass)  
-谷本朋翼 (drums)  
-くどうげんた (percussions)
+- 平田聡 (guitars)
+- 佐藤真也 (piano, keyboards)
+- 佐々木絵実 (accordion)
+- 入山ひとみ (violin)
+- 佐野俊介 (bass)
+- 谷本朋翼 (drums)
+- くどうげんた (percussions)
 
 #### Yuka & Chronoship
 
 後ろには堂々とロジャー・ディーンによるバンドロゴ。  
 このバンドに関しては70年台プログレよりはNeo-Progressive Rockとか呼ばれてる辺り(個人的にはThe TangentとかFrost\*辺り)に似たような、洗練されたプログレかと思います。前回見た時にも思ったのですが、演奏も曲も文句のつけようが無いです。個人的な好みからは少し外れるのですが、ナマで見るとやっぱり良いなと思ってしまいます「Cutting Gravity」とか相当加工良いです。
 
-1\. Dance With Dinosaurs  
-2\. Ruler Of The Earth  
-3\. Cutting Gravity  
-4\. Beyond The Fence  
-5\. Water Reincarnation  
-6\. Hector  
-7\. KIRIBATI
+1. Dance With Dinosaurs
+2. Ruler Of The Earth
+3. Cutting Gravity
+4. Beyond The Fence
+5. Water Reincarnation
+6. Hector
+7. KIRIBATI
 
-船越由佳 (keyboarsd, vocals)  
-田口俊 (bass)  
-宮澤崇 (guitar)  
-田中一光（drums)
+- 船越由佳 (keyboarsd, vocals)
+- 田口俊 (bass)
+- 宮澤崇 (guitar)
+- 田中一光 (drums)
 
 #### 新月
 
@@ -94,23 +117,23 @@ Synapseの中でピアノ(佐藤さん)～ギター(平田さん)～バイオリ
 
 ちなみに会場売りで去年やった下北沢アレイホールでのライブの一部を収録したCD-Rを買ってきたのですが、1曲めの即興曲？が素晴らしすぎ。[YouTubeに上がってる](https://www.youtube.com/watch?v=n4CnlA-Duzo)ので是非。
 
-1\. 雨上がりの昼下がり  
-2\. 白唇  
-3\. 殺意への船出 part 1  
-4\. 殺意への船出 part 2  
-5\. 鬼  
-6\. せめて今宵は
+1. 雨上がりの昼下がり
+2. 白唇
+3. 殺意への船出 part 1
+4. 殺意への船出 part 2
+5. 鬼
+6. せめて今宵は
 
-津田治彦 (guitars)  
-花本彰 (keyboards)  
-鈴木静生 (bass)  
-高橋直哉 (drums)  
-安谷屋真之 (guitars)  
-磯江俊道 (keyboards)  
-五十嵐久勝 (vocals on "雨上がりの昼下がり","殺意への船出 part 1")  
-上野洋子 (vocals on "白唇", "殺意への船出 part 2", "鬼", "せめて今宵は")  
-A.m.u. (vocals on "白唇", "殺意への船出 part 2", "せめて今宵は")  
-直江実樹 (短波ラジオ on "殺意への船出 part 1", "殺意への船出 part 2")
+- 津田治彦 (guitars)
+- 花本彰 (keyboards)
+- 鈴木静生 (bass)
+- 高橋直哉 (drums)
+- 安谷屋真之 (guitars)
+- 磯江俊道 (keyboards)
+- 五十嵐久勝 (vocals on "雨上がりの昼下がり","殺意への船出 part 1")
+- 上野洋子 (vocals on "白唇", "殺意への船出 part 2", "鬼", "せめて今宵は")
+- A.m.u. (vocals on "白唇", "殺意への船出 part 2", "せめて今宵は")
+- 直江実樹 (短波ラジオ on "殺意への船出 part 1", "殺意への船出 part 2")
 
 #### 難波弘之 & SENSE OF WONDER
 
@@ -118,37 +141,37 @@ A.m.u. (vocals on "白唇", "殺意への船出 part 2", "せめて今宵は")
 まぁ「日本のプログレ」と言った時にはこの方を外すわけには行かないわけで、新譜の曲多めでの圧巻のステージでした。厚見さん程ではないのですが、アナログシンセがギュイギュイ鳴っております。  
 ちなみに結局「ゲスト枠」ってのは何の意味があったのかは良く分からず。
 
-1\. パーマーエルドリッチの三つの聖痕  
-2\. メッセージ  
-3\. 来るべき世界  
-4\. 虚無回廊  
-5\. でも誰もいない～骸骨を乗せた宇宙ステーション  
-6\. SLOW DOWN  
-7\. Dune
+1. パーマーエルドリッチの三つの聖痕
+2. メッセージ
+3. 来るべき世界
+4. 虚無回廊
+5. でも誰もいない～骸骨を乗せた宇宙ステーション
+6. SLOW DOWN
+7. Dune
 
-難波弘之 (keyboards, vocals)  
-そうる透 (drums, vocals)  
-松本慎二 (bass, voals)
+- 難波弘之 (keyboards, vocals)
+- そうる透 (drums, vocals)
+- 松本慎二 (bass, voals)
 
 #### NOVELA2014
 
 最後はノヴェラ(2014)…といってもオリジナルメンバーが五十嵐さんと永川さんだけ。平山照継さん抜きのノヴェラってどーなのよ？とか思ってたのですが、予想以上に（失礼な話ですが）バンドの音になってました。シェラザードなどではあまり演奏しない二期の楽曲を中心にということで。「Lunatic」「調べの森」「Rose Selavy」「永遠の輝き（スタジオ盤未収録）」「黎明」などなど。五十嵐さんは還暦過ぎ（この日の最年長らしい）とは思えない程のハイトーンボイス。  
 まぁ基本的にはハードロックなのですが、やっぱりコレはコレで盛り上がります。リアルタイムでは無いのですがノヴェラ良く聴いてた高校の頃を思い出しました。
 
-1\. Don't Stop  
-2\. Lunatic  
-3\. 調べの森  
-4\. Rose Selavy  
-5\. 永遠の輝き  
-6\. Nightmare  
-7\. 時の崖  
-8\. 黎明
+1. Don't Stop
+2. Lunatic
+3. 調べの森
+4. Rose Selavy
+5. 永遠の輝き
+6. Nightmare
+7. 時の崖
+8. 黎明
 
-五十嵐久勝 (vocals)  
-永川敏郎 (keyboards)  
-日下部正則 (guitars)  
-寺沢功一 (bass)  
-山口昌人 (drums)
+- 五十嵐久勝 (vocals)
+- 永川敏郎 (keyboards)
+- 日下部正則 (guitars)
+- 寺沢功一 (bass)
+- 山口昌人 (drums)
 
 というわけで開始4時で終了11時近かったので、結局7時間近かったでしょうか？流石にちょっと疲れましたが、これだけのバンドを一堂に見れて本当に楽しかったです。  
 超大御所バンドの中にStella Lee JonesとYuka & Chronoshipという割と新し目のバンドを入れて頂けたのが嬉しかったな。方向性はちょっと違いますしこの2バンドだけインストだったけど、国内プログレでもこんなバンドも居るのだよと、昔のバンド目当てに来た方にも見せることができたので。  
