@@ -1,6 +1,7 @@
 ---
 title: 'Rock in Opposition Japan 2014 (day2) @渋谷O-EAST'
 date: 2014-11-16
+venue: '渋谷O-EAST'
 source: 'wordpress'
 artists:
   - '来日公演'
