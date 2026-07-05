@@ -4,9 +4,25 @@ import HeaderSearch from '../components/HeaderSearch';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
 }
 
-const { title, description = 'strange music page - live memo archive 1993-' } = Astro.props;
+const { title, description = 'strange music page - live memo archive 1993-', image } = Astro.props;
+
+const siteUrl = Astro.site ? Astro.site.href.replace(/\/$/, '') : 'https://vacatono.github.io';
+const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+const currentUrl = new URL(Astro.url.pathname, siteUrl + basePath).href;
+
+let ogImageUrl = '';
+if (image) {
+  if (image.startsWith('http://') || image.startsWith('https://')) {
+    ogImageUrl = image;
+  } else {
+    // Astro.url (現在のページのURL) を基準に相対パスを解決する
+    const resolvedUrl = new URL(image, Astro.url);
+    ogImageUrl = `${siteUrl}${resolvedUrl.pathname}`;
+  }
+}
 ---
 <!DOCTYPE html>
 <html lang="ja">
@@ -16,6 +32,24 @@ const { title, description = 'strange music page - live memo archive 1993-' } = 
   <meta name="description" content={description} />
   <meta name="google-site-verification" content="F65o11uQ_aLPcFskDFrlBmaV5DRO2ee-RAtou8MVYgY" />
   <title>{title} | strange music page</title>
+  
+  <link rel="canonical" href={currentUrl} />
+  <link rel="icon" type="image/png" href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/favicon.png`} />
+  
+  <!-- OGPメタタグ -->
+  <meta property="og:site_name" content="strange music page" />
+  <meta property="og:title" content={`${title} | strange music page`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={currentUrl} />
+  {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+  <meta property="og:type" content="website" />
+
+  <!-- X (Twitter) カード設定 -->
+  <meta name="twitter:card" content={ogImageUrl ? "summary_large_image" : "summary"} />
+  <meta name="twitter:title" content={`${title} | strange music page`} />
+  <meta name="twitter:description" content={description} />
+  {ogImageUrl && <meta name="twitter:image" content={ogImageUrl} />}
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;700&family=M+PLUS+1+Code&display=swap" rel="stylesheet" />

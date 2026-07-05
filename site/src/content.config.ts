@@ -10,6 +10,7 @@ const livereports = defineCollection({
     venue: z.string().optional(),
     artists: z.array(z.string()).optional(),
     setlist: z.array(z.string()).optional(),
+    image: z.string().optional(),
   }),
 });
 
