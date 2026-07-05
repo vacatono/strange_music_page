@@ -11,6 +11,7 @@ artists:
   - 関口太偲
   - 杉田翔
 source: 'manual'
+image: images/20260704-asturias.jpg
 ---
 
 AsturiasのYoutubeチャンネルで随分前から配信している「Healing Piano Collection」をまとめたアルバムの発売記念ライブ。
