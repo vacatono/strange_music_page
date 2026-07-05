@@ -10,9 +10,9 @@
   --color-text: #003366;
   --color-text-muted: #64748b;
   --color-text-heading: #002244;
-  --color-accent: #006666;
-  --color-accent-hover: #008888;
-  --color-accent-subtle: rgba(0, 102, 102, 0.05);
+  --color-accent: #0066cc;
+  --color-accent-hover: #004499;
+  --color-accent-subtle: rgba(0, 102, 204, 0.05);
   --color-tag-bg: #edf2f7;
   --color-tag-text: #4a5568;
   --font-body: sans-serif;
@@ -55,6 +55,7 @@ a {
 
 a:hover {
   color: var(--color-accent-hover);
+  text-decoration: underline;
 }
 
 img {
@@ -317,7 +318,6 @@ main.container {
 .report-body h3 {
   font-size: 1.05rem;
   font-weight: 600;
-  color: var(--color-accent);
   margin: 1.5rem 0 0.5rem;
 }
 
