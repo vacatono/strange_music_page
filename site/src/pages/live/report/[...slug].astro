@@ -18,11 +18,8 @@ const dateStr = report.data.date ? report.data.date.toISOString().slice(0, 10) :
 const year = report.data.date ? report.data.date.getFullYear() : '不明';
 const title = report.data.title || '無題';
 
-// 本文から最初の画像URLを抽出 (Markdown形式: `![alt](url)` もしくは HTML形式: `<img src="url">`)
-const mdImageMatch = report.body?.match(/!\[.*?\]\((.*?)\)/);
-const htmlImageMatch = report.body?.match(/<img\s+[^>]*src=["']([^"']+)["']/);
-const firstImage = mdImageMatch ? mdImageMatch[1] : (htmlImageMatch ? htmlImageMatch[1] : undefined);
-const image = report.data.image || firstImage;
+// フロントマターの画像アセットから最適化後の画像URL（src）を取得
+const image = report.data.image?.src;
 ---
 
 <BaseLayout title={title} description={`${dateStr} ${title} - live memo`} image={image}>
