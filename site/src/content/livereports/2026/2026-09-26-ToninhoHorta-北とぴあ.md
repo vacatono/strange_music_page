@@ -1,6 +1,6 @@
 ---
 title: Jazz in Hokutopia Vol.4 Toninho Horta @ 北とぴあ
-date: 2026-08-26
+date: 2026-09-26
 venue: 北とぴあ
 artists:
   - Toninho Horta
