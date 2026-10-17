@@ -16,5 +16,5 @@ artists:
 - Casimir Liberski (keyboards, piano)
 - 吉田達也 (drums)
 
-![](./images/20261017-01.jpg)
-![](./images/20261017-02.jpg)
+![](./images/20261017-01.JPG)
+![](./images/20261017-02.JPG)
